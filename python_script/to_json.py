@@ -18,7 +18,11 @@ def to_json(filepath):
     if extension == '.xls' or extension == '.xlsx':
         df = pd.read_excel(filepath)
     elif extension == '.csv':
-        df = pd.read_csv(filepath, index_col=0)
+        try:
+            df = pd.read_csv(filepath)
+            df.drop(df.filter(regex="Unname"),axis=1, inplace=True)
+        except Exception as e:
+            print(e)
     elif extension == '.jsonl':
         df = pd.DataFrame(read_jsonl(filepath))
     elif extension == '.json':
@@ -41,7 +45,3 @@ for dir in os.listdir(path):
             to_json(filepath).to_json(path_to_save)
         except:
             print(filepath)
-# for file in os.listdir(to_path):
-#     filepath = f"{to_path}/{file}"
-#     filename = '.'.join(filepath.split("/")[-1].split(".")[: - 1])
-#     pd.read_json(filepath).to_csv(csv_path + '/' + filename + '.csv', index=False)
