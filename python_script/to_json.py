@@ -19,7 +19,7 @@ def to_json(filepath):
         df = pd.read_excel(filepath)
     elif extension == '.csv':
         try:
-            df = pd.read_csv(filepath)
+            df = pd.read_csv(filepath, encoding='ISO-8859-1')
             df.drop(df.filter(regex="Unname"),axis=1, inplace=True)
         except Exception as e:
             print(e)
