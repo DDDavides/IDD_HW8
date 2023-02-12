@@ -20,13 +20,13 @@ def to_json(filepath):
     elif extension == '.csv':
         try:
             df = pd.read_csv(filepath, encoding='ISO-8859-1')
-            df.drop(df.filter(regex="Unname"),axis=1, inplace=True)
         except Exception as e:
             print(e)
     elif extension == '.jsonl':
         df = pd.DataFrame(read_jsonl(filepath))
     elif extension == '.json':
         df = pd.read_json(filepath)
+    df.drop(df.filter(regex="Unnamed"),axis=1, inplace=True)
     return df
 
 path = "./datasets"
