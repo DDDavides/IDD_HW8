@@ -29,9 +29,9 @@ def to_json(filepath):
     df.drop(df.filter(regex="Unnamed"),axis=1, inplace=True)
     return df
 
-path = "../datasets"
-to_path = '../json_datasets'
-csv_path = '../csv_datasets'
+path = "./datasets"
+to_path = './json_datasets'
+csv_path = './csv_datasets'
 for dir in os.listdir(path):
     dirpath = f"{path}/{dir}"
     if os.path.isfile(dirpath):
