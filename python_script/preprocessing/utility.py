@@ -1,8 +1,9 @@
-import os 
 import pandas as pd
+import os 
 import json
 from cleanDataframe import *
 
+# legge jsonl riportando una lista di json object
 def read_jsonl(filepath):
     with open(filepath, 'r') as json_file:
         json_list = list(json_file)
@@ -12,7 +13,9 @@ def read_jsonl(filepath):
         result.append(json.loads(json_str))
     return result
 
-def fromDBpathToDataframeCleaned(filepath):
+# Questa funzione legge dataset da path e riporta il dataframe associato droppando la colonna unnamed se presente
+# Formati accettati: .xls .xlsx .csv .jsonl .json
+def fromDBpathToDataframe(filepath):
     extension = os.path.splitext(filepath)[1]
     df = None
 
@@ -28,25 +31,14 @@ def fromDBpathToDataframeCleaned(filepath):
     elif extension == '.json':
         df = pd.read_json(filepath)
 
-    cleanDataframeRows(df)
     df.drop(df.filter(regex="Unnamed"),axis=1, inplace=True)
     return df
 
-path = "./datasets"
-to_path = './json_datasets'
-csv_path = './csv_datasets'
-for dir in os.listdir(path):
-    dirpath = f"{path}/{dir}"
-    if os.path.isfile(dirpath):
-        continue
-    
-    # trasforma tutti i dataset in formato json
-    for file in os.listdir(dirpath):
-        filepath = f"{dirpath}/{file}"
-        filename = os.path.splitext(file)[0]
-        path_to_save = f"{to_path}/{dir}-{filename}.json" 
-        try:
-            # prima pulisci il db e poi trasformalo in json
-            fromDBpathToDataframeCleaned(filepath).to_json(path_to_save)
-        except:
-            print(filepath)
+# legge il dataset da path e riporta il dataframe associato 
+#       1. Senza l'eventuale colonna Unnamed 
+#       2. Con pulizia dei dati (no spazi inutili, senza \n e \r)
+# N.B. le estensioni permesse sono: .xls .xlsx .csv .jsonl .json
+def fromDBpathToDataframeCleaned(filepath):
+    df = fromDBpathToDataframe(filepath)
+    cleanDataframeRows(df)
+    return df
