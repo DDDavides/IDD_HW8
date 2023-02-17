@@ -1,6 +1,7 @@
 import os 
 import pandas as pd
 import json
+from cleanDataframe import *
 
 def read_jsonl(filepath):
     with open(filepath, 'r') as json_file:
@@ -11,7 +12,7 @@ def read_jsonl(filepath):
         result.append(json.loads(json_str))
     return result
 
-def to_json(filepath):
+def fromDBpathToDataframeCleaned(filepath):
     extension = os.path.splitext(filepath)[1]
     df = None
 
@@ -26,6 +27,8 @@ def to_json(filepath):
         df = pd.DataFrame(read_jsonl(filepath))
     elif extension == '.json':
         df = pd.read_json(filepath)
+
+    cleanDataframeRows(df)
     df.drop(df.filter(regex="Unnamed"),axis=1, inplace=True)
     return df
 
@@ -36,12 +39,14 @@ for dir in os.listdir(path):
     dirpath = f"{path}/{dir}"
     if os.path.isfile(dirpath):
         continue
-
+    
+    # trasforma tutti i dataset in formato json
     for file in os.listdir(dirpath):
         filepath = f"{dirpath}/{file}"
         filename = os.path.splitext(file)[0]
         path_to_save = f"{to_path}/{dir}-{filename}.json" 
         try:
-            to_json(filepath).to_json(path_to_save)
+            # prima pulisci il db e poi trasformalo in json
+            fromDBpathToDataframeCleaned(filepath).to_json(path_to_save)
         except:
             print(filepath)
