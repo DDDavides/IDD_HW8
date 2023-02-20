@@ -1,0 +1,1051 @@
+id_1,id_2,l_name,l_country,l_market cap,l_founded year,l_employees,l_industry,l_sector,l_ceo,l_revenue,l_stock,l_share price,l_city,l_address,l_website,r_name,r_country,r_market cap,r_founded year,r_employees,r_industry,r_sector,r_ceo,r_revenue,r_stock,r_share price,r_city,r_address,r_website,label
+152555,98899,kadokawa,japan,$2.56 b,,,,,,,,$18.39,,,,rakuten,japan,$7.29 b,,,,,,,,$4.59,,,,0
+165291,15209,cbiz,usa,$2.39 b,,,,,,,,$47.03,,,,interdigital,usa,,,,,,,,,58,,,,0
+114195,13333,tpg real estate finance trust,usa,$0.62 b,,,,,,,,$8.11,,,,affiliated managers group,usa,,,,,,,,,165,,,,0
+152298,87019,sl green realty,usa,$2.45 b,,,,,,,,$38.05,,,,merchants bancorp,usa,,,,,,,,,$25.37,,,,0
+119788,117618,eurostar group limited,united kingdom,,,,,,,,,,london,6th floor kings place 90 york way,,baird group limited,united kingdom,,,,,,,,,,leeds,2100 century way thorpe park,,0
+99608,84397,maximus,usa,$4.43 b,,,,,,,,$72.90,,,,karuna therapeutics,usa,,,,,,,,,$200.75,,,,0
+22227,1441,baozun,china,$0.26 b,,,,,,,,$4.57,,,,bank of nanjing,china,14.440 billion usd,,,,,,,,,,,,0
+113682,27242,shriram pistons & rings,india,$0.32 b,,,,,,,,$14.78,,,,grabon,india,,2013,54.0,advertising,,,5.39,,,,,,0
+117539,97045,"getty images, inc.",united states,,,,,,,,,,seattle,605 5th ave s ste 400,,warner music group corp.,united states,$19.21 b,,,entertainment,communication services,,,wmg,,,,,0
+157280,86065,celsion corporation,usa,$13.91 m,,,,,,,,$1.96,,,,cedar fair,usa,,,,,,,,,$41.91,,,,0
+96862,96111,"stanley black & decker, inc.",united states,$23.57 b,,,tools accessories,industrials,,,swk,,,,,the procter & gamble company,united states,$384.60 b,,,household personal products,consumer staples,,,pg,,,,,0
+171161,28850,audiosalus,italy,,2011,12.0,,retail,,1569480,,,,,,studio eko’,italy,,2011,10.0,management consulting,,,1740660,,,,,,0
+114044,60068,hyster-yale materials handling,usa,$0.52 b,,,,,,,,$31.22,,,,tpg inc.,usa,,1992,,asset management investments financial services,,not found,not found,,,,,,0
+58892,11844,kenedix office investment corporation,japan,,not found,,real estate property investments,,not found,229 million usd,,,,,,hoya,japan,,,,,,,,,95,,,,0
+164614,102828,h.b. fuller,usa,$3.69 b,,,,,,,,$68.85,,,,f45 training,usa,$0.32 b,,,,,,,,$3.33,,,,0
+15438,6790,grosvenor capital management,usa,,,,,,,,,8,,,,"globalstar, inc.",usa,3.568 billion usd,,,,,,,,,,,,0
+102556,6849,vigil neuroscience,usa,$0.44 b,,,,,,,,$12.50,,,,cal-maine foods,usa,1.767 billion usd,,,,,,,,,,,,0
+111701,103592,apartment income reit,usa,$5.43 b,,,,,,,,$36.25,,,,westwood holdings group,usa,$91.78 m,,,,,,,,$10.91,,,,0
+144495,9081,souche holdings,china,,2012,,ecommerce directtoconsumer,,,,,,hangzhou,,,hainan yedao (group),china,1.183 billion usd,,,,,,,,,,,,0
+157614,9224,u.s. gold corp,usa,$42.57 m,,,,,,,,$5.09,,,,ready capital corporation,usa,1.094 billion usd,,,,,,,,,,,,0
+102146,7031,atn international,usa,$0.66 b,,,,,,,,$42.38,,,,hni corporation,usa,1.662 billion usd,,,,,,,,,,,,0
+97357,87141,adani enterprises,india,$55.94 b,,,,,,,,$49.07,,,,graphite india,india,,,,,,,,,$4.66,,,,0
+89474,55056,precipio,usa,,,,,,,,,$0.77,,,,bruker corporation,usa,,1960,,healthcare biotechnology medical equipment technology capital goods,,not found,2417 million usd,,,,,,0
+148957,144492,alphasense,united states,,,,artificial intelligence,,,,,,new york,,,verkada,united states,,2016,,cybersecurity,,,,,,san mateo,,,0
+85647,3976,wsfs financial,usa,,,,,,,,,$48.69,,,,hudson pacific properties,usa,4.051 billion usd,,,,,,,,,,,,0
+65049,2710,china national nuclear power,china,,,,,,,$9.6 b,,,,,,china greatwall technology group,china,6.470 billion usd,,,,,,,,,,,,0
+119850,18830,"aemetis, inc.",united states,,,,,,,,,,cupertino,20400 stevens creek blvd ste 700,,"avis budget group, inc.",united states,$18.12 billion,2006,16000.0,rental leasing services,industrials,mr. joseph a. ferraro,us$9.172 billion 2019,,,,,,0
+59162,23225,overstock.com,usa,,1997,,consumer cyclical consumer services retail internet or mobile app based business ecommerce,,not found,2756 million usd,,,,,,puretech health,usa,$0.95 b,,,,,,,,$33.00,,,,0
+166741,112911,iteos therapeutics,usa,$0.77 b,,,,,,,,$21.70,,,,sellas life sciences,usa,$67.32 m,,,,,,,,$3.27,,,,0
+166785,104020,maverix metals,canada,$0.74 b,,,,,,,,$5.00,,,,orosur mining,canada,$15.28 m,,,,,,,,$0.08000,,,,0
+110966,99305,otis worldwide,usa,$33.22 b,,,,,,,,$79.75,,,,lincoln national corporation,usa,$5.47 b,,,,,,,,$32.38,,,,0
+157604,19522,isoray,usa,$39.96 m,,,,,,,,$0.28,,,,oracle,usa,$212.40 b,,,,,,,,$78.78,,,,0
+99182,86243,ashland,usa,$5.92 b,,,,,,,,$109.24,,,,prokidney,usa,,,,,,,,,$8.43,,,,0
+88940,55346,relmada therapeutics,usa,,,,,,,,,$4.12,,,,levi strauss & co,usa,,1853,,consumer cyclical readymade clothing clothing retail apparels and accessories,,not found,5763 million usd,,,,,,0
+118109,68425,renovo bioeconomy spa,italy,,,,,,,,,,mantova,via pietro verri 1,,aferetica,italy,,2013,,,health,,,,,,,,0
+29376,178,hj tiefbau,germany,,2011,45.0,construction,,,8.3,,,,,,audi ag,germany,82.150 billion usd,,,,,,,,,,,,0
+104058,15916,aileron therapeutics,usa,$11.98 m,,,,,,,,$2.64,,,,innovage,usa,,,,,,,,,7,,,,0
+116174,12165,acom,japan,$3.72 b,,,,,,,,$2.38,,,,komatsu,japan,,,,,,,,,21,,,,0
+114527,11837,hireright,usa,$0.90 b,,,,,,,,$11.35,,,,electronic arts,usa,,,,,,,,,124,,,,0
+158946,54304,smartrent,usa,$0.56 b,,,,,,,,$2.84,,,,jm family enterprises,usa,,1968,,not found,,brent burns,16300 million usd,,,,,,0
+149377,8214,china cloud,china,,,,hardware,,,,,,wuxi,,,medbanks,china,7693,,,,,,,,,,,,0
+103846,13502,maia biotechnology,usa,$36.44 m,,,,,,,,$3.33,,,,exelixis,usa,,,,,,,,,17,,,,0
+158993,88590,solo brands,usa,$0.26 b,,,,,,,,$4.22,,,,planet13,usa,,,,,,,,,$1.00,,,,0
+143587,102956,chehaoduo,china,,2015,,ecommerce directtoconsumer,,,,,,beijing,,,friendtimes,china,$0.27 b,,,,,,,,$0.13,,,,0
+162869,56075,mgm resorts,usa,$14.99 b,,,,,,,,$39.05,,,,cadence bancorporation,usa,,1885,,financial services banking services,,not found,1183 million usd,,,,,,0
+83220,57403,the trade desk,usa,,,,,,,,,$47.03,,,,progyny,usa,,2008,,healthcare healthcare service healthcare technology and information,,not found,500 million usd,,,,,,0
+101161,86914,knowles,usa,$1.51 b,,,,,,,,$16.71,,,,orion engineered carbons,usa,,,,,,,,,$19.75,,,,0
+165435,56334,dr lal pathlabs,india,$2.14 b,,,,,,,,$25.92,,,,vodafone idea limited,india,,2018,,telecom mobile services internet providers fixed line service,,not found,4819 million usd,,,,,,0
+157989,21672,tattooed chef,usa,$0.12 b,,,,,,,,$1.50,,,,flexsteel industries,usa,$79.15 m,,,,,,,,$15.01,,,,0
+112952,112026,lmp automotive holdings,usa,$81.7 m,,,,,,,,$7.49,,,,pediatrix medical group,usa,$1.26 b,,,,,,,,$15.20,,,,0
+167162,162285,alta equipment group,usa,$0.51 b,,,,,,,,$15.97,,,,paccar,usa,$34.49 b,,,,,,,,$99.19,,,,0
+6769,4076,srf,india,8.005 billion usd,,,,,,,,,,,,indian railway finance corporation limited,india,4.217 billion usd,,,,,,,,,,,,0
+101562,9197,eckert & ziegler,germany,$1.11 b,,,,,,,,$53.15,,,,morphosys ag,germany,2.013 billion usd,,,,,,,,,,,,0
+73120,68259,otl - online trainer,germany,,2015,,,health,,6607564,,,,,,careful-service,germany,,2014,,,health,,,,,,,,0
+59440,15235,commscope holding company,usa,,1976,,technology communications equipment,,not found,8586 million usd,,,,,,delek us,usa,,,,,,,,,24,,,,0
+156353,23227,treace medical concepts,usa,$1.46 b,,,,,,,,$26.35,,,,napco security technologies,usa,$0.95 b,,,,,,,,$25.92,,,,0
+85970,8056,kingnet network,china,,,,,,,,,$1.13,,,,gosuncn technology group,china,1.069 billion usd,,,,,,,,,,,,0
+158006,783,yunji,china,$0.12 b,,,,,,,,$0.60,,,,goertek,china,24.526 billion usd,,,,,bin jiang,,,,,,,0
+152593,103036,mdc holdings,usa,$2.61 b,,,,,,,,$36.68,,,,planet13,usa,$0.24 b,,,,,,,,$1.11,,,,0
+167675,114304,daseke,usa,$0.28 b,,,,,,,,$6.30,,,,clear channel outdoor,usa,$0.71 b,,,,,,,,$1.51,,,,0
+169781,99262,kubota corp,japan,,,,farm heavy construction machinery,industrials,,,6326,,,,,ibiden,japan,$5.60 b,,,,,,,,$39.92,,,,0
+28162,12773,property data bank,japan,,2000,64.0,technology,,,16.95,,,,,,suntory,japan,,,,,,,,,33,,,,0
+84800,23522,assai atacadista,brazil,,,,,,,,,$19.50,,,,3r petroleum,brazil,$1.29 b,,,,,,,,$6.40,,,,0
+97384,25840,mckesson,usa,$52.79 b,,,,,,,,$372.31,,,,targa resources,usa,$15.52 b,,,,,,,,$68.57,,,,0
+161893,156529,amd,usa,$112.97 b,,,,,,,,$70.07,,,,opal fuels,usa,$1.21 b,,,,,,,,$6.99,,,,0
+101334,100701,aether industries,india,$1.33 b,,,,,,,,$10.74,,,,fine organics,india,$2.15 b,,,,,,,,$70.23,,,,0
+86046,25646,mgp ingredients,usa,,,,,,,,,$104.56,,,,equitable holdings,usa,$11.35 b,,,,,,,,$30.69,,,,0
+115342,26590,csw industrials,usa,$1.89 b,,,,,,,,$122.36,,,,nvidia,usa,$401.71 b,,,,,,,,$161.20,,,,0
+84977,3629,parsons,usa,,,,,,,,,$44.82,,,,onto innovation,usa,3.652 billion usd,,,,,,,,,,,,0
+111856,103038,appian,usa,$2.80 b,,,,,,,,$38.61,,,,southern states bancshares,usa,$0.24 b,,,,,,,,$28.05,,,,0
+166858,88085,mediaalpha,usa,$0.69 b,,,,,,,,$11.47,,,,alpine immune sciences,usa,,,,,,,,,$8.75,,,,0
+162643,456,j. b. hunt,usa,$19.61 b,,,,,,,,$189.10,,,,msci,usa,52.316 billion usd,,,,,henry a. fernandez,,,,,,,0
+165224,158402,rogers corporation,usa,$2.50 b,,,,,,,,$132.98,,,,luna innovations,usa,$0.31 b,,,,,,,,$9.41,,,,0
+170957,8129,cgn power co. ltd,china,$19.25 b,,,utilitiesindependent power producers,utilities,,,003816,,,,,bordrin,china,7693,,,,,,,,,,,,0
+165315,110848,nexpoint residential,usa,$2.35 b,,,,,,,,$45.57,,,,hilton worldwide,usa,$38.24 b,,,,,,,,$141.42,,,,0
+166801,103726,hanger,usa,$0.73 b,,,,,,,,$18.72,,,,vtv therapeutics,usa,$59.48 m,,,,,,,,$0.73,,,,0
+61300,24783,liberty braves group,usa,,not found,,communication services entertainment media,,not found,568 million usd,,,,,,maximus,usa,$4.23 b,,,,,,,,$69.61,,,,0
+156524,2936,huya,china,$1.22 b,,,,,,,,$5.11,,,,fangda carbon new material technology,china,6.862 billion usd,,,,,,,,,,,,0
+165320,13236,globalstar,usa,$2.34 b,,,,,,,,$1.30,,,,first industrial realty trust,usa,,,,,,,,,49,,,,0
+100817,85072,rocket lab,usa,$1.94 b,,,,,,,,$4.12,,,,hancock whitney,usa,,,,,,,,,$50.97,,,,0
+120175,71192,"ashly audio, inc.",united states,,,,,,,,,,webster,847 holt rd,,albertsons,united states,$15.57 b,,,,,,,,,,,,0
+16797,12046,bionano genomics,usa,,,,,,,,,1,,,,firstenergy,usa,,,,,,,,,42,,,,0
+99502,6808,coca-cola consolidated,usa,$4.78 b,,,,,,,,$510.98,,,,weatherford international plc,usa,1.105 billion usd,,,,,,,,,,,,0
+83755,24709,chesapeake energy,usa,,,,,,,,,$91.21,,,,cvb financial,usa,$3.81 b,,,,,,,,$27.30,,,,0
+21981,20221,whole earth brands,usa,$0.17 b,,,,,,,,$4.21,,,,boston beer company,usa,$4.41 b,,,,,,,,$359.02,,,,0
+169494,109963,public service enterprise group incorporated,united states,,,,utilitiesdiversified,utilities,,,peg,,,,,ball corporation,united states,$29.40 b,1880,24300.0,packaging containers,consumer discretionary,mr. john a. hayes,,bll,,,,,0
+59737,23772,biocryst pharmaceuticals,usa,,1986,,healthcare pharmaceutical healthcare products biotechnology technology,,not found,157 million usd,,,,,,day one biopharmaceuticals,usa,$1.61 b,,,,,,,,$22.00,,,,0
+20989,16911,annexon,usa,$0.25 b,,,,,,,,$5.41,,,,huuuge,usa,,,,,,,,,5,,,,0
+153426,6433,watts water technologies,usa,$5.24 b,,,,,,,,$157.42,,,,xenia hotels & resorts,usa,1.986 billion usd,,,,,,,,,,,,0
+56427,8446,rayonier,usa,,1926,,real estate consumer services wood products property investments,,not found,1109 million usd,,,,,,"indie semiconductor, inc.",usa,1.314 billion usd,,,,,,,,,,,,0
+157357,87614,ozon,usa,,,,,,,,,,,,,kaman,usa,,,,,,,,,$23.48,,,,0
+30906,30741,pitchup.com,united kingdom,,2008,10.0,travel leisure,,,3.79,,,,,,sian wholesale,united kingdom,,2003,30.0,personal household goods,,,46.00,,,,,,0
+111364,13212,conagra brands,usa,$18.26 b,,,,,,,,$38.12,,,,assurant,usa,,,,,,,,,129,,,,0
+73184,31011,dw trans,france,,2012,,,transport,,9485173,,,,,,sellsy,france,,2009,69.0,technology,,,4.59,,,,,,0
+167958,56717,citius pharmaceuticals,usa,$0.20 b,,,,,,,,$1.38,,,,navistar international corporation,usa,,1986,,industries automobile capital goods heavy machinery trucks bus manufacturing engines manufacturing,,not found,not found,,,,,,0
+115052,3344,amplitude,usa,$1.48 b,,,,,,,,$13.16,,,,sofi,usa,3190,,,,,,,,,,,,0
+153190,55906,tmbthanachart bank (ttb),thailand,$4.19 b,,,,,,,,$0.04000,,,,central pattana public company,thailand,,1980,,real estate property investments construction commercial properties investments hotels,,not found,708 million usd,,,,,,0
+103903,24098,nanthealth,usa,$27.18 m,,,,,,,,$0.24,,,,kennedy wilson,usa,$2.21 b,,,,,,,,$16.05,,,,0
+23999,15657,mercury general,usa,$1.99 b,,,,,,,,$36.10,,,,heartland express,usa,,,,,,,,,16,,,,0
+9208,3958,just group plc,uk,1.346 billion usd,,,,,,,,,,,,man group,uk,4.300 billion usd,,,,,,,,,,,,0
+97173,55014,netflix,usa,$141.44 b,,,,,,,,$317.83,,,,watsco,usa,,1956,,industries home appliances air conditioners heating equipment refrigerators,,not found,6280 million usd,,,,,,0
+117829,71358,cnx resources corporation,united states,,,,,,,,,,canonsburg,1000 consol energy dr ste 400,,jackson financial,united states,$3.93 b,,,,,,,,,,,,0
+170485,55015,"tokio marine holdings, inc.",japan,$36.99 b,,,insuranceproperty casualty,financials,,,8766,,,,,nitto denko corporation,japan,,1918,,basic materials chemicals,,not found,6228 million usd,,,,,,0
+162469,4271,veeva systems,usa,$25.28 b,,,,,,,,$162.44,,,,cargurus,usa,3.566 billion usd,,,,,,,,,,,,0
+154320,151477,huazhu hotels,china,$14.42 b,,,,,,,,$45.45,,,,china minsheng banking,china,25.65 billion usd,1996.0,59262.0,,,zheng wanchun,,,,,,,0
+111899,102455,sprinklr,usa,$2.29 b,,,,,,,,$8.79,,,,hudson technologies,usa,$0.49 b,,,,,,,,$11.08,,,,0
+133353,70661,huntsman,united states,,1970,9000.0,chemicals,,peter r. huntsman,$8.5b,,,,,,jpmorgan chase,united states,$374.45 b,,,,,,,,,,,,0
+17583,117,startek,usa,,,,,,,,,4,,,,boeing company,usa,128.660 billion usd,,,,,,,,,,,,0
+113415,58256,alembic limited,india,$0.22 b,,,,,,,,$0.88,,,,oil india,india,,1959,,energy oil and gas,,not found,3725 million usd,,,,,,0
+53921,20606,arthur j. gallagher,usa,,1927,,financial services insurance,,patrick gallagher,8209 million usd,,,,,,xpel,usa,$1.84 b,,,,,,,,$66.89,,,,0
+59142,17913,gabelli dividend & income trust,usa,,not found,,financial services asset management,,not found,561 million usd,,,,,,co-diagnostics,usa,,,,,,,,,3,,,,0
+112909,1712,radio city,india,$67 m,,,,,,,,$0.19,,,,sbi cards and payment services limited,india,14.840 billion usd,,,,,,,,,,,,0
+116644,109639,corporation service company,united states,,,,,,,,,,wilmington,251 little falls dr,,ergo science corp,united states,$55.23 b,,,staffing employment services,industrials,,,ergn,,,,,0
+101880,18416,bain capital,usa,$0.84 b,,,,,,,,$13.02,,,,bio-key international,usa,,,,,,,,,1,,,,0
+166720,114014,expensify,usa,$0.78 b,,,,,,,,$9.47,,,,circor international,usa,$0.50 b,,,,,,,,$24.82,,,,0
+97868,3615,quanta services,usa,$21.73 b,,,,,,,,$152.09,,,,varonis systems,usa,7.378 billion usd,,,,,,,,,,,,0
+89239,5384,vapotherm,usa,,,,,,,,,$1.95,,,,momentive global inc.,usa,2.876 billion usd,,,,,,,,,,,,0
+114330,56409,amc networks,usa,$0.73 b,,,,,,,,$17.11,,,,coca-cola consolidated,usa,,1902,,consumer defensive nonalcoholic beverages beverages,,not found,5562 million usd,,,,,,0
+159241,21533,redfin,usa,$0.68 b,,,,,,,,$6.34,,,,izea worldwide,usa,$41.25 m,,,,,,,,$0.66,,,,0
+88708,5126,cleanspark,usa,,,,,,,,,$2.58,,,,mantech international corporation,usa,3.221 billion usd,,,,,,,,,,,,0
+103758,16148,biolargo,usa,$52.64 m,,,,,,,,$0.19,,,,proterra,usa,,,,,,,,,4,,,,0
+112711,15689,aprea therapeutics,usa,$25.95 m,,,,,,,,$0.49,,,,imago biosciences,usa,,,,,,,,,36,,,,0
+148625,71270,aurora solar,united states,,,,internet software services,,,,,,san francisco,,,warner bros. discovery,united states,$49.91 b,,,,,,,,,,,,0
+89228,16166,virtra,usa,,,,,,,,,$5.02,,,,redwood trust,usa,,,,,,,,,7,,,,0
+97549,14526,las vegas sands,usa,$37.25 b,,,,,,,,$48.75,,,,american eagle outfitters,usa,,,,,,,,,15,,,,0
+166195,156232,guess,usa,$1.22 b,,,,,,,,$22.43,,,,proassurance,usa,$1.01 b,,,,,,,,$18.78,,,,0
+167479,87089,rayonier advanced materials,usa,$0.36 b,,,,,,,,$5.68,,,,first watch restaurant,usa,,,,,,,,,$16.08,,,,0
+11788,11392,sika,switzerland,,,,,,,,,249,,,,novartis,switzerland,,,,,,,,,92,,,,0
+87610,58487,gujarat alkalies and chemicals,india,,,,,,,,,$9.00,,,,corporation bank,india,,not found,,financial services banking services,,not found,2103 million usd,,,,,,0
+84462,26164,ingredion,usa,,,,,,,,,$100.15,,,,oneok,usa,$28.53 b,,,,,,,,$63.85,,,,0
+62533,4499,beijing ctrowell technology corporation,china,,not found,,technology technology hardware and instruments,,not found,not found,,,,,,bank of suzhou,china,3.445 billion usd,,,,,,,,,,,,0
+15605,4343,ourpalm,china,,,,,,,,,0,,,,zhe jiang hai liang co. ltd,china,3.316 billion usd,,,,,,,,,,,,0
+14757,8656,matson,usa,,,,,,,,,64,,,,andersons,usa,1.011 billion usd,,,,,,,,,,,,0
+158127,153158,atomera,usa,$0.16 b,,,,,,,,$6.81,,,,yeti holdings,usa,$3.78 b,,,,,,,,$43.94,,,,0
+59348,53374,urban edge properties,usa,,2015,,real estate financial services investments property investments,,not found,425 million usd,,,,,,intuit,usa,,1983,,technology software and it software products,,suzanne nora johnson,12726 million usd,,,,,,0
+23659,8720,cinemark theatres,usa,$1.44 b,,,,,,,,$12.02,,,,1st source corporation,usa,1.175 billion usd,,,,,,,,,,,,0
+56071,1074,lepu medical technology (beijing),china,,1999,,healthcare medical equipment healthcare products,,not found,1551 million usd,,,,,,wens foodstuff group,china,12.581 billion usd,,,,,,,,,,,,0
+116238,99091,first interstate bancsystem,usa,$3.95 b,,,,,,,,$37.91,,,,agree realty,usa,$6.33 b,,,,,,,,$71.23,,,,0
+84521,20355,corporate office properties trust,usa,,,,,,,,,$27.99,,,,advanced energy,usa,$3.36 b,,,,,,,,$89.89,,,,0
+86538,59979,chimera investment corporation,usa,,,,,,,,,$6.84,,,,impinj,usa,,2000,,technology capital goods communications equipment,,not found,190 million usd,,,,,,0
+112479,87958,ampio pharmaceuticals,usa,$4.07 m,,,,,,,,$0.27,,,,marine products corporation,usa,,,,,,,,,$13.61,,,,0
+99250,88990,woodward,usa,$5.68 b,,,,,,,,$95.11,,,,barnes & noble education,usa,,,,,,,,,$2.11,,,,0
+87196,16151,proassurance,usa,,,,,,,,,$18.92,,,,republic bank,usa,,,,,,,,,42,,,,0
+148762,61494,xinchao media,china,,,,internet software services,,,,,,chengdu,,,luojilab,china,,2012,,not found,,not found,not found,,,,,,0
+18099,14318,american virtual cloud,usa,,,,,,,,,1,,,,eastern bankshares,usa,,,,,,,,,18,,,,0
+99358,85632,exponent,usa,$5.30 b,,,,,,,,$104.71,,,,liberty energy,usa,,,,,,,,,$16.59,,,,0
+115004,114101,goosehead insurance,usa,$1.42 b,,,,,,,,$36.66,,,,diamond hill investment group,usa,$0.56 b,,,,,,,,$186.29,,,,0
+102536,23412,doubledown interactive,usa,$0.45 b,,,,,,,,$9.20,,,,compass,usa,$1.14 b,,,,,,,,$2.64,,,,0
+57533,22875,livent corporation,usa,,2018,,basic materials chemicals,,not found,420 million usd,,,,,,barrett business services,usa,$0.66 b,,,,,,,,$95.57,,,,0
+23462,3650,tg therapeutics,usa,$1.20 b,,,,,,,,$8.31,,,,schneider national,usa,4.004 billion usd,,,,,,,,,,,,0
+163608,155250,procore,usa,$7.35 b,,,,,,,,$53.31,,,,yum! brands,usa,$36.76 b,,,,,,,,$130.52,,,,0
+90800,71507,csx corporation,united states,,,,,industrials,,,csx,,,,,moody's,united states,$59.77 b,,,,,,,,,,,,0
+155909,83694,yext,usa,$0.81 b,,,,,,,,$6.70,,,,aspentech,usa,,,,,,,,,$200.74,,,,0
+9140,8826,hunan jiudian pharmaceutical,china,0.950 billion usd,,,,,,,,,,,,jiangxi ganyue expressway,china,1.202 billion usd,,,,,,,,,,,,0
+119123,90900,sony music entertainment,united states,,,,,,,,,,new york,25 madison ave,,ameren corporation,united states,,,,,utilities,,,aee,,,,,0
+166377,154917,american well,usa,$1.04 b,,,,,,,,$3.79,,,,keysight,usa,$33.60 b,,,,,,,,$187.97,,,,0
+104061,12338,chembio diagnostics,usa,$11.74 m,,,,,,,,$0.32,,,,jacobs engineering,usa,,,,,,,,,129,,,,0
+167588,15393,remedy entertainment,finland,$0.32 b,,,,,,,,$23.84,,,,vaisala,finland,,,,,,,,,42,,,,0
+26217,9782,ametek,usa,$32.26 b,,,,,,,,$140.48,,,,"hydrofarm holdings group, inc.",usa,2.221 billion usd,,,,,,,,,,,,0
+163159,84593,regency centers,usa,$11.05 b,,,,,,,,$64.35,,,,axalta,usa,,,,,,,,,$27.27,,,,0
+166163,15449,safety insurance,usa,$1.25 b,,,,,,,,$85.06,,,,ltc properties,usa,,,,,,,,,36,,,,0
+87824,53322,nuvation bio,usa,,,,,,,,,$2.43,,,,cisco systems,usa,,1984,,technology network hardware and software telecom equipment internet of things computers hardware software and it communications equipment,,chuck robbins,51557 million usd,,,,,,0
+88347,55908,f45 training,usa,,,,,,,,,$3.04,,,,alaska air group,usa,,1985,,industries aviation airlines transportation,,not found,6176 million usd,,,,,,0
+87869,2755,hillevax,usa,,,,,,,,,$15.25,,,,eagle materials,usa,6.578 billion usd,,,,,,,,,,,,0
+87172,13199,synthomer,uk,,,,,,,,,$1.86,,,,melrose industries,uk,,,,,,,,,2,,,,0
+102939,21427,daseke,usa,$0.27 b,,,,,,,,$6.21,,,,beyondspring,usa,$21.97 m,,,,,,,,$0.56,,,,0
+157217,156798,first financial bank,usa,$2.27 b,,,,,,,,$24.02,,,,h&e equipment services,usa,$1.73 b,,,,,,,,$47.85,,,,0
+89625,1109,eastside distilling,usa,,,,,,,,,$0.28,,,,healthpeak properties,usa,19.570 billion usd,,,,,thomas m herzog,,,,,,,0
+57408,8047,shandong pharmaceutical glass co. ltd,china,,not found,,consumer cyclical pharmaceutical packaging packaging materials glass products,,not found,564 million usd,,,,,,"dongguan aohai technology co., ltd.",china,1.284 billion usd,,,,,,,,,,,,0
+158912,3643,butterfly network,usa,$0.54 b,,,,,,,,$2.72,,,,herc holdings,usa,3.953 billion usd,,,,,,,,,,,,0
+25583,25415,ryan specialty group,usa,$10.58 b,,,,,,,,$40.66,,,,commerce bancshares,usa,$8.40 b,,,,,,,,$67.08,,,,0
+114051,101881,pennantpark floating rate,usa,$0.53 b,,,,,,,,$11.73,,,,douglas dynamics,usa,$0.83 b,,,,,,,,$36.64,,,,0
+83153,25395,veeva systems,usa,,,,,,,,,$164.24,,,,alcoa,usa,$8.24 b,,,,,,,,$46.60,,,,0
+156037,11596,golden entertainment,usa,$1.10 b,,,,,,,,$38.60,,,,occidental petroleum,usa,,,,,,,,,64,,,,0
+11757,10564,arthur j. gallagher & co.,usa,,,,,,,,,192,,,,conx corp.,usa,0.914 billion usd,,,,,,,,,,,,0
+5665,5250,yelp,usa,2.833 billion usd,,,,,,,,,,,,abm industries,usa,3.324 billion usd,,,,,,,,,,,,0
+167874,86186,tinybuild,usa,$0.22 b,,,,,,,,$1.11,,,,gogo inflight internet,usa,,,,,,,,,$16.15,,,,0
+155719,12682,visa,usa,$473.88 b,,,,,,,,$223.78,,,,albertsons,usa,,,,,,,,,21,,,,0
+100351,21132,alliance resource partners,usa,$2.72 b,,,,,,,,$21.46,,,,orion energy systems,usa,$70.36 m,,,,,,,,$2.20,,,,0
+90949,6394,sany heavy industry co. ltd,china,,,,,industrials,,,600031,,,,,china animal husbandry industry,china,1.502 billion usd,,,,,,,,,,,,0
+116105,26516,gates industrial corp,usa,$3.51 b,,,,,,,,$12.46,,,,boeing,usa,$105.19 b,,,,,,,,$176.50,,,,0
+167501,57234,burning rock biotech,china,$0.35 b,,,,,,,,$3.36,,,,ccoop group co. ltd,china,,not found,,consumer cyclical retail department stores asset management logistics,,not found,243 million usd,,,,,,0
+163768,158485,stifel,usa,$6.56 b,,,,,,,,$61.79,,,,greenlight biosciences,usa,$0.18 b,,,,,,,,$1.20,,,,0
+111113,87966,cdw corporation,usa,$25.72 b,,,,,,,,$190.02,,,,beazer homes usa,usa,,,,,,,,,$14.65,,,,0
+89487,12973,oragenics,usa,,,,,,,,,$0.14,,,,regal rexnord,usa,,,,,,,,,126,,,,0
+26435,26312,daiichi sankyo,japan,$61.84 b,,,,,,,,$32.26,,,,tokio marine,japan,$41.00 b,,,,,,,,$20.41,,,,0
+103497,25236,inseego,usa,$0.11 b,,,,,,,,$1.05,,,,bok financial,usa,$6.87 b,,,,,,,,$102.25,,,,0
+163874,58224,commercial metals company,usa,$6.10 b,,,,,,,,$52.15,,,,cno financial group,usa,,1979,,financial services insurance,,not found,4100 million usd,,,,,,0
+103651,16473,owlet,usa,$76.36 m,,,,,,,,$0.66,,,,bigcommerce,usa,,,,,,,,,8,,,,0
+158661,100915,1stdibs.com,usa,$0.23 b,,,,,,,,$5.98,,,,assetmark,usa,$1.80 b,,,,,,,,$24.40,,,,0
+111943,15268,xpel,usa,$1.97 b,,,,,,,,$71.61,,,,the bancorp,usa,,,,,,,,,30,,,,0
+53566,7961,industrial bank,china,,1988,,financial services banking services,,yiping tao,32492 million usd,,,,,,novoray corporation,china,0.980 billion usd,,,,,,,,,,,,0
+88278,25975,vuzix,usa,,,,,,,,,$5.02,,,,citizens financial group,usa,$19.45 b,,,,,,,,$39.50,,,,0
+156431,20991,pc connection,usa,$1.32 b,,,,,,,,$50.53,,,,landec,usa,$0.25 b,,,,,,,,$8.76,,,,0
+169099,144691,honeywell international inc.,united states,,,,specialty industrial machinery,industrials,,,hon,,,,,gemini,united states,,2015,,fintech,,,,,,new york,,,0
+132321,62559,china hongqiao group,china,,1994,42650.0,materials,,bo zhang,$17.8b,,,,,,guangxi liuzhou pharmaceutical,china,,not found,,healthcare pharmaceutical healthcare products,,not found,not found,,,,,,0
+154774,102042,altria group,usa,$80.19 b,,,,,,,,$44.75,,,,the vita coco company,usa,$0.74 b,,,,,,,,$13.25,,,,0
+157248,155148,exela technologies,usa,$10.13 m,,,,,,,,$0.08290,,,,mid-america apartment communities,usa,$19.12 b,,,,,,,,$161.16,,,,0
+102561,11734,microvision,usa,$0.44 b,,,,,,,,$2.67,,,,ross stores,usa,,,,,,,,,122,,,,0
+158618,87830,telos,usa,$0.35 b,,,,,,,,$5.28,,,,arcturus therapeutics,usa,,,,,,,,,$19.88,,,,0
+11356,8839,exxon mobil,usa,,,,,,,,,111,,,,american well corp,usa,2.601 billion usd,,,,,,,,,,,,0
+169486,58103,jiangsu hengrui medicine co. ltd,china,,,,drug manufacturersgeneral,healthcare,,,600276,,,,,"shandong dongyue organosilicon materials co., ltd.",china,,not found,,basic materials chemicals,,not found,not found,,,,,,0
+156428,113993,universal corporation,usa,$1.33 b,,,,,,,,$54.17,,,,eagle point credit company,usa,$0.49 b,,,,,,,,$10.51,,,,0
+54637,7292,nortonlifelock,usa,,1982,,technology software and it security systems and solutions software products network hardware and software software and it infrastructure,,john w. thompson,2796 million usd,,,,,,galaxy digital holdings,usa,1.638 billion usd,,,,,,,,,,,,0
+163451,151504,penske automotive,usa,$8.39 b,,,,,,,,$117.69,,,,best buy,usa,24.66 billion usd,1966.0,102000.0,,,corie barry,,,,,,,0
+75463,74879,futura medical plc,united kingdom,,,,biotechnology,healthcare,,,,,,,,baillie gifford us growth trust plc,united kingdom,,,,asset management,financials,,,,,,,,0
+171276,117975,contrader,italy,,2012,35.0,,technology,,4682960,,,,,,kme srl,italy,,,,,,,,,,firenze,via giorgio saviane 6,,0
+156276,155372,the shyft group,usa,$1.05 b,,,,,,,,$30.04,,,,marathon oil,usa,$17.54 b,,,,,,,,$27.72,,,,0
+167284,53654,carriage services,usa,$0.44 b,,,,,,,,$30.57,,,,marriott international,usa,,1927,,consumer cyclical hotels consumer services,,bill marriott,13857 million usd,,,,,,0
+158573,4625,village super market,usa,$0.33 b,,,,,,,,$23.41,,,,spire,usa,3.447 billion usd,,,,,,,,,,,,0
+157884,82502,advent technologies,usa,$0.10 b,,,,,,,,$1.95,,,,broadcom,usa,,,,,,,,,$579.00,,,,0
+156798,13849,h&e equipment services,usa,$1.73 b,,,,,,,,$47.85,,,,louisiana-pacific,usa,,,,,,,,,62,,,,0
+59714,23148,sjw group,usa,,1866,,utilities water utilities,,not found,573 million usd,,,,,,plymouth industrial reit,usa,$0.87 b,,,,,,,,$20.10,,,,0
+158729,3467,orrstown financial services,usa,$0.25 b,,,,,,,,$23.66,,,,travel + leisure co.,usa,4.726 billion usd,,,,,,,,,,,,0
+83257,15951,southwest airlines,usa,,,,,,,,,$36.99,,,,select energy services,usa,,,,,,,,,9,,,,0
+113931,112597,alerus financial,usa,$0.45 b,,,,,,,,$22.81,,,,cingulate,usa,$11.02 m,,,,,,,,$0.98,,,,0
+60085,13880,patrick industries,usa,,1959,,industries forest products recreational vehicles,,not found,4078 million usd,,,,,,informatica,usa,,,,,,,,,15,,,,0
+163846,87336,allegro microsystems,usa,$6.20 b,,,,,,,,$32.45,,,,smart global holdings,usa,,,,,,,,,$16.68,,,,0
+157365,12327,trulite,usa,$0.21 m,,,,,,,,$0.0001000,,,,targa resources,usa,,,,,,,,,73,,,,0
+58896,5511,jiangsu provincial agricultural reclamation and development,china,,not found,,consumer defensive agriculture products agriculture related farming seeds milling,,not found,1548 million usd,,,,,,hangzhou dptech technologies,china,2.469 billion usd,,,,,,,,,,,,0
+87402,25434,nextdecade corp,usa,,,,,,,,,$5.54,,,,federal realty investment trust,usa,$8.77 b,,,,,,,,$107.19,,,,0
+24343,11555,ncino,usa,$2.71 b,,,,,,,,$24.47,,,,colgate-palmolive,usa,,,,,,,,,80,,,,0
+11762,2948,microchip technology,usa,,,,,,,,,73,,,,smithfield foods,usa,2819,,,,,,,,,,,,0
+23612,14670,a10 networks,usa,$1.40 b,,,,,,,,$19.14,,,,spectrum brands,usa,,,,,,,,,63,,,,0
+26059,11741,southwest airlines,usa,$22.44 b,,,,,,,,$37.81,,,,workday,usa,,,,,,,,,161,,,,0
+113671,53592,soft-world international,taiwan,$0.32 b,,,,,,,,$2.67,,,,mediatek,taiwan,,1997,,technology electronics semiconductors processors chips,,mingkai tsai,17191 million usd,,,,,,0
+104047,24195,aytu bioscience,usa,$13.11 m,,,,,,,,$0.21,,,,kimbell royalty partners,usa,$2.36 b,,,,,,,,$16.45,,,,0
+166369,55355,moneygram,usa,$1.05 b,,,,,,,,$10.89,,,,siteone landscape supply,usa,,2001,,industries agriculture products consumer non durables,,not found,3475 million usd,,,,,,0
+114520,87056,zuora,usa,$0.89 b,,,,,,,,$6.73,,,,enanta pharmaceuticals,usa,,,,,,,,,$51.46,,,,0
+113464,4403,parke bancorp,usa,$0.24 b,,,,,,,,$20.59,,,,simmons first national corporation,usa,3.146 billion usd,,,,,,,,,,,,0
+159166,17685,energy vault,usa,$0.65 b,,,,,,,,$4.72,,,,ovid therapeutics,usa,,,,,,,,,2,,,,0
+115639,61215,innovative industrial,usa,$2.49 b,,,,,,,,$89.03,,,,alector,usa,,not found,,healthcare biotechnology biopharmaceutical,,not found,207 million usd,,,,,,0
+120630,19378,"medidata solutions, inc.",united states,,,,,,,,,,new york,350 hudson st,,general dynamics corporation,united states,$70.55 billion,february 7 1899,103100.0,aerospace defense,industrials,ms. phebe n. novakovic,us$39.350 billion 2019,,,,,,0
+103990,22141,vislink technologies,usa,$17.29 m,,,,,,,,$0.36,,,,thorne healthtech,usa,$0.23 b,,,,,,,,$4.46,,,,0
+89213,87983,atlis motor vehicles,usa,,,,,,,,,$5.91,,,,arbutus biopharma,usa,,,,,,,,,$2.85,,,,0
+57996,54467,lithium americas corp.,canada,,2007,,basic materials mining,,not found,not found,,,,,,brookfield infrastructure partners,canada,,2008,,utilities infrastructure energy gas utilities transportation consumer services marine transportation,,sam pollock,11537 million usd,,,,,,0
+158535,26496,penns woods bancorp,usa,$0.19 b,,,,,,,,$27.70,,,,stryker corporation,usa,$91.61 b,,,,,,,,$242.08,,,,0
+115275,14358,sonic automotive,usa,$1.80 b,,,,,,,,$49.25,,,,highwoods properties,usa,,,,,,,,,28,,,,0
+156184,112952,grindr,usa,$0.98 b,,,,,,,,$5.67,,,,lmp automotive holdings,usa,$81.7 m,,,,,,,,$7.49,,,,0
+167298,156801,eagle pharmaceuticals,usa,$0.44 b,,,,,,,,$33.91,,,,schra¶dinger,usa,$1.74 b,,,,,,,,$24.51,,,,0
+163014,18856,hansoh pharma,china,$12.74 b,,,,,,,,$2.15,,,,air china ltd,china,us$18.72 billion,,89373.0,airlines,industrials,,,,,,,,0
+157195,84714,shutterstock,usa,$2.23 b,,,,,,,,$62.45,,,,smartsheet,usa,,,,,,,,,$42.36,,,,0
+97183,87918,deere & company,usa,$132.32 b,,,,,,,,$438.44,,,,the rmr group,usa,,,,,,,,,$29.55,,,,0
+166037,58011,construction partners,usa,$1.37 b,,,,,,,,$26.14,,,,apollo medical holdings,usa,,1985,,healthcare consumer services professional services hospitals,,not found,767 million usd,,,,,,0
+13495,9053,siteone landscape supply,usa,,,,,,,,,124,,,,laredo petroleum,usa,0.868 billion usd,,,,,,,,,,,,0
+87880,24568,one liberty properties,usa,,,,,,,,,$23.86,,,,federated hermes,usa,$3.31 b,,,,,,,,$37.26,,,,0
+152323,54094,nternational bancshares corp,usa,$2.81 b,,,,,,,,$45.24,,,,cerner corporation,usa,,1979,,healthcare software and it technology healthcare products healthcare service software products healthcare technology and information,,neal patterson,5505 million usd,,,,,,0
+27734,1119,tablecheck,japan,,2011,104.0,technology,,,8.70,,,,,,mitsui fudosan,japan,22.331 billion usd,,,,,hiromichi iwasa,,,,,,,0
+160019,29115,agriconomie,france,,2014,53.0,,agricultural commodities,,37248117,,,,,,fekra consulting,france,,2008,90.0,management consulting,,,6.2,,,,,,0
+22670,2675,riley permian,usa,$0.51 b,,,,,,,,$25.41,,,,samsara networks,usa,2562,,,,,,,,,,,,0
+62420,16045,calumet specialty products partners,usa,,1916,,energy oil and gas,,not found,3148 million usd,,,,,,customers bancorp,usa,,,,,,,,,28,,,,0
+162105,84531,cadence design systems,usa,$48.89 b,,,,,,,,$178.26,,,,qualtrics,usa,,,,,,,,,$10.59,,,,0
+58069,57080,china communications services corporation,china,,not found,,communication services telecom,,not found,19499 million usd,,,,,,"sinomach heavy equipment group co.,ltd",china,,not found,,metal fabrication products metal products manufacturing,,not found,1398 million usd,,,,,,0
+98502,13581,dick's sporting goods,usa,$10.39 b,,,,,,,,$116.99,,,,bwx technologies,usa,,,,,,,,,58,,,,0
+83249,56281,ansys,usa,,,,,,,,,$254.10,,,,national fuel gas company,usa,,1902,,energy utilities gas utilities oil and gas,,not found,1742 million usd,,,,,,0
+132530,132392,rakuten,japan,,1997,28261.0,business services supplies,,hiroshi mikitani,$15.3b,,,,,,aisin seiki,japan,,1949,118359.0,consumer durables,,kanshiro toyoda,$35.4b,,,,,,0
+58764,54607,cedar fair,usa,,1983,,consumer cyclical consumer services entertainment leisure,,not found,1338 million usd,,,,,,"olaplex holdings, inc.",usa,,2014,,fmcg personal care products beauty and personal care,,ceo jue wong,598 million usd,,,,,,0
+168023,23471,huhtamaki india,india,$0.18 b,,,,,,,,$2.43,,,,vip industries,india,$1.21 b,,,,,,,,$8.58,,,,0
+57919,12467,compass inc,usa,,2012,,software and it real estate internet or mobile app based business ecommerce,,not found,6421 million usd,,,,,,fleetcor,usa,,,,,,,,,187,,,,0
+58500,7051,newland digital technology,china,,not found,,technology software and it,,not found,1120 million usd,,,,,,china development bank financial leasing,china,1.759 billion usd,,,,,,,,,,,,0
+167549,99731,mammoth energy services,usa,$0.33 b,,,,,,,,$7.13,,,,sunpower,usa,$4.09 b,,,,,,,,$23.53,,,,0
+103720,101438,adamas one,usa,$60.81 m,,,,,,,,$3.32,,,,standex,usa,$1.22 b,,,,,,,,$102.38,,,,0
+165752,88285,chinook therapeutics,usa,$1.69 b,,,,,,,,$26.56,,,,whitehorse finance,usa,,,,,,,,,$13.71,,,,0
+149363,148598,kendra scott,united states,,,,consumer retail,,,,,,austin,,,dbt labs,united states,,,,data management analytics,,,,,,philadelphia,,,0
+99806,98578,allegheny technologies,usa,$3.91 b,,,,,,,,$30.27,,,,wynn resorts,usa,$9.78 b,,,,,,,,$86.32,,,,0
+155352,103423,targa resources,usa,$17.11 b,,,,,,,,$75.60,,,,rvl pharmaceuticals,usa,$0.13 b,,,,,,,,$1.32,,,,0
+71053,55510,china merchants shekou industrial zone holdings,china,$19.42 b,,,,,,,,,,,,thunder software technology,china,,2008,,technology software and it,,not found,648 million usd,,,,,,0
+154698,15813,simon property group,usa,$46.81 b,,,,,,,,$125.08,,,,pros,usa,,,,,,,,,24,,,,0
+116047,102653,albany international,usa,$3.35 b,,,,,,,,$108.03,,,,nuvation bio,usa,$0.39 b,,,,,,,,$1.80,,,,0
+114747,16012,golden entertainment,usa,$1.11 b,,,,,,,,$39.23,,,,omega flex,usa,,,,,,,,,92,,,,0
+115462,99945,carpenter technology,usa,$2.14 b,,,,,,,,$44.28,,,,instructure holdings,usa,$3.52 b,,,,,,,,$24.72,,,,0
+164024,20384,page industries,india,$5.52 b,,,,,,,,$495.20,,,,gland pharma,india,$3.42 b,,,,,,,,$20.82,,,,0
+117896,71382,ineos group holdings limited,united kingdom,,,,,,,,,,london,38 hans crescent,,reckitt benckiser group,united kingdom,$56.35 b,,,,,,,,,,,,0
+18397,13629,netcapital,usa,,,,,,,,,1,,,,rayonier,usa,,,,,,,,,34,,,,0
+150635,3336,walmart,usa,401.91 billion usd,1962.0,2300000.0,,,doug mcmillon,,,,,,,gusto,usa,3190,,,,,,,,,,,,0
+162875,156606,splunk,usa,$14.83 b,,,,,,,,$90.61,,,,adtran,usa,$1.52 b,,,,,,,,$19.56,,,,0
+24389,11652,iveric bio,usa,$2.80 b,,,,,,,,$20.89,,,,phillips 66,usa,,,,,,,,,106,,,,0
+22938,14055,iteos therapeutics,usa,$0.70 b,,,,,,,,$19.82,,,,freshworks,usa,,,,,,,,,14,,,,0
+85267,82896,toyo suisan,japan,,,,,,,,,$37.55,,,,chugai pharmaceutical,japan,,,,,,,,,$24.97,,,,0
+85526,5092,axonics modulation tech,usa,,,,,,,,,$64.88,,,,helmerich & payne,usa,2.905 billion usd,,,,,,,,,,,,0
+115284,57119,trainline,uk,$1.81 b,,,,,,,,$3.72,,,,3i infrastructure,uk,,2007,,investments infrastructure asset management,,not found,485 million usd,,,,,,0
+87612,55402,snap one,usa,,,,,,,,,$8.69,,,,assurant,usa,,1892,,financial services insurance,,not found,10187 million usd,,,,,,0
+98070,22404,live nation,usa,$16.87 b,,,,,,,,$73.09,,,,iradimed,usa,$0.35 b,,,,,,,,$28.56,,,,0
+156423,152839,irobot,usa,$1.31 b,,,,,,,,$47.98,,,,api group,usa,$4.81 b,,,,,,,,$20.56,,,,0
+21399,14487,ekso bionics,usa,$16.72 m,,,,,,,,$1.27,,,,nternational bancshares corp,usa,,,,,,,,,47,,,,0
+4059,3416,asbury automotive group,usa,3.602 billion usd,,,,,,,,,,,,digital turbine,usa,5.617 billion usd,,,,,,,,,,,,0
+98449,13088,amdocs,usa,$10.94 b,,,,,,,,$89.71,,,,iridium communications,usa,,,,,,,,,60,,,,0
+21700,9801,eos energy enterprises,usa,$85.21 m,,,,,,,,$1.15,,,,calamos convertible opportunities and income fund,usa,1.103 billion usd,,,,,,,,,,,,0
+151317,57520,eve energy co. ltd,china,31.35 billion usd,2001.0,,,,,,,,,,,joyy,china,,not found,,communication services technology internet or mobile app based business social media,,not found,381 million usd,,,,,,0
+119476,28672,iper montebello spa,italy,,,,,,,,,,milano,via marco ulpio traiano 57,,ap italian luxury,italy,,2016,7.0,fashion,,,4283930,,,,,,0
+102764,88211,ocugen,usa,$0.34 b,,,,,,,,$1.59,,,,torrid,usa,,,,,,,,,$3.56,,,,0
+86714,5041,deciphera pharmaceuticals,usa,,,,,,,,,$21.50,,,,synthorx,usa,4777,,,,,,,,,,,,0
+28052,13356,donuts,japan,,2007,543.0,technology,,,125.86,,,,,,minebeamitsumi,japan,,,,,,,,,15,,,,0
+113910,111718,atlanticus,usa,$0.44 b,,,,,,,,$30.65,,,,exponent,usa,$5.11 b,,,,,,,,$101.07,,,,0
+163383,98574,floor & decor,usa,$8.88 b,,,,,,,,$83.69,,,,repligen,usa,$9.85 b,,,,,,,,$177.42,,,,0
+88008,17683,kodiak sciences,usa,,,,,,,,,$8.28,,,,smith micro software,usa,,,,,,,,,2,,,,0
+115187,101854,montauk renewables,usa,$1.66 b,,,,,,,,$11.60,,,,titan international,usa,$0.85 b,,,,,,,,$13.64,,,,0
+101134,11658,agilysys,usa,$1.54 b,,,,,,,,$61.80,,,,synopsys,usa,,,,,,,,,321,,,,0
+26583,170,mastercard,usa,$334.03 b,,,,,,,,$347.42,,,,the pnc financial services group,usa,81.216 billion usd,,,,,jim rohr,,,,,,,0
+165132,115562,arcosa,usa,$2.65 b,,,,,,,,$54.89,,,,weber,usa,$2.32 b,,,,,,,,$8.11,,,,0
+100789,83836,arvinas,usa,$2.00 b,,,,,,,,$37.64,,,,nisource,usa,,,,,,,,,$27.79,,,,0
+89512,55735,180 life sciences,usa,,,,,,,,,$3.71,,,,chime,usa,,2013,,financial services technology digital payment solution services,,not found,not found,,,,,,0
+114461,20075,liveperson,usa,$0.84 b,,,,,,,,$11.26,,,,littelfuse,usa,$5.88 b,,,,,,,,$237.85,,,,0
+158395,100756,overseas shipholding group,usa,$0.31 b,,,,,,,,$3.67,,,,nu skin,usa,$2.04 b,,,,,,,,$41.48,,,,0
+83004,55514,rockwell automation,usa,,,,,,,,,$285.24,,,,first american financial corporation,usa,,1889,,financial services insurance,,not found,9221 million usd,,,,,,0
+154354,54915,uipath,usa,$8.33 b,,,,,,,,$15.08,,,,liberty property trust,usa,,not found,,real estate consumer services,,not found,not found,,,,,,0
+151567,116153,duke realty corporation,usa,22.93 billion usd,1972.0,340.0,,,james jim connor,,,,,,,vir biotechnology,usa,$3.67 b,,,,,,,,$27.59,,,,0
+16022,14895,american well,usa,,,,,,,,,3,,,,jbg smith,usa,,,,,,,,,19,,,,0
+87371,60857,ranger oil,usa,,,,,,,,,$42.49,,,,krystal biotech,usa,,not found,,healthcare biotechnology technology healthcare products,,not found,0 million usd,,,,,,0
+98682,24850,plug power,usa,$8.86 b,,,,,,,,$15.21,,,,azenta,usa,$4.40 b,,,,,,,,$58.77,,,,0
+87451,11626,caredx,usa,,,,,,,,,$14.24,,,,enterprise products,usa,,,,,,,,,25,,,,0
+155217,99581,adani ports & sez,india,$20.91 b,,,,,,,,$9.68,,,,honeywell automation india,india,$4.52 b,,,,,,,,$511.17,,,,0
+85152,18782,parkland corp,canada,,,,,,,,,$23.49,,,,power corporation of canada,canada,us$21.48 billion,1925,30000.0,insurancelife,financials,mr. robert jeffrey orr,c$64.61 billion 2020,,,,,,0
+167672,100742,western copper and gold,canada,$0.28 b,,,,,,,,$1.87,,,,tilray,canada,$2.07 b,,,,,,,,$3.39,,,,0
+152565,110593,brady,usa,$2.56 b,,,,,,,,$51.59,,,,vertex pharmaceuticals,usa,$82.49 b,,,,,,,,$321.37,,,,0
+110270,89185,toshiba corp,japan,$18.93 b,,117300.0,specialty industrial machinery,industrials,mr. taro shimada,,6502,,,,,aeria,japan,,,,,,,,,$2.86,,,,0
+162344,71064,smc corp,japan,$30.99 b,,,,,,,,$474.56,,,,mitsubishi electric,japan,$22.76 b,,,,,,,,,,,,0
+99268,84179,smartsheet,usa,$5.58 b,,,,,,,,$42.50,,,,organon,usa,,,,,,,,,$32.06,,,,0
+102261,18106,dynex capital,usa,$0.60 b,,,,,,,,$13.07,,,,lipocine,usa,,,,,,,,,0,,,,0
+114554,85105,grindr,usa,$0.93 b,,,,,,,,$5.38,,,,livent,usa,,,,,,,,,$23.80,,,,0
+114104,12705,sangamo therapeutics,usa,$0.56 b,,,,,,,,$3.44,,,,fidelity national financial,usa,,,,,,,,,40,,,,0
+102846,25822,miller industries,usa,$0.31 b,,,,,,,,$27.53,,,,nvr,usa,$15.10 b,,,,,,,,$4725,,,,0
+113917,11411,reservoir media,usa,$0.44 b,,,,,,,,$6.94,,,,charles schwab,usa,,,,,,,,,85,,,,0
+23330,12182,westshore terminals investment,canada,$1.05 b,,,,,,,,$16.74,,,,wheaton precious metals,canada,,,,,,,,,43,,,,0
+101179,19955,magnite,usa,$1.50 b,,,,,,,,$11.25,,,,regal rexnord,usa,$7.95 b,,,,,,,,$120.25,,,,0
+103341,83508,kitex garments,india,$0.15 b,,,,,,,,$2.33,,,,hdfc life,india,,,,,,,,,$7.44,,,,0
+163354,10251,samsung electro-mechanics,south korea,$9.08 b,,,,,,,,$56.42,,,,"solum co., ltd.",south korea,1.230 billion usd,,,,,,,,,,,,0
+166483,162889,i3 verticals,usa,$0.95 b,,,,,,,,$28.98,,,,westlake chemical,usa,$14.52 b,,,,,,,,$113.91,,,,0
+98153,58188,china railway construction,china,$15.08 b,,,,,,,,$1.20,,,,bright dairy & food,china,,not found,,consumer defensive fmcg package foods food products,,not found,4250 million usd,,,,,,0
+157989,62185,tattooed chef,usa,$0.12 b,,,,,,,,$1.50,,,,ichor holdings,usa,,1999,,technology electronics semiconductors,,not found,1096 million usd,,,,,,0
+101396,85052,m/i homes,usa,$1.27 b,,,,,,,,$46.55,,,,manpowergroup,usa,,,,,,,,,$87.48,,,,0
+115853,86741,sma solar technology,germany,$2.91 b,,,,,,,,$83.95,,,,gag immobilien,germany,,,,,,,,,$84.71,,,,0
+98966,22899,brixmor property group,usa,$6.88 b,,,,,,,,$22.95,,,,editas medicine,usa,$0.68 b,,,,,,,,$9.90,,,,0
+148462,15355,chehaoduo,china,,,,ecommerce directtoconsumer,,,,,,beijing,,,xd inc.,china,,,,,,,,,3,,,,0
+165012,158646,e.l.f. cosmetics,usa,$2.86 b,,,,,,,,$54.17,,,,aldeyra therapeutics,usa,$0.36 b,,,,,,,,$6.24,,,,0
+167419,5376,rbb bancorp,usa,$0.39 b,,,,,,,,$20.65,,,,national health investors,usa,2.760 billion usd,,,,,,,,,,,,0
+155250,86732,yum! brands,usa,$36.76 b,,,,,,,,$130.52,,,,first busey,usa,,,,,,,,,$24.97,,,,0
+89060,58656,hour loop,usa,,,,,,,,,$2.70,,,,momentive global inc.,usa,,1999,,technology software and it,,not found,443 million usd,,,,,,0
+163096,152866,hyatt hotels,usa,$11.68 b,,,,,,,,$109.10,,,,evercore,usa,$4.92 b,,,,,,,,$126.74,,,,0
+116251,16918,merit medical,usa,$3.99 b,,,,,,,,$70.23,,,,newtek,usa,,,,,,,,,16,,,,0
+110971,104025,welltower,usa,$33.58 b,,,,,,,,$71.08,,,,humanigen,usa,$15.13 m,,,,,,,,$0.13,,,,0
+154535,102924,vf corporation,usa,$11.94 b,,,,,,,,$30.74,,,,vor biopharma,usa,$0.28 b,,,,,,,,$7.30,,,,0
+131869,8219,saic motor,china,,1955,204815.0,consumer durables,,not found,$121.4b,,,,,,momenta,china,7693,,,,,,,,,,,,0
+102239,53411,intercept pharmaceuticals,usa,$0.61 b,,,,,,,,$14.94,,,,deere & company,usa,,1837,,industries agriculture machinery construction equipment commercial vehicles engineering products automobile machinery manufacturing capital goods manufacturing heavy machinery,,john c. may,43932 million usd,,,,,,0
+87257,14281,arcutis biotherapeutics,usa,,,,,,,,,$14.12,,,,ameris bancorp,usa,,,,,,,,,47,,,,0
+114515,55728,heritage-crystal clean,usa,$0.89 b,,,,,,,,$37.06,,,,lumentum holdings,usa,,2015,,technology telecom consumer durables telecom equipment communications equipment,,not found,1712 million usd,,,,,,0
+89254,62925,horizon global,usa,,,,,,,,,$1.74,,,,idt corporation,usa,,not found,,communication services telecom utilities telecom equipment,,not found,1446 million usd,,,,,,0
+112531,103385,advaxis,usa,$5.17 m,,,,,,,,$2.85,,,,adtheorent,usa,$0.14 b,,,,,,,,$1.64,,,,0
+167033,60469,heidrick & struggles,usa,$0.58 b,,,,,,,,$29.41,,,,faraday future intelligent electric inc.,usa,,2014,,consumer cyclical automobile electric vehicles,,not found,0 million usd,,,,,,0
+24426,15421,freshpet,usa,$2.91 b,,,,,,,,$60.79,,,,evercommerce,usa,,,,,,,,,8,,,,0
+114075,4786,dxp enterprises,usa,$0.54 b,,,,,,,,$29.00,,,,piper sandler companies,usa,2.597 billion usd,,,,,,,,,,,,0
+166226,22283,pgt innovations,usa,$1.19 b,,,,,,,,$19.93,,,,ni holdings,usa,$0.29 b,,,,,,,,$13.74,,,,0
+162618,156378,huntington bancshares,usa,$20.36 b,,,,,,,,$14.11,,,,trimas,usa,$1.26 b,,,,,,,,$30.19,,,,0
+169152,117386,general electric company,united states,,,,specialty industrial machinery,industrials,,,ge,,,,,portman ridge finance corporation,united states,,,,,,,,,,new york,650 madison ave fl 23,,0
+115584,24471,sl green realty,usa,$2.37 b,,,,,,,,$36.74,,,,nternational bancshares corp,usa,$3.03 b,,,,,,,,$48.90,,,,0
+159084,87074,potbelly corporation,usa,$0.21 b,,,,,,,,$7.29,,,,the greenbrier companies,usa,,,,,,,,,$29.31,,,,0
+17578,11838,whole earth brands,usa,,,,,,,,,4,,,,ameriprise financial,usa,,,,,,,,,321,,,,0
+166806,163627,slam corp,usa,$0.72 b,,,,,,,,$10.14,,,,donaldson,usa,$7.25 b,,,,,,,,$59.64,,,,0
+167937,103744,mainstreet bancshares,usa,$0.20 b,,,,,,,,$28.08,,,,elevate credit,usa,$55.3 m,,,,,,,,$1.77,,,,0
+114787,58965,southside bancshares,usa,$1.16 b,,,,,,,,$36.22,,,,open lending corporation,usa,,2000,,financial services,,not found,215 million usd,,,,,,0
+158670,15100,hf foods group,usa,$0.23 b,,,,,,,,$4.36,,,,vertex,usa,,,,,,,,,12,,,,0
+112215,102402,bridgewater bancshares,usa,$0.47 b,,,,,,,,$17.18,,,,sprague resources lp,usa,$0.52 b,,,,,,,,$20.00,,,,0
+166315,158517,nrc health,usa,$1.10 b,,,,,,,,$44.72,,,,curo group,usa,$0.19 b,,,,,,,,$4.73,,,,0
+113174,11584,d-wave quantum,canada,$0.14 b,,,,,,,,$1.30,,,,canadian natural resources,canada,,,,,,,,,55,,,,0
+158745,24478,dakota gold,usa,$0.25 b,,,,,,,,$3.49,,,,enersys,usa,$3.05 b,,,,,,,,$74.78,,,,0
+162428,154981,equifax,usa,$27.26 b,,,,,,,,$222.69,,,,lkq corporation,usa,$15.49 b,,,,,,,,$57.99,,,,0
+169130,157806,transurban group,australia,,,,infrastructure operations,industrials,,,tcl,,,,,superior resources,australia,$78.23 m,,,,,,,,$0.05000,,,,0
+164208,22410,air lease corporation,usa,$4.88 b,,,,,,,,$44.02,,,,northwest pipe company,usa,$0.36 b,,,,,,,,$36.28,,,,0
+167302,102860,orchid island capital,usa,$0.44 b,,,,,,,,$12.10,,,,alpine immune sciences,usa,$0.30 b,,,,,,,,$6.74,,,,0
+24978,21606,first financial bankshares,usa,$5.07 b,,,,,,,,$35.55,,,,castellum,usa,$57.73 m,,,,,,,,$1.39,,,,0
+61495,6974,moneylion,usa,,2013,,not found,,not found,not found,,,,,,you & mr jones,usa,6619,,,,,,,,,,,,0
+82655,15972,zoetis,usa,,,,,,,,,$160.92,,,,lemonade,usa,,,,,,,,,14,,,,0
+163579,157929,dolby,usa,$7.47 b,,,,,,,,$78.29,,,,nuvectis pharma,usa,$0.10 b,,,,,,,,$7.51,,,,0
+88202,1795,weave communications,usa,,,,,,,,,$5.32,,,,juniper networks,usa,9.423 billion usd,,,,,,,,,,,,0
+162211,103119,apollo global management,usa,$40.24 b,,,,,,,,$67.07,,,,vaxxinity,usa,$0.22 b,,,,,,,,$1.75,,,,0
+156171,100258,puretech health,usa,$0.97 b,,,,,,,,$33.37,,,,privia health group,usa,$2.88 b,,,,,,,,$25.23,,,,0
+100661,15990,aerovironment,usa,$2.21 b,,,,,,,,$88.09,,,,mesa laboratories,usa,,,,,,,,,176,,,,0
+154918,10126,amerisourcebergen,usa,$33.09 b,,,,,,,,$163.78,,,,plymouth industrial reit,usa,0.751 billion usd,,,,,,,,,,,,0
+71725,65084,celanese,united states,$15.42 b,,,,,,,,,,,,motorola solutions,united states,,,,,,,$8.17 b,,,,,,0
+89534,15431,arcimoto,usa,,,,,,,,,$4.66,,,,vizio,usa,,,,,,,,,8,,,,0
+115443,11635,bloomin' brands,usa,$2.09 b,,,,,,,,$23.81,,,,o'reilly automotive,usa,,,,,,,,,843,,,,0
+162815,14198,snap,usa,$16.11 b,,,,,,,,$9.99,,,,cvb financial,usa,,,,,,,,,25,,,,0
+114029,85166,nuvation bio,usa,$0.51 b,,,,,,,,$2.36,,,,cabot corporation,usa,,,,,,,,,$72.52,,,,0
+67925,31026,vmway,italy,,2012,,,technology,,,,,,,,effegi service group*,italy,,2014,22.0,support services,,,2.4,,,,,,0
+163531,112736,sealed air,usa,$7.79 b,,,,,,,,$53.87,,,,shapeways,usa,$28.59 m,,,,,,,,$0.58,,,,0
+162038,102945,marathon petroleum,usa,$58.92 b,,,,,,,,$125.72,,,,weave communications,usa,$0.27 b,,,,,,,,$4.22,,,,0
+167206,101631,value line,usa,$0.49 b,,,,,,,,$52.00,,,,cross country healthcare,usa,$1.05 b,,,,,,,,$28.24,,,,0
+169617,64883,"alexandria real estate equities, inc.",united states,,,,reitoffice,real estate,,,are,,,,,nrg energy,united states,,,,,,,$26.9 b,,,,,,0
+151107,54724,l3harris technologies,usa,43.12 billion usd,2019.0,47000.0,,,chris kubasik,,,,,,,juul labs,usa,,2015,,cigarettes electronics,,not found,1500 million usd,,,,,,0
+56656,17085,avient corporation,usa,,2000,,basic materials chemicals plastics plastic products,,not found,4818 million usd,,,,,,saratoga investment,usa,,,,,,,,,27,,,,0
+100101,55786,eastern bankshares,usa,$3.15 b,,,,,,,,$17.84,,,,littelfuse,usa,,1927,,technology electronics electrical products consumer durables capital goods,,not found,2079 million usd,,,,,,0
+167045,99673,luther burbank,usa,$0.57 b,,,,,,,,$11.27,,,,evercore,usa,$4.26 b,,,,,,,,$109.69,,,,0
+155825,83503,adma biologics,usa,$0.76 b,,,,,,,,$3.46,,,,factset,usa,,,,,,,,,$421.36,,,,0
+54915,8244,liberty property trust,usa,,not found,,real estate consumer services,,not found,not found,,,,,,seismic,usa,7693,,,,,,,,,,,,0
+158638,15521,gladstone capital,usa,$0.36 b,,,,,,,,$10.26,,,,m/i homes,usa,,,,,,,,,50,,,,0
+115887,99757,equitrans midstream,usa,$3.00 b,,,,,,,,$6.94,,,,ringcentral,usa,$4.01 b,,,,,,,,$41.84,,,,0
+85810,19940,helen of troy,usa,,,,,,,,,$112.15,,,,halozyme therapeutics,usa,$7.80 b,,,,,,,,$57.74,,,,0
+167643,101500,lordstown motors,usa,$0.29 b,,,,,,,,$1.30,,,,v2x,usa,$1.16 b,,,,,,,,$38.11,,,,0
+101150,57213,upwork,usa,$1.53 b,,,,,,,,$11.67,,,,ryder system,usa,,1933,,industries real estate consumer services rent lease services,,not found,9662 million usd,,,,,,0
+166420,113626,innovage,usa,$1.00 b,,,,,,,,$7.45,,,,hallador energy company,usa,$0.30 b,,,,,,,,$9.22,,,,0
+153291,14447,trinet,usa,$4.47 b,,,,,,,,$73.70,,,,jackson financial,usa,,,,,,,,,36,,,,0
+159379,63020,genco shipping & trading,usa,$0.70 b,,,,,,,,$16.71,,,,tenneco,usa,,not found,,consumer cyclical automobile automobile parts capital goods,,not found,18035 million usd,,,,,,0
+165019,88249,werner enterprises,usa,$2.85 b,,,,,,,,$45.11,,,,petiq,usa,,,,,,,,,$11.07,,,,0
+150846,11631,cigna corporation,usa,77.28 billion usd,1982.0,73800.0,,,david cordani,,,,,,,monster beverage,usa,,,,,,,,,102,,,,0
+24736,21968,blackstone mortgage trust,usa,$3.98 b,,,,,,,,$23.33,,,,silvercrest asset management group,usa,$0.17 b,,,,,,,,$18.20,,,,0
+120145,71877,"nippon steel trading americas, inc.",united states,,,,,,,,,,schaumburg,200 n martingale rd ste 801,,carnival corporation,united states,$21.45 b,,,,,,,,,,,,0
+57805,15932,pattern energy group,usa,,not found,,utilities electric utilities renewable energy,,not found,not found,,,,,,connectone bancorp,usa,,,,,,,,,25,,,,0
+56857,24813,john bean technologies corporation,usa,,2008,,industries technology machinery manufacturing manufacturing industry machinery,,not found,1868 million usd,,,,,,ryder,usa,$4.30 b,,,,,,,,$85.65,,,,0
+115577,102961,ttec,usa,$2.36 b,,,,,,,,$49.99,,,,eastman kodak company,usa,$0.27 b,,,,,,,,$3.45,,,,0
+58471,14530,1life healthcare inc,usa,,2007,,healthcare software and it healthcare technology and information,,not found,621 million usd,,,,,,blueprint medicines,usa,,,,,,,,,47,,,,0
+60305,15458,continental building products,usa,,not found,,industries construction materials,,not found,not found,,,,,,enerpac tool group,usa,,,,,,,,,25,,,,0
+157646,22482,maia biotechnology,usa,$46.3 m,,,,,,,,$4.23,,,,cs disco,usa,$0.39 b,,,,,,,,$6.69,,,,0
+155634,97841,wec energy group,usa,$29.79 b,,,,,,,,$94.46,,,,southwest airlines,usa,$22.64 b,,,,,,,,$38.14,,,,0
+61975,24866,colony credit real estate,usa,,not found,,real estate consumer services,,not found,not found,,,,,,calix,usa,$4.56 b,,,,,,,,$69.81,,,,0
+163771,18282,murphy oil,usa,$6.54 b,,,,,,,,$42.12,,,,calithera biosciences,usa,,,,,,,,,4,,,,0
+58779,17342,dycom industries,usa,,1969,,industries utilities construction engineering services,,not found,3130 million usd,,,,,,zomedica pharmaceuticals,usa,,,,,,,,,0,,,,0
+171335,30226,banale,italy,,2014,10.0,,ecommerce,,2051370,,,,,,gda,italy,,2008,205.0,fashion,,,20745690,,,,,,0
+25360,21600,plug power,usa,$7.97 b,,,,,,,,$13.68,,,,the glimpse group,usa,$56.69 m,,,,,,,,$4.17,,,,0
+90242,71887,philip morris international inc.,united states,,,,,consumer staples,,,pm,,,,,alcoa,united states,$12.42 b,,,,,,,,,,,,0
+157131,151337,catalyst pharmaceuticals,usa,$2.11 b,,,,,,,,$20.36,,,,okta,usa,30.59 billion usd,2009.0,5030.0,,,todd mckinnon,,,,,,,0
+165263,87957,national health investors,usa,$2.43 b,,,,,,,,$56.14,,,,kezar life sciences,usa,,,,,,,,,$6.84,,,,0
+154634,86900,firstenergy,usa,$24.32 b,,,,,,,,$42.54,,,,xponential fitness,usa,,,,,,,,,$24.58,,,,0
+61143,58310,"shanghai topcare medical services co., ltd.",china,,not found,,basic materials mining,,not found,not found,,,,,,hisense home appliances group,china,,not found,,consumer cyclical home appliances kitchen appliances refrigerators air conditioners electrical products home furnishing,,not found,9832 million usd,,,,,,0
+155966,154586,rci hospitality holdings,usa,$0.87 b,,,,,,,,$95.22,,,,ameren,usa,$22.86 b,,,,,,,,$88.46,,,,0
+160082,57509,aucoffre.com,france,,2009,21.0,,financial services,,114037838,,,,,,societe fonciere lyonnaise sa,france,,1879,,real estate property investments commercial properties,,not found,192 million usd,,,,,,0
+165685,24343,tg therapeutics,usa,$1.79 b,,,,,,,,$12.34,,,,ncino,usa,$2.71 b,,,,,,,,$24.47,,,,0
+88356,18989,nouveau monde graphite,canada,,,,,,,,,$5.17,,,,fortis inc.,canada,us$23.43 billion,,9095.0,utilitiesregulated electric,utilities,mr. david gerard hutchens,,,,,,,0
+170619,91165,cummins inc.,united states,$29.94 b,,,specialty industrial machinery,industrials,,,cmi,,,,,"avis budget group, inc.",united states,,,,,industrials,,,car,,,,,0
+166051,152373,live oak bank,usa,$1.36 b,,,,,,,,$30.84,,,,j&j snack foods,usa,$2.92 b,,,,,,,,$152.21,,,,0
+99924,4671,summit materials,usa,$3.56 b,,,,,,,,$30.66,,,,owens & minor,usa,2.813 billion usd,,,,,,,,,,,,0
+148715,144435,carbon health,united states,,,,health,,,,,,san francisco,,,axonius,united states,,2017,,cybersecurity,,,,,,new york,,,0
+152350,16386,blueprint medicines,usa,$2.87 b,,,,,,,,$48.00,,,,heska corporation,usa,,,,,,,,,62,,,,0
+99679,24156,blackline,usa,$4.24 b,,,,,,,,$70.99,,,,trulieve cannabis,usa,$2.30 b,,,,,,,,$12.38,,,,0
+103220,511,invivyd,usa,$0.18 b,,,,,,,,$1.73,,,,apollo global management,usa,14.080 billion usd,,,,,marc rowan,,,,,,,0
+171068,117202,tsunami nutrition*,italy,,2017,17.0,,ecommerce,,6945000,,,,,,mecomer srl,italy,,,,,,,,,,san giuliano milanese,via del tecchione 46,,0
+154569,100837,dte energy,usa,$22.57 b,,,,,,,,$116.53,,,,supernus pharmaceuticals,usa,$1.92 b,,,,,,,,$35.57,,,,0
+157748,111216,retractable technologies,usa,$67.88 m,,,,,,,,$2.06,,,,zoom,usa,$21.72 b,,,,,,,,$74.31,,,,0
+120331,18577,"blackrock financial management, inc.",united states,,,,,,,,,,new york,40 e 52nd st,,"the tjx companies, inc.",united states,$73.99 billion,1987,270000.0,apparel retail,consumer discretionary,mr. ernie l. herrman,us$38.937 billion 2018,,,,,,0
+165417,110835,spirit airlines,usa,$2.18 b,,,,,,,,$20.08,,,,carrier,usa,$37.36 b,,,,,,,,$44.68,,,,0
+164303,11694,driven brands,usa,$4.57 b,,,,,,,,$27.35,,,,aflac,usa,,,,,,,,,74,,,,0
+54893,23857,targa resources,usa,,2005,,energy oil and gas utilities gas utilities,,not found,16949 million usd,,,,,,csw industrials,usa,$1.75 b,,,,,,,,$113.09,,,,0
+167394,22024,c4 therapeutics,usa,$0.39 b,,,,,,,,$8.17,,,,nerdy,usa,$0.18 b,,,,,,,,$2.02,,,,0
+157248,155917,exela technologies,usa,$10.13 m,,,,,,,,$0.08290,,,,quanex building products,usa,$0.82 b,,,,,,,,$24.88,,,,0
+98518,63039,freddie mac,usa,$10.24 b,,,,,,,,$3.18,,,,origin bancorp,usa,,not found,,financial services banking services,,not found,261 million usd,,,,,,0
+9474,1183,quick intelligent equipment,china,1.074 billion usd,,,,,,,,,,,,iflytek,china,17.879 billion usd,,,,,,,,,,,,0
+166579,87140,westlake chemical partners,usa,$0.89 b,,,,,,,,$25.41,,,,perella weinberg partners,usa,,,,,,,,,$10.40,,,,0
+102341,99235,genesco,usa,$0.55 b,,,,,,,,$44.33,,,,commercial metals company,usa,$5.73 b,,,,,,,,$48.85,,,,0
+157247,13866,stryve foods,usa,$33.22 m,,,,,,,,$0.91,,,,msc industrial direct,usa,,,,,,,,,78,,,,0
+57597,24201,six flags entertainment corporation,usa,,1961,,consumer cyclical consumer services entertainment leisure,,not found,1496 million usd,,,,,,first financial bank,usa,$2.37 b,,,,,,,,$25.08,,,,0
+151528,112003,hubspot,usa,24.08 billion usd,2006.0,5895.0,,,yamini rangan,,,,,,,sterling check,usa,$1.47 b,,,,,,,,$15.15,,,,0
+162809,17818,formula one group,usa,$16.17 b,,,,,,,,$70.09,,,,pixelworks,usa,,,,,,,,,2,,,,0
+110447,62520,costco,usa,$218.88 b,,,,,,,,$494.53,,,,revance therapeutics,usa,,1999,,healthcare healthcare products biotechnology,,not found,77 million usd,,,,,,0
+82853,21981,realty income,usa,,,,,,,,,$66.19,,,,whole earth brands,usa,$0.17 b,,,,,,,,$4.21,,,,0
+148489,90405,lacework,united states,,,,cybersecurity,,,,,,san jose,,,snowflake inc.,united states,,,,,technology,,,snow,,,,,0
+97544,85761,prudential financial,usa,$37.56 b,,,,,,,,$102.07,,,,treehouse foods,usa,,,,,,,,,$49.59,,,,0
+83399,53781,pinterest,usa,,,,,,,,,$26.69,,,,l3harris technologies,usa,,2019,,industries electronics technology hardware and instruments communications equipment networking products solutions automation robotics marine systems space products technology machinery manufacturing capital goods manufacturing aerospace and defense,,chris kubasik,17814 million usd,,,,,,0
+111210,56098,regions financial,usa,$21.64 b,,,,,,,,$23.16,,,,switch,usa,,not found,,technology software and it,,not found,592 million usd,,,,,,0
+112774,3639,realnetworks,usa,$34.82 m,,,,,,,,$0.73,,,,msc industrial direct,usa,4.686 billion usd,,,,,,,,,,,,0
+97291,89309,3m,usa,$69.69 b,,,,,,,,$126.09,,,,palatin technologies,usa,,,,,,,,,$3.82,,,,0
+170054,90575,abbott laboratories,united states,$215.02 b,,,medical devices,healthcare,,,abt,,,,,"republic services, inc.",united states,,,,,industrials,,,rsg,,,,,0
+155956,6975,par technology,usa,$0.86 b,,,,,,,,$31.64,,,,"n-able, inc.",usa,2.418 billion usd,,,,,,,,,,,,0
+114859,17411,kayne anderson capital advisors,usa,$1.24 b,,,,,,,,$9.17,,,,assertio therapeutics,usa,,,,,,,,,4,,,,0
+132133,689,jd.com,china,,1998,298717.0,retailing,,lei xu,$147.6b,,,,,,china citic bank corporation,china,31.393 billion usd,,,,,chang zhenming,,,,,,,0
+156691,98543,paladin energy,australia,$1.61 b,,,,,,,,$0.54,,,,sonic healthcare,australia,$10.03 b,,,,,,,,$20.86,,,,0
+20567,2373,sunstone hotel investors,usa,$2.15 b,,,,,,,,$10.23,,,,tallgrass energy lp,usa,2273,,,,,,,,,,,,0
+114573,113240,bally's corporation,usa,$0.94 b,,,,,,,,$20.00,,,,bioatla,usa,$0.16 b,,,,,,,,$3.48,,,,0
+98280,85227,first horizon national,usa,$13.10 b,,,,,,,,$24.42,,,,surgery partners,usa,,,,,,,,,$32.20,,,,0
+164288,102457,workiva,usa,$4.61 b,,,,,,,,$87.89,,,,arcturus therapeutics,usa,$0.49 b,,,,,,,,$18.85,,,,0
+62461,57167,sichuan jiuyuan yinhai software,china,,not found,,technology software and it,,not found,not found,,,,,,leyard optoelectronic,china,,not found,,technology electronics capital goods,,not found,1288 million usd,,,,,,0
+152575,111821,omnicell,usa,$2.60 b,,,,,,,,$58.28,,,,tootsie roll industries,usa,$3.15 b,,,,,,,,$43.22,,,,0
+85529,63208,cvr energy,usa,,,,,,,,,$31.92,,,,syndax pharmaceuticals,usa,,2005,,healthcare pharmaceutical healthcare products biotechnology,,not found,139 million usd,,,,,,0
+90795,56287,tongwei co. ltd,china,,,,,consumer staples,,,600438,,,,,china lesso group holdings,china,,not found,,industries construction materials construction equipment building products and equipment,,not found,5032 million usd,,,,,,0
+52295,26929,astrazeneca,uk,,,83100.0,,healthcare,pascal soriot,37417 million usd,,,,,,salary finance,uk,,2015,187.0,fintech,,,8593220,,,,,,0
+155992,7222,westlake chemical partners,usa,$0.89 b,,,,,,,,$25.38,,,,northern oil and gas,usa,1.098 billion usd,,,,,,,,,,,,0
+153062,8559,rlx technology,china,$4.10 b,,,,,,,,$2.66,,,,svg group,china,1.242 billion usd,,,,,,,,,,,,0
+165234,22225,john wiley & sons,usa,$2.48 b,,,,,,,,$44.90,,,,908 devices,usa,$0.26 b,,,,,,,,$8.48,,,,0
+170442,166857,"east money information co.,ltd.",china,$40.83 b,,,internet content information,communication services,,,300059,,,,,cmge technology group,china,$0.69 b,,,,,,,,$0.25,,,,0
+118333,31039,b.i. (uk) limited,united kingdom,,,,,,,,,,banbury,14b wildmere road industrial estate,,technoworld,united kingdom,,1995,13.0,technology,,,36.84,,,,,,0
+100592,22689,mdc holdings,usa,$2.33 b,,,,,,,,$32.70,,,,mercantile bank,usa,$0.52 b,,,,,,,,$32.96,,,,0
+158134,115102,stratus properties,usa,$0.16 b,,,,,,,,$20.66,,,,two harbors investment,usa,$1.53 b,,,,,,,,$17.78,,,,0
+112453,54135,polar power,usa,$23.05 m,,,,,,,,$1.78,,,,teradyne,usa,,1960,,technology semiconductors artificial intelligence,,tufano,3702 million usd,,,,,,0
+166715,21453,origin materials,usa,$0.78 b,,,,,,,,$5.51,,,,alkaline water company,usa,$25.15 m,,,,,,,,$0.17,,,,0
+162193,156335,iqvia,usa,$41.53 b,,,,,,,,$223.61,,,,huron consulting,usa,$1.42 b,,,,,,,,$71.59,,,,0
+158387,116133,bcb bancorp,usa,$0.30 b,,,,,,,,$18.12,,,,umpqua holdings,usa,$3.63 b,,,,,,,,$16.76,,,,0
+102022,14432,amalgamated financial,usa,$0.75 b,,,,,,,,$24.48,,,,crestwood equity partners,usa,,,,,,,,,28,,,,0
+85746,1824,cvent,usa,,,,,,,,,$5.74,,,,vistra energy,usa,9.211 billion usd,,,,,,,,,,,,0
+162863,7669,iron mountain,usa,$15.06 b,,,,,,,,$51.82,,,,nanostring technologies,usa,2.649 billion usd,,,,,,,,,,,,0
+87311,87117,fulgent genetics,usa,,,,,,,,,$32.63,,,,innoviva,usa,,,,,,,,,$13.37,,,,0
+156679,2470,udemy,usa,$1.58 b,,,,,,,,$11.22,,,,starwood property trust,usa,7.438 billion usd,,,,,,,,,,,,0
+112229,10051,on24,usa,$0.42 b,,,,,,,,$8.89,,,,ryerson holding corporation,usa,0.891 billion usd,,,,,,,,,,,,0
+21931,9147,rane holdings,india,$0.15 b,,,,,,,,$10.93,,,,suzlon energy,india,0.703 billion usd,,,,,,,,,,,,0
+24944,23576,eagle materials,usa,$4.92 b,,,,,,,,$133.80,,,,first busey,usa,$1.35 b,,,,,,,,$24.55,,,,0
+82966,3498,arista networks,usa,,,,,,,,,$115.00,,,,premier,usa,4.565 billion usd,,,,,,,,,,,,0
+61320,12052,"dongguan aohai technology co., ltd.",china,,not found,,industries electrical products,,not found,not found,,,,,,smic,china,,,,,,,,,2,,,,0
+85556,14032,mr. cooper group,usa,,,,,,,,,$44.56,,,,united community bank,usa,,,,,,,,,34,,,,0
+102191,58284,eventbrite,usa,$0.64 b,,,,,,,,$6.53,,,,cnx resources corporation,usa,,1860,,energy oil and gas,,not found,2283 million usd,,,,,,0
+119075,110207,"fm industries, inc.",united states,,,,,,,,,,fremont,221 warren ave,,royal caribbean cruises ltd.,united states,$20.81 b,1997,84900.0,travel services,consumer discretionary,mr. jason t. liberty,,rcl,,,,,0
+159274,14898,quanterix,usa,$0.56 b,,,,,,,,$15.35,,,,evertec,usa,,,,,,,,,34,,,,0
+165160,159857,myovant sciences,uk,$2.60 b,,,,,,,,$26.89,,,,telcoswitch group,uk,,2017,86.0,,telecoms,,7519236,,,,,,0
+154344,7246,vedanta,india,$14.83 b,,,,,,,,$3.99,,,,asahi india glass,india,1.184 billion usd,,,,,,,,,,,,0
+154474,8262,albertsons,usa,$11.27 b,,,,,,,,$21.05,,,,tresata,usa,7693,,,,,,,,,,,,0
+25624,23492,cna financial,usa,$11.14 b,,,,,,,,$41.14,,,,tellurian,usa,$1.24 b,,,,,,,,$2.21,,,,0
+166962,18060,tpg real estate finance trust,usa,$0.62 b,,,,,,,,$8.11,,,,golden minerals,usa,,,,,,,,,0,,,,0
+102498,58186,bluegreen vacations,usa,$0.47 b,,,,,,,,$24.86,,,,extended stay america,usa,,not found,,consumer cyclical hotels real estate,,not found,not found,,,,,,0
+167008,97131,scholar rock holding,usa,$0.59 b,,,,,,,,$11.58,,,,broadcom,usa,$232.65 b,,,,,,,,$574.44,,,,0
+55342,14735,dick's sporting goods,usa,,1948,,consumer cyclical consumer services retail,,not found,12293 million usd,,,,,,privia health group,usa,,,,,,,,,22,,,,0
+18003,15264,mega uranium,canada,,,,,,,,,0,,,,exchange income corporation,canada,,,,,,,,,39,,,,0
+112911,25971,sellas life sciences,usa,$67.32 m,,,,,,,,$3.27,,,,dover,usa,$19.41 b,,,,,,,,$138.35,,,,0
+153846,61416,choice hotels international,usa,$6.56 b,,,,,,,,$123.19,,,,docker,usa,,2010,,not found,,not found,not found,,,,,,0
+152356,23487,werner enterprises,usa,$2.88 b,,,,,,,,$45.62,,,,techtarget,usa,$1.24 b,,,,,,,,$42.44,,,,0
+58816,15059,"recursion pharmaceuticals, inc.",usa,,2013,,healthcare biotechnology,,not found,10 million usd,,,,,,ironwood pharmaceuticals,usa,,,,,,,,,13,,,,0
+155823,101765,archer aviation,usa,$0.75 b,,,,,,,,$3.10,,,,titan machinery,usa,$0.92 b,,,,,,,,$40.94,,,,0
+114773,87393,e. w. scripps company,usa,$1.14 b,,,,,,,,$13.77,,,,standard motor products (smp),usa,,,,,,,,,$37.43,,,,0
+167791,5340,focus universal,usa,$0.25 b,,,,,,,,$5.78,,,,fortress transportation and infrastructure investors llc,usa,2.311 billion usd,,,,,,,,,,,,0
+167236,53041,vertical aerospace,uk,$0.47 b,,,,,,,,$2.26,,,,genus,uk,,,,,healthcare,,676 million usd,,,,,,0
+88275,13335,columbia care,usa,,,,,,,,,$0.78,,,,houlihan lokey,usa,,,,,,,,,90,,,,0
+73089,11538,wolf & badger,uk,,2009,,,ecommerce,,11604670,,,,,,glaxosmithkline,uk,,,,,,,,,35,,,,0
+159349,114809,mastek,india,$0.62 b,,,,,,,,$20.87,,,,vip industries,india,$1.20 b,,,,,,,,$8.48,,,,0
+163697,9760,sensata technologies,usa,$6.86 b,,,,,,,,$44.85,,,,republic bancorp,usa,1.023 billion usd,,,,,,,,,,,,0
+84957,18034,onemain financial,usa,,,,,,,,,$38.50,,,,allied esports,usa,,,,,,,,,1,,,,0
+87469,7982,atn international,usa,,,,,,,,,$47.59,,,,greenbrier companies,usa,1.428 billion usd,,,,,,,,,,,,0
+158026,22975,akebia therapeutics,usa,$0.13 b,,,,,,,,$0.75,,,,accel entertainment,usa,$0.73 b,,,,,,,,$8.44,,,,0
+82547,3930,netflix,usa,,,,,,,,,$332.82,,,,goosehead insurance,usa,5.401 billion usd,,,,,,,,,,,,0
+164544,472,kangwon land,south korea,$3.90 b,,,,,,,,$19.28,,,,lg chem,south korea,50.469 billion usd,,,,,shin hakcheol,,,,,,,0
+100298,6106,texas capital bancshares,usa,$2.81 b,,,,,,,,$56.50,,,,seritage growth properties,usa,2.469 billion usd,,,,,,,,,,,,0
+157872,23704,cytosorbents,usa,$0.10 b,,,,,,,,$2.30,,,,paragon 28,usa,$1.53 b,,,,,,,,$19.90,,,,0
+159393,112443,universal health realty income trust,usa,$0.71 b,,,,,,,,$52.11,,,,soligenix,usa,$21.67 m,,,,,,,,$0.50,,,,0
+115356,54131,masonite,usa,$1.91 b,,,,,,,,$86.10,,,,live nation entertainment,usa,,1996,,communication services consumer services entertainment,,maffei. greg,6268 million usd,,,,,,0
+164490,162298,balchem,usa,$4.04 b,,,,,,,,$125.72,,,,pacific gas and electric,usa,$33.22 b,,,,,,,,$15.65,,,,0
+163964,15922,murphy usa,usa,$5.73 b,,,,,,,,$253.98,,,,new york mortgage trust,usa,,,,,,,,,3,,,,0
+88236,21745,loop media,usa,,,,,,,,,$6.00,,,,advent technologies,usa,$0.10 b,,,,,,,,$1.95,,,,0
+156539,21981,guess,usa,$1.24 b,,,,,,,,$22.83,,,,whole earth brands,usa,$0.17 b,,,,,,,,$4.21,,,,0
+117473,90392,disney incorporated,united states,,,,,,,,,,burbank,500 s buena vista st,,illinois tool works inc.,united states,,,,,industrials,,,itw,,,,,0
+24498,2589,pjt partners,usa,$3.07 b,,,,,,,,$77.77,,,,boyd gaming corporation,usa,6.887 billion usd,,,,,,,,,,,,0
+114453,103181,edelweiss financial services,india,$0.82 b,,,,,,,,$0.88,,,,mps limited,india,$0.20 b,,,,,,,,$11.77,,,,0
+165477,103719,aerovironment,usa,$2.08 b,,,,,,,,$82.91,,,,bird global,usa,$60.85 m,,,,,,,,$0.21,,,,0
+159074,15908,genius brands,usa,$0.20 b,,,,,,,,$0.66,,,,iovance biotherapeutics,usa,,,,,,,,,6,,,,0
+165835,151160,billtrust (btrs),usa,$1.59 b,,,,,,,,$9.49,,,,kinder morgan,usa,39.16 billion usd,1997.0,10529.0,,,steven j. kean,,,,,,,0
+155326,7621,biogen,usa,$41.87 b,,,,,,,,$290.78,,,,1-800-flowers.com,usa,2.067 billion usd,,,,,,,,,,,,0
+98432,16988,albertsons,usa,$11.14 b,,,,,,,,$20.82,,,,southern first bancshares,usa,,,,,,,,,45,,,,0
+87388,15039,point biopharma,usa,,,,,,,,,$7.81,,,,brigham minerals,usa,,,,,,,,,33,,,,0
+103558,102056,barnes & noble education,usa,$97.3 m,,,,,,,,$1.85,,,,hanger,usa,$0.73 b,,,,,,,,$18.72,,,,0
+83014,5011,brown forman,usa,,,,,,,,,$67.25,,,,werner enterprises,usa,3.204 billion usd,,,,,,,,,,,,0
+110547,22484,intuitive surgical,usa,$96.20 b,,,,,,,,$272.25,,,,capstar financial,usa,$0.39 b,,,,,,,,$18.10,,,,0
+144642,120625,howden group holdings,united kingdom,,1994,,other,,,,,,london,,,go daddy europe limited,united kingdom,,,,,,,,,,hayes,5th floor the shipping building the old vinyl factory,,0
+26916,5815,inglewood,japan,,2005,140.0,ecommerce,,,102.55,,,,,,pigeon corporation,japan,3.484 billion usd,,,,,,,,,,,,0
+167817,155181,the container store,usa,$0.24 b,,,,,,,,$4.86,,,,cardinal health,usa,$20.05 b,,,,,,,,$76.49,,,,0
+111983,53305,virtus investment partners,usa,$1.57 b,,,,,,,,$217.99,,,,pfizer,usa,,1849,,healthcare pharmaceutical healthcare products biotechnology technology,,albert bourla,81288 million usd,,,,,,0
+157386,14351,humanigen,usa,$20.23 m,,,,,,,,$0.17,,,,esab,usa,,,,,,,,,52,,,,0
+164394,89337,parsons,usa,$4.33 b,,,,,,,,$41.93,,,,aptinyx,usa,,,,,,,,,$0.51,,,,0
+100452,658,fluence energy,usa,$2.54 b,,,,,,,,$22.10,,,,tyson foods,usa,28.646 billion usd,,,,,john h tyson,,,,,,,0
+97475,63113,the travelers companies,usa,$43.73 b,,,,,,,,$186.64,,,,national research corporation,usa,,not found,,healthcare biotechnology technology healthcare products health care diagnostics,,not found,147 million usd,,,,,,0
+157868,23298,pedevco,usa,$96.94 m,,,,,,,,$1.13,,,,azz,usa,$1.03 b,,,,,,,,$41.49,,,,0
+162280,116063,electronic arts,usa,$34.78 b,,,,,,,,$125.99,,,,kemper,usa,$3.42 b,,,,,,,,$53.64,,,,0
+155849,155445,the vita coco company,usa,$0.77 b,,,,,,,,$13.78,,,,markel,usa,$18.93 b,,,,,,,,$1408,,,,0
+154061,25122,pure storage,usa,$8.29 b,,,,,,,,$27.43,,,,allegro microsystems,usa,$6.08 b,,,,,,,,$31.80,,,,0
+157431,3345,vislink technologies,usa,$27.49 m,,,,,,,,$0.58,,,,tripactions,usa,3190,,,,,,,,,,,,0
+161776,58705,alphabet (google),usa,$1.278 t,,,,,,,,$99.28,,,,stepan company,usa,,1932,,basic materials fmcg consumer non durables chemicals,,not found,2345 million usd,,,,,,0
+61570,6540,golden entertainment,usa,,2015,,consumer cyclical resorts casinos entertainment consumer services,,not found,1096 million usd,,,,,,great western bancorp,usa,1.706 billion usd,,,,,,,,,,,,0
+154494,85752,equitable holdings,usa,$11.44 b,,,,,,,,$30.92,,,,easterly government properties,usa,,,,,,,,,$15.81,,,,0
+72102,7001,bank of chongqing,china,$2.04 b,,,,,,,,,,,,eastern communications,china,1.819 billion usd,,,,,,,,,,,,0
+158288,150813,phathom pharmaceuticals,usa,$0.38 b,,,,,,,,$9.16,,,,moderna,usa,86.71 billion usd,2010.0,1800.0,,,stephane bancel,,,,,,,0
+101593,13392,cowen,usa,$1.08 b,,,,,,,,$38.65,,,,polaris,usa,,,,,,,,,103,,,,0
+149247,18669,swiftly,united states,,,,mobile telecommunications,,,,,,seattle,,,the bank of new york mellon corporation,united states,$40.83 billion,july 1 2007,49100.0,asset management,financials,mr. thomas p. gibbons,us$15.9 billion 2021,,,,,,0
+101118,89413,talos energy,usa,$1.57 b,,,,,,,,$19.05,,,,avaya holdings,usa,,,,,,,,,$0.28,,,,0
+166672,57225,smart global holdings,usa,$0.81 b,,,,,,,,$16.65,,,,spectrum brands holdings,usa,,1906,,consumer defensive home improvement home furnishing home appliances personal care products consumer goods fmcg,,not found,2998 million usd,,,,,,0
+154243,150918,first horizon national,usa,$13.21 b,,,,,,,,$24.62,,,,northrop grumman corporation,usa,63.00 billion usd,1994.0,88000.0,,,kathy warden,,,,,,,0
+156298,113411,ladder capital,usa,$1.39 b,,,,,,,,$11.01,,,,1stdibs.com,usa,$0.22 b,,,,,,,,$5.75,,,,0
+110404,96476,stryker corporation,united states,$101.41 b,1941,46000.0,medical devices,healthcare,mr. kevin a. lobo,,syk,,,,,"l3harris technologies, inc.",united states,$51.51 b,,,aerospace defense,industrials,,,lhx,,,,,0
+156499,86268,everbridge,usa,$1.19 b,,,,,,,,$30.00,,,,green plains,usa,,,,,,,,,$32.53,,,,0
+167662,13477,investors title company,usa,$0.29 b,,,,,,,,$153.48,,,,spirit realty capital,usa,,,,,,,,,40,,,,0
+85310,22937,affirm,usa,,,,,,,,,$12.88,,,,united fire group,usa,$0.71 b,,,,,,,,$28.40,,,,0
+100132,60632,alk-abello,denmark,$3.09 b,,,,,,,,$14.39,,,,drilling company of 1972 a/s,denmark,,not found,,energy oil and gas,,not found,1267 million usd,,,,,,0
+55041,22012,repligen corporation,usa,,1981,,healthcare biotechnology technology healthcare products medical equipment,,not found,670 million usd,,,,,,penns woods bancorp,usa,$0.18 b,,,,,,,,$26.40,,,,0
+163604,25395,dish network,usa,$7.37 b,,,,,,,,$13.90,,,,alcoa,usa,$8.24 b,,,,,,,,$46.60,,,,0
+56702,25951,ryman hospitality properties,usa,,1955,,real estate consumer services property investments,,not found,939 million usd,,,,,,hologic,usa,$18.14 b,,,,,,,,$73.80,,,,0
+166601,155659,w&t offshore,usa,$0.87 b,,,,,,,,$6.11,,,,adobe,usa,$161.60 b,,,,,,,,$347.61,,,,0
+158280,103629,carparts.com,usa,$0.38 b,,,,,,,,$6.98,,,,co-diagnostics,usa,$80.07 m,,,,,,,,$2.59,,,,0
+99571,2836,national beverage,usa,$4.54 b,,,,,,,,$48.67,,,,valvoline,usa,5.452 billion usd,,,,,,,,,,,,0
+152996,57602,onto innovation,usa,$3.89 b,,,,,,,,$78.71,,,,ameris bancorp,usa,,1971,,financial services banking services,,not found,990 million usd,,,,,,0
+87310,61386,gaotu techedu,china,,,,,,,,,$3.81,,,,ankon,china,,2008,,not found,,not found,not found,,,,,,0
+162637,23437,ventas,usa,$19.69 b,,,,,,,,$49.28,,,,the andersons,usa,$1.18 b,,,,,,,,$35.33,,,,0
+154817,59494,gilead sciences,usa,$106.28 b,,,,,,,,$84.74,,,,virtus investment partners,usa,,1995,,financial services investments asset management,,not found,979 million usd,,,,,,0
+87023,61094,azz,usa,,,,,,,,,$43.85,,,,first foundation,usa,,not found,,financial services banking services,,not found,294 million usd,,,,,,0
+162324,15063,keysight,usa,$31.99 b,,,,,,,,$178.92,,,,safehold,usa,,,,,,,,,31,,,,0
+155982,13283,winmark,usa,$0.89 b,,,,,,,,$259.40,,,,voya financial,usa,,,,,,,,,66,,,,0
+131800,64845,abbott laboratories,united states,,1888,113000.0,health care equipment services,,robert b. ford,$44.5b,,,,,,uber,united states,,,,,,,$17.45 b,,,,,,0
+64751,9471,metallurgical corp of china,china,,,,,,,$77.3 b,,,,,,xinjiang guannong fruit & antler,china,1.117 billion usd,,,,,,,,,,,,0
+58039,14093,independent bank group,usa,,2002,,financial services banking services,,not found,696 million usd annual revenue for year ending dec2020,,,,,,sentinelone,usa,,,,,,,,,13,,,,0
+9281,6609,guangxi liuzhou pharmaceutical,china,0.898 billion usd,,,,,,,,,,,,agile group holdings,china,4.573 billion usd,,,,,,,,,,,,0
+119420,18860,"basic energy services, l.p.",united states,,,,,,,,,,fort worth,801 cherry st ste 2100,,"healthpeak properties, inc.",united states,$18.76 billion,1985,196.0,reithealthcare facilities,real estate,mr. thomas m. herzog,$1.997 billion 2019 $1.847 billion 2018,,,,,,0
+152432,12470,squarespace,usa,$3.03 b,,,,,,,,$22.21,,,,apache corporation,usa,,,,,,,,,43,,,,0
+60203,3216,modivcare inc.,usa,,1996,,healthcare hospitals,,not found,1996 million usd,,,,,,iridium communications,usa,5.872 billion usd,,,,,,,,,,,,0
+98870,13010,gitlab,usa,$7.44 b,,,,,,,,$49.70,,,,pure storage,usa,,,,,,,,,27,,,,0
+110534,71530,wuliangye yibin,china,$90.17 b,,,,,,,,$23.23,,,,zte,china,$9.76 b,,,,,,,,,,,,0
+110593,2054,vertex pharmaceuticals,usa,$82.49 b,,,,,,,,$321.37,,,,avalara,usa,15.511 billion usd,,,,,,,,,,,,0
+155767,150869,meridianlink,usa,$1.25 b,,,,,,,,$15.55,,,,fidelity national information services,usa,71.64 billion usd,1968.0,65000.0,,,gary a. norcross,,,,,,,0
+25505,4594,lamar advertising,usa,$9.50 b,,,,,,,,$93.44,,,,"advanced energy industries, inc.",usa,3.464 billion usd,,,,,,,,,,,,0
+60696,2166,piper jaffray companies,usa,,not found,,financial services investments,,not found,not found,,,,,,churchill downs,usa,8.108 billion usd,,,,,,,,,,,,0
+165059,2293,kyndryl,usa,$2.78 b,,,,,,,,$12.30,,,,xpo logistics,usa,10.073 billion usd,,,,,,,,,,,,0
+163024,153284,marketaxess,usa,$12.64 b,,,,,,,,$335.98,,,,southwest gas,usa,$4.44 b,,,,,,,,$66.29,,,,0
+153363,84677,home bancshares,usa,$4.67 b,,,,,,,,$22.92,,,,chart industries,usa,,,,,,,,,$132.98,,,,0
+89153,23737,synchronoss,usa,,,,,,,,,$0.77,,,,goosehead insurance,usa,$1.56 b,,,,,,,,$40.26,,,,0
+72232,2669,hna technology,china,$1.21 b,,,,,,,,,,,,zhejiang weiming environment protection,china,5.573 billion usd,,,,,,,,,,,,0
+99274,57677,envista,usa,$5.56 b,,,,,,,,$34.11,,,,simmons first national corporation,usa,,1903,,financial services banking services,,not found,766 million usd,,,,,,0
+102207,87228,valhi,usa,$0.63 b,,,,,,,,$22.42,,,,steelcase,usa,,,,,,,,,$7.72,,,,0
+132895,117680,alcoa,united states,,1888,12200.0,materials,,roy harvey,$12.8b,,,,,,"rosen hotels and resorts, inc.",united states,,,,,,,,,,orlando,4000 destination pky,,0
+55697,21763,huntington ingalls industries,usa,,2011,,industries defense products transportation capital goods marine transportation shipping aerospace and defense,,not found,9524 million usd,,,,,,lee enterprises,usa,$0.10 b,,,,,,,,$17.41,,,,0
+102103,14087,travelcenters of america,usa,$0.69 b,,,,,,,,$46.85,,,,altair engineering,usa,,,,,,,,,47,,,,0
+166495,11367,perdoceo education,usa,$0.95 b,,,,,,,,$14.17,,,,chevron,usa,,,,,,,,,177,,,,0
+25010,7120,wintrust financial,usa,$5.31 b,,,,,,,,$87.42,,,,saul centers,usa,1.855 billion usd,,,,,,,,,,,,0
+152974,20810,cohen & steers,usa,$3.56 b,,,,,,,,$73.26,,,,armour residential reit,usa,$0.77 b,,,,,,,,$5.86,,,,0
+14627,14055,macerich,usa,,,,,,,,,12,,,,freshworks,usa,,,,,,,,,14,,,,0
+112878,110878,biolargo,usa,$58.93 m,,,,,,,,$0.21,,,,apollo global management,usa,$40.95 b,,,,,,,,$68.25,,,,0
+73457,62454,mpb group limited,uk,,2011,,,ecommerce,,72503245,,,,,,sumo group,uk,,2003,,gaming video games mobile games tech games casino games technology,,not found,285 million usd,,,,,,0
+101329,6648,rent-a-center,usa,$1.34 b,,,,,,,,$24.15,,,,virtusa corporation,usa,1.550 billion usd,,,,,,,,,,,,0
+97130,72396,alibaba,china,$240.68 b,,,,,,,,$90.91,,,,jiangxi bank,china,$1.23 b,,,,,,,,,,,,0
+165329,157849,sabre,usa,$2.32 b,,,,,,,,$7.08,,,,armata pharmaceuticals,usa,$91.73 m,,,,,,,,$2.54,,,,0
+152764,5608,albany international,usa,$3.34 b,,,,,,,,$107.42,,,,arcus biosciences,usa,2.083 billion usd,,,,,,,,,,,,0
+15166,12950,warby parker,usa,,,,,,,,,15,,,,adt,usa,,,,,,,,,9,,,,0
+60495,59959,long yuan construction group,china,,not found,,industries construction,,not found,not found,,,,,,luyang energy-saving materials,china,,not found,,basic materials chemicals,,not found,not found,,,,,,0
+148595,89357,miaoshou doctor,china,,,,ecommerce directtoconsumer,,,,,,beijing,,,zk international group,china,,,,,,,,,$1.03,,,,0
+155521,115876,equinix,usa,$65.73 b,,,,,,,,$710.33,,,,abm industries,usa,$2.94 b,,,,,,,,$44.93,,,,0
+158734,57786,rent the runway,usa,$0.25 b,,,,,,,,$3.91,,,,steven madden,usa,,1990,,consumer cyclical consumer non durables footwear,,not found,1866 million usd,,,,,,0
+100716,2044,crombie real estate investment trust,canada,$2.11 b,,,,,,,,$11.90,,,,algonquin power & utilities,canada,9.619 billion usd,,,,,,,,,,,,0
+16666,2162,ranpak,usa,,,,,,,,,6,,,,scotts miracle-gro company,usa,8.751 billion usd,,,,,,,,,,,,0
+156388,99055,hni corporation,usa,$1.28 b,,,,,,,,$31.00,,,,mohawk industries,usa,$6.47 b,,,,,,,,$101.94,,,,0
+164023,54594,chiba bank,japan,$5.52 b,,,,,,,,$37.38,,,,eisai,japan,,1941,,healthcare pharmaceutical healthcare products,,haruo naito,5518 million usd,,,,,,0
+112459,25754,hallmark financial services,usa,$12.62 m,,,,,,,,$6.94,,,,franklin resources,usa,$13.37 b,,,,,,,,$26.78,,,,0
+62784,17364,pulmonx corp,usa,,not found,,healthcare medical equipment,,not found,48 million usd,,,,,,community financial corporation,usa,,,,,,,,,39,,,,0
+83194,2310,kellogg's,usa,,,,,,,,,$70.00,,,,pinnacle financial partners,usa,7.376 billion usd,,,,,,,,,,,,0
+87398,17501,heritage commerce,usa,,,,,,,,,$13.25,,,,peoples bancorp of north carolina,usa,,,,,,,,,32,,,,0
+115488,55587,celldex therapeutics,usa,$2.19 b,,,,,,,,$46.61,,,,aptargroup,usa,,1992,,consumer cyclical plastics plastic products consumer non durables packaging,,not found,3227 million usd,,,,,,0
+132943,114844,dongguan rural commercial bank,china,,1952,7962.0,banking,,not found,$3.8b,,,,,,dingdong maicai,china,$1.22 b,,,,,,,,$5.87,,,,0
+117537,74884,accor uk business & leisure hotels limited,united kingdom,,,,,,,,,,london,10 hammersmith grove,,nb private equity partners limited,united kingdom,,,,asset management,financials,,,,,,,,0
+56750,53748,southwestern energy company,usa,,1929,,energy oil and gas natural gas generation,,not found,6667 million usd,,,,,,doordash,usa,,2013,,online food delivery food service technology internet or mobile app based business,,tony xu,4888 million usd,,,,,,0
+113286,6829,nature's sunshine products,usa,$0.18 b,,,,,,,,$9.47,,,,8x8,usa,2.706 billion usd,,,,,,,,,,,,0
+115099,82831,echostar,usa,$1.53 b,,,,,,,,$18.47,,,,cintas,usa,,,,,,,,,$448.92,,,,0
+118956,75055,era home security limited,united kingdom,,,,,,,,,,wolverhampton,unit g2 valiant way,,lookers plc,united kingdom,,,,auto truck dealerships,consumer discretionary,,,,,,,,0
+26597,6911,amazon,usa,$902.44 b,,,,,,,,$88.46,,,,fuelcell energy,usa,2.012 billion usd,,,,,,,,,,,,0
+101199,17328,grayscale bitcoin trust,usa,$1.47 b,,,,,,,,$8.40,,,,information services group,usa,,,,,,,,,5,,,,0
+60711,57655,zhuzhou times new material technology,china,,not found,,basic materials chemicals,,not found,not found,,,,,,beiqi foton motor,china,,not found,,consumer cyclical trucks bus manufacturing agriculture machinery sports vehicles automobile,,not found,8000 million usd,,,,,,0
+87954,53551,apollo endosurgery,usa,,,,,,,,,$9.88,,,,moody's corporation,usa,,1909,,financial services consulting services investments stock markets trading capital markets,,raymond w. mcdaniel,6218 million usd,,,,,,0
+84215,13517,pershing square holdings,usa,,,,,,,,,$36.42,,,,selective insurance,usa,,,,,,,,,92,,,,0
+20689,201,palomar holdings,usa,$1.33 b,,,,,,,,$52.76,,,,sherwin-williams company,usa,79.957 billion usd,,,,,john g. morikis,,,,,,,0
+16868,13321,orthofix medical,usa,,,,,,,,,20,,,,kinsale capital group,usa,,,,,,,,,272,,,,0
+61512,314,parkjockey,usa,,2013,,not found,,not found,not found,,,,,,"coinbase global, inc",usa,67.832 billion usd,,,,,brian armstrong,,,,,,,0
+27600,27478,wewe media group,singapore,,2013,8.0,sales marketing,,,9.55,,,,,,bluconnection,singapore,,2009,8.0,fashion,,,38.02,,,,,,0
+17999,7346,immunic,usa,,,,,,,,,1,,,,global net lease,usa,1.734 billion usd,,,,,,,,,,,,0
+112072,99949,select energy services,usa,$0.98 b,,,,,,,,$8.61,,,,insight enterprises,usa,$3.51 b,,,,,,,,$100.29,,,,0
+158846,151045,newtek,usa,$0.45 b,,,,,,,,$18.72,,,,newmont corporation,usa,47.39 billion usd,1921.0,14400.0,,,tom palmer,,,,,,,0
+87482,12646,healthstream,usa,,,,,,,,,$24.37,,,,aecom,usa,,,,,,,,,83,,,,0
+57047,7708,shanghai milkground food tech co. ltd,china,,not found,,basic materials fmcg package foods food products,,not found,652 million usd,,,,,,hytera communications corporation,china,1.416 billion usd,,,,,,,,,,,,0
+155481,23010,charter communications,usa,$60.42 b,,,,,,,,$388.14,,,,zuora,usa,$0.75 b,,,,,,,,$5.76,,,,0
+53664,14044,simon property group,usa,,1993,,real estate property investments commercial properties consumer services investments retail,,david simon,5116 million usd,,,,,,independence realty trust,usa,,,,,,,,,17,,,,0
+58488,12802,marathon patent group,usa,,2010,,financial services stock markets trading capital markets cryptocurrency,,not found,150 million usd,,,,,,bruker,usa,,,,,,,,,67,,,,0
+27015,26628,serosoft,india,,2008,135.0,technology,,,3.62,,,,,,roinet solution,india,,2012,202.0,fintech,,,23.52,,,,,,0
+100311,20443,scottsmiracle-gro,usa,$2.80 b,,,,,,,,$50.54,,,,vontier,usa,$2.98 b,,,,,,,,$18.91,,,,0
+132976,110231,marvell technology,united states,,1995,6729.0,semiconductors,,matthew j. murphy,$4.5b,,,,,,"j.b. hunt transport services, inc.",united states,$21.48 b,august 10 1961,33045.0,integrated freight logistics,industrials,mr. john n. roberts iii,,jbht,,,,,0
+154700,152839,american international group,usa,$47.47 b,,,,,,,,$63.90,,,,api group,usa,$4.81 b,,,,,,,,$20.56,,,,0
+115375,12960,eve air mobility,usa,$1.95 b,,,,,,,,$7.34,,,,us foods,usa,,,,,,,,,38,,,,0
+99408,2400,zurich airport,switzerland,$5.10 b,,,,,,,,$166.33,,,,baloise holding ag,switzerland,7.363 billion usd,,,,,,,,,,,,0
+16900,4726,greentree hospitality,china,,,,,,,,,4,,,,"xinxing ductile iron pipes co., ltd.",china,2.658 billion usd,,,,,,,,,,,,0
+8701,7225,broadmark realty capital,usa,1.393 billion usd,,,,,,,,,,,,camping world holdings,usa,3.498 billion usd,,,,,,,,,,,,0
+55408,14318,owens corning,usa,,1938,,industries capital goods machinery manufacturing manufacturing building products and equipment,,not found,8498 million usd,,,,,,eastern bankshares,usa,,,,,,,,,18,,,,0
+167542,22133,build-a-bear,usa,$0.34 b,,,,,,,,$23.13,,,,commercial vehicle group (cvg),usa,$0.23 b,,,,,,,,$6.97,,,,0
+62586,23237,msg networks,usa,,not found,,communication services television services media advertising consumer services entertainment,,not found,not found,,,,,,lyell immunopharma,usa,$0.95 b,,,,,,,,$3.85,,,,0
+166041,454,enerpac tool group,usa,$1.37 b,,,,,,,,$24.13,,,,digital realty trust,usa,46.441 billion usd,,,,,laurence a. chapman,,,,,,,0
+154852,112578,state street corporation,usa,$30.45 b,,,,,,,,$83.01,,,,arcadia biosciences,usa,$8.55 m,,,,,,,,$0.35,,,,0
+17046,13305,devolver digital,usa,,,,,,,,,1,,,,agilon health,usa,,,,,,,,,15,,,,0
+165155,7611,spectrum brands,usa,$2.61 b,,,,,,,,$64.18,,,,wesco aircraft holdings,usa,7216,,,,,,,,,,,,0
+162854,12558,jacobs engineering,usa,$15.20 b,,,,,,,,$120.06,,,,carlisle companies,usa,,,,,,,,,237,,,,0
+83234,22545,baxter,usa,,,,,,,,,$44.84,,,,zerofox,usa,$0.43 b,,,,,,,,$3.72,,,,0
+86065,5687,cedar fair,usa,,,,,,,,,$41.91,,,,arcbest corporation,usa,1.705 billion usd,,,,,,,,,,,,0
+132801,118686,j sainsbury,united kingdom,,1869,171000.0,retail and wholesale,,simon john roberts,$40.8b,,,,,,fis capital markets uk limited,united kingdom,,,,,,,,,,london,25 canada square,,0
+88424,54123,kimball international,usa,,,,,,,,,$7.26,,,,dover corporation,usa,,1955,,industries machinery manufacturing technology manufacturing engineering products industry machinery,,richard j. tobin,7907 million usd,,,,,,0
+21595,12011,brainstorm cell therapeutics,usa,$55.9 m,,,,,,,,$1.53,,,,hormel foods,usa,,,,,,,,,47,,,,0
+26196,22903,bajaj finserv,india,$31.29 b,,,,,,,,$19.65,,,,vaibhav global,india,$0.68 b,,,,,,,,$4.14,,,,0
+166394,152682,portillo's,usa,$1.02 b,,,,,,,,$21.23,,,,northern oil and gas,usa,$2.79 b,,,,,,,,$32.79,,,,0
+111178,23400,southwest airlines,usa,$23.60 b,,,,,,,,$39.75,,,,adaptive biotechnologies,usa,$1.13 b,,,,,,,,$7.95,,,,0
+56654,23187,semtech corporation,usa,,1960,,technology electronics semiconductors,,not found,740 million usd,,,,,,arcellx,usa,$0.92 b,,,,,,,,$20.22,,,,0
+54736,22226,marketaxess holdings,usa,,2000,,financial services software and it technology software products stock markets trading capital markets,,richard mcvey,698 million usd,,,,,,actinium pharmaceuticals,usa,$0.26 b,,,,,,,,$10.54,,,,0
+148564,71253,icertis,united states,,,,artificial intelligence,,,,,,bellevue,,,sysco,united states,$45.06 b,,,,,,,,,,,,0
+150954,86057,emerson electric company,usa,57.00 billion usd,1890.0,86700.0,,,lal karsanbhai,,,,,,,trinity industries,usa,,,,,,,,,$28.11,,,,0
+114021,24350,orion office reit,usa,$0.51 b,,,,,,,,$9.01,,,,petco,usa,$2.72 b,,,,,,,,$10.27,,,,0
+113818,111982,lovesac,usa,$0.39 b,,,,,,,,$26.12,,,,chimera investment corporation,usa,$1.57 b,,,,,,,,$6.80,,,,0
+159345,17916,stoneridge,usa,$0.62 b,,,,,,,,$22.97,,,,smart sand,usa,,,,,,,,,2,,,,0
+22599,15795,canoo,usa,$0.46 b,,,,,,,,$1.37,,,,bridgebio pharma,usa,,,,,,,,,7,,,,0
+99038,14030,ingredion,usa,$6.55 b,,,,,,,,$99.99,,,,allison transmission,usa,,,,,,,,,42,,,,0
+171014,97413,mr consulting,germany,,2017,9.0,,waste management recycling,,13165586,,,,,,deutsche post,germany,$48.80 b,,,,,,,,$40.07,,,,0
+113085,100991,selectquote,usa,$0.11 b,,,,,,,,$0.69,,,,dave & buster's,usa,$1.71 b,,,,,,,,$35.49,,,,0
+112788,89181,audacy,usa,$41.23 m,,,,,,,,$0.28,,,,jounce therapeutics,usa,,,,,,,,,$1.23,,,,0
+166799,113563,ani pharmaceuticals,usa,$0.73 b,,,,,,,,$42.02,,,,cipher mining,usa,$0.27 b,,,,,,,,$1.10,,,,0
+63116,62788,yujiahui,china,,not found,,consumer cyclical retail internet or mobile app based business ecommerce,,not found,not found,,,,,,immunotech biopharm ltd,china,,not found,,healthcare biotechnology,,not found,not found,,,,,,0
+165278,98278,gentherm,usa,$2.40 b,,,,,,,,$72.55,,,,unity software,usa,$13.11 b,,,,,,,,$32.53,,,,0
+166725,113492,ksb ltd,india,$0.78 b,,,,,,,,$22.34,,,,jain irrigation systems,india,$0.25 b,,,,,,,,$0.23,,,,0
+82469,8716,alphabet (google),usa,,,,,,,,,$92.80,,,,city holding company,usa,1.198 billion usd,,,,,,,,,,,,0
+111408,18143,icahn enterprises,usa,$17.06 b,,,,,,,,$50.57,,,,emcore corporation,usa,,,,,,,,,1,,,,0
+157929,8183,nuvectis pharma,usa,$0.10 b,,,,,,,,$7.51,,,,ibotta,usa,7693,,,,,,,,,,,,0
+18776,18542,invitation homes inc.,united states,$23.09 billion,2012,1240.0,reitresidential,real estate,mr. dallas b. tanner,$1.822 billion 2020,,,,,,intuit,united states,$126.77 billion,1983,13500.0,softwareapplication,technology,mr. sasan k. goodarzi,us$9.633 billion 2021,,,,,,0
+155623,6448,adidas,germany,$29.69 b,,,,,,,,$162.71,,,,patrizia ag,germany,2.235 billion usd,,,,,,,,,,,,0
+103769,85572,emcore corporation,usa,$50.69 m,,,,,,,,$1.35,,,,guardant health,usa,,,,,,,,,$30.43,,,,0
+113972,111419,allovir,usa,$0.48 b,,,,,,,,$5.25,,,,keycorp (keybank),usa,$17.30 b,,,,,,,,$18.55,,,,0
+8264,301,udacity,usa,7693,,,,,,,,,,,,kla corporation,usa,51.924 billion usd,,,,,kenneth levy,,,,,,,0
+166731,112029,ambac,usa,$0.77 b,,,,,,,,$17.29,,,,trulieve cannabis,usa,$1.26 b,,,,,,,,$6.80,,,,0
+163138,156580,albertsons,usa,$11.25 b,,,,,,,,$21.01,,,,adaptive biotechnologies,usa,$1.49 b,,,,,,,,$10.43,,,,0
+163024,25427,marketaxess,usa,$12.64 b,,,,,,,,$335.98,,,,catalent,usa,$8.49 b,,,,,,,,$47.22,,,,0
+154537,17724,united therapeutics,usa,$11.98 b,,,,,,,,$262.90,,,,latch,usa,,,,,,,,,1,,,,0
+158261,86599,surmodics,usa,$0.51 b,,,,,,,,$36.13,,,,sixth street specialty lending,usa,,,,,,,,,$18.74,,,,0
+86032,13607,cavco industries,usa,,,,,,,,,$261.94,,,,ccc intelligent solutions,usa,,,,,,,,,8,,,,0
+62411,14677,"accel entertainment, inc.",usa,,not found,,consumer cyclical gambling,,not found,734 million usd,,,,,,immunovant,usa,,,,,,,,,20,,,,0
+98056,57668,factset,usa,$17.11 b,,,,,,,,$449.30,,,,el paso electric company,usa,,not found,,utilities electric utilities,,not found,not found,,,,,,0
+25880,1048,broadridge financial solutions,usa,$16.75 b,,,,,,,,$142.39,,,,"uipath, inc.",usa,32.158 billion usd,,,,,daniel dines,,,,,,,0
+165336,17339,golub capital,usa,$2.31 b,,,,,,,,$13.55,,,,marinus pharmaceuticals,usa,,,,,,,,,5,,,,0
+103685,102697,know labs,usa,$67.9 m,,,,,,,,$1.41,,,,374water,usa,$0.38 b,,,,,,,,$3.00,,,,0
+158862,16198,equity bancshares,usa,$0.52 b,,,,,,,,$32.67,,,,taboola.com,usa,,,,,,,,,3,,,,0
+112904,62304,lightning emotors,usa,$65.59 m,,,,,,,,$0.73,,,,replimune group,usa,,not found,,healthcare biotechnology,,not found,0 million usd,,,,,,0
+157627,98587,biora therapeutics,usa,$41.72 m,,,,,,,,$4.67,,,,willscot,usa,$9.69 b,,,,,,,,$46.43,,,,0
+157782,22345,gaia,usa,$76.56 m,,,,,,,,$3.68,,,,innovid,usa,$0.32 b,,,,,,,,$2.40,,,,0
+62415,12505,hunan jiudian pharmaceutical,china,,not found,,healthcare pharmaceutical healthcare products biotechnology,,not found,not found,,,,,,bank of beijing,china,,,,,,,,,1,,,,0
+113300,22624,tupperware brands,usa,$0.18 b,,,,,,,,$4.18,,,,ezcorp,usa,$0.48 b,,,,,,,,$8.64,,,,0
+100516,864,united natural foods,usa,$2.43 b,,,,,,,,$40.72,,,,skyworks solutions,usa,30.298 billion usd,,,,,liam k. griffin,,,,,,,0
+114808,55859,naas technology,china,$1.20 b,,,,,,,,$5.61,,,,ming yang smart energy group,china,,not found,,industries industry machinery power equipment machinery manufacturing,,not found,4263 million usd,,,,,,0
+12073,4563,fortive,usa,,,,,,,,,66,,,,ameresco,usa,3.554 billion usd,,,,,,,,,,,,0
+17758,17341,the realreal,usa,,,,,,,,,1,,,,semler scientific,usa,,,,,,,,,34,,,,0
+167580,11418,pulmonx,usa,$0.32 b,,,,,,,,$8.66,,,,raytheon technologies,usa,,,,,,,,,102,,,,0
+120281,74973,"dura automotive holdings u.k., ltd",united kingdom,,,,,,,,,,birmingham,castle bromwich business park tameside drive,,rdi reit plc,united kingdom,,,,reiti12diversified,real estate,,,,,,,,0
+97920,3249,biomarin pharmaceutical,usa,$20.14 b,,,,,,,,$108.38,,,,sl green realty,usa,4.780 billion usd,,,,,,,,,,,,0
+155202,152754,nippon paint,japan,$20.52 b,,,,,,,,$8.74,,,,sega sammy holdings,japan,$3.30 b,,,,,,,,$14.97,,,,0
+167963,60530,planet13,usa,$0.20 b,,,,,,,,$0.91,,,,amc networks,usa,,not found,,communication services media advertising consumer services television services broadcasting,,not found,3077 million usd,,,,,,0
+162631,59215,china railway group,china,$20.01 b,,,,,,,,$0.56,,,,zhongmin energy,china,,not found,,utilities electric utilities renewable energy,,not found,not found,,,,,,0
+143729,90520,worldcoin,united states,,none,,fintech,,,,,,san francisco,,,dow inc.,united states,,,,,basic materials,,,dow,,,,,0
+148548,57816,hello transtech,china,,,,auto transportation,,,,,,shanghai,,,"baiyin nonferrous group co., ltd.",china,,not found,,basic materials mining,,not found,10625 million usd,,,,,,0
+102763,102416,nl industries,usa,$0.34 b,,,,,,,,$7.13,,,,broadmark realty capital,usa,$0.51 b,,,,,,,,$3.89,,,,0
+171722,52740,atheneum partners,germany,,2010,315.0,,technology,,33400000,,,,,,bechtle ag,germany,,,11487.0,,technology,,5303 million usd,,,,,,0
+166541,101232,sumo logic,usa,$0.92 b,,,,,,,,$7.67,,,,meridian bioscience,usa,$1.44 b,,,,,,,,$32.90,,,,0
+102452,85410,homestreet bank,usa,$0.50 b,,,,,,,,$26.71,,,,ptc therapeutics,usa,,,,,,,,,$47.78,,,,0
+154026,153246,dentsply sirona,usa,$7.98 b,,,,,,,,$37.16,,,,sitio royalties,usa,$4.36 b,,,,,,,,$28.12,,,,0
+153270,102525,phillips edison & company,usa,$4.42 b,,,,,,,,$33.77,,,,alerus financial,usa,$0.46 b,,,,,,,,$23.15,,,,0
+148431,56368,yuanfudao,china,,,,edtech,,,,,,beijing,,,cambricon technologies corporation limited,china,,not found,,technology software and it,,not found,113 million usd,,,,,,0
+164382,3080,maximus,usa,$4.39 b,,,,,,,,$72.38,,,,msa safety,usa,6.382 billion usd,,,,,,,,,,,,0
+90240,70846,royal bank of canada,canada,,,,,financials,,,ry,,,,,canadian imperial bank,canada,$51.21 b,,,,,,,,,,,,0
+21898,16543,hanover bancorp,usa,$0.14 b,,,,,,,,$20.30,,,,blink charging,usa,,,,,,,,,11,,,,0
+152258,87702,advanced drainage systems,usa,$7.61 b,,,,,,,,$91.88,,,,lindblad expeditions,usa,,,,,,,,,$11.28,,,,0
+170449,169617,global payments inc.,united states,$40.35 b,,,specialty business services,industrials,,,gpn,,,,,"alexandria real estate equities, inc.",united states,,,,reitoffice,real estate,,,are,,,,,0
+157610,100194,alkaline water company,usa,$38.16 m,,,,,,,,$0.26,,,,plexus,usa,$2.98 b,,,,,,,,$108.01,,,,0
+59381,7276,seritage growth properties,usa,,2015,,real estate financial services retail property investments commercial properties,,not found,116 million usd,,,,,,brinker international,usa,2.450 billion usd,,,,,,,,,,,,0
+54924,20475,carlisle companies,usa,,1917,,industries chemicals construction materials building products and equipment,,not found,4810 million usd,,,,,,wsfs financial,usa,$2.84 b,,,,,,,,$46.20,,,,0
+115530,101116,rocket lab,usa,$2.26 b,,,,,,,,$4.78,,,,corsair gaming,usa,$1.57 b,,,,,,,,$15.67,,,,0
+112326,16291,smiledirectclub,usa,$0.20 b,,,,,,,,$0.54,,,,ies holdings,usa,,,,,,,,,36,,,,0
+86481,25646,upwork,usa,,,,,,,,,$12.60,,,,equitable holdings,usa,$11.35 b,,,,,,,,$30.69,,,,0
+103722,82588,logan ridge finance,usa,$60.75 m,,,,,,,,$22.41,,,,blackrock,usa,,,,,,,,,$753.99,,,,0
+165132,16455,arcosa,usa,$2.65 b,,,,,,,,$54.89,,,,enhabit,usa,,,,,,,,,13,,,,0
+153084,20879,independence realty trust,usa,$4.14 b,,,,,,,,$18.01,,,,chuy's,usa,$0.53 b,,,,,,,,$29.74,,,,0
+155674,114693,mcdonald,usa,$199.51 b,,,,,,,,$272.41,,,,moneygram,usa,$1.05 b,,,,,,,,$10.89,,,,0
+102758,7389,bright health,usa,$0.35 b,,,,,,,,$0.56,,,,"dream finders homes, inc.",usa,1.924 billion usd,,,,,,,,,,,,0
+114304,84537,clear channel outdoor,usa,$0.71 b,,,,,,,,$1.51,,,,macy's,usa,,,,,,,,,$23.01,,,,0
+153584,89133,murphy oil,usa,$6.68 b,,,,,,,,$42.98,,,,root insurance,usa,,,,,,,,,$5.29,,,,0
+56059,16022,wesco international,usa,,1922,,industries telecom consumer non durables telecom equipment,,not found,18217 million usd,,,,,,american well,usa,,,,,,,,,3,,,,0
+114544,111543,amerant bancorp,usa,$0.92 b,,,,,,,,$27.43,,,,host hotels & resorts,usa,$12.77 b,,,,,,,,$17.61,,,,0
+101589,20216,angi homeservices,usa,$1.08 b,,,,,,,,$2.15,,,,smartsheet,usa,$4.70 b,,,,,,,,$35.92,,,,0
+155012,24038,royal caribbean,usa,$16.45 b,,,,,,,,$64.50,,,,evertec,usa,$2.07 b,,,,,,,,$31.82,,,,0
+167578,10659,velocity financial,usa,$0.32 b,,,,,,,,$10.00,,,,hibbett sports,usa,1.532 billion usd,,,,,,,,,,,,0
+101071,25603,dice therapeutics,usa,$1.61 b,,,,,,,,$33.94,,,,charles river laboratories,usa,$10.83 b,,,,,,,,$212.99,,,,0
+167503,16975,voyager therapeutics,usa,$0.35 b,,,,,,,,$9.16,,,,seaspine,usa,,,,,,,,,10,,,,0
+12920,12571,cullen/frost bankers,usa,,,,,,,,,135,,,,hubbell,usa,,,,,,,,,229,,,,0
+59679,58328,chengdu leejun industrial,china,,not found,,industries industry machinery,,not found,not found,,,,,,tuya inc.,china,,not found,,software and it cloud services internet of things software and it infrastructure,,not found,44 million usd,,,,,,0
+99842,72425,miniso group,china,$3.83 b,,,,,,,,$11.39,,,,zhejiang chint electrics,china,$10.5 b,,,,,,,,,,,,0
+22759,16053,kimball electronics,usa,$0.57 b,,,,,,,,$23.26,,,,b&g foods,usa,,,,,,,,,12,,,,0
+110517,2677,tata consultancy services,india,$154.57 b,,,,,,,,$42.24,,,,bharat electronics,india,6.471 billion usd,,,,,,,,,,,,0
+85918,53339,dana,usa,,,,,,,,,$17.50,,,,merck & co,usa,,1970,,healthcare pharmaceutical animal healthcare companies animal health medicine biotechnology healthcare products healthcare service technology,,kenneth c. frazier,48700 million usd,,,,,,0
+111138,53364,united rentals,usa,$24.71 b,,,,,,,,$356.57,,,,lowe's companies,usa,,1921,,consumer cyclical retail home furnishing home furniture consumer services,,marvin ellison,96250 million usd,,,,,,0
+162945,16482,evergy,usa,$13.68 b,,,,,,,,$59.64,,,,designer brands,usa,,,,,,,,,10,,,,0
+166757,18441,northfield bancorp,usa,$0.75 b,,,,,,,,$15.81,,,,ensysce biosciences,usa,,,,,,,,,1,,,,0
+87577,21313,otc markets group,usa,,,,,,,,,$57.15,,,,quoin pharmaceuticals,usa,$7.75 m,,,,,,,,$1.60,,,,0
+151431,55418,hess corporation,usa,26.83 billion usd,1933.0,1545.0,,,john b. hess,,,,,,,guardant health,usa,,2013,,healthcare biopharmaceutical biotechnology healthcare products scientific research products health care diagnostics,,not found,373 million usd,,,,,,0
+152987,102401,h.b. fuller,usa,$3.89 b,,,,,,,,$73.08,,,,mercantile bank,usa,$0.52 b,,,,,,,,$33.08,,,,0
+133092,8398,guangdong haid group,china,,1998,33557.0,food drink tobacco,,hua xue,$14b,,,,,,toread holdings group,china,1.441 billion usd,,,,,,,,,,,,0
+103264,14428,klx energy services,usa,$0.17 b,,,,,,,,$14.54,,,,pacific premier bancorp,usa,,,,,,,,,31,,,,0
+152566,21048,otter tail,usa,$2.56 b,,,,,,,,$61.66,,,,atomera,usa,$0.16 b,,,,,,,,$7.08,,,,0
+29481,19389,ecometrica,united kingdom,,2008,32.0,technology,,,6.4,,,,,,aon plc,united kingdom,$73.33 billion,1982,50000.0,insurance brokers,financials,mr. gregory clarence case,us$10 billion £8 billion as of 2017,,,,,,0
+115828,14764,vicor,usa,$2.87 b,,,,,,,,$65.19,,,,braze,usa,,,,,,,,,25,,,,0
+28429,25315,lateral kids,japan,,2013,621.0,education,,,20.87,,,,,,kepco,japan,$7.50 b,,,,,,,,$8.41,,,,0
+153168,82715,mueller industries,usa,$3.79 b,,,,,,,,$66.81,,,,blackstone group,usa,,,,,,,,,$85.04,,,,0
+110618,99319,becton dickinson,usa,$71.51 b,,,,,,,,$252.38,,,,post holdings,usa,$5.43 b,,,,,,,,$92.52,,,,0
+62739,19054,nihon parkerizing,japan,,1928,,basic materials chemicals,,not found,859 million usd,,,,,,bridgestone corp,japan,us$26.88 billion,,138036.0,auto parts,consumer discretionary,mr. shuichi ishibashi,,,,,,,0
+133232,8785,bank of guizhou,china,,2012,5255.0,banking,,not found,$3.6b,,,,,,shanghai datun energy resources,china,1.189 billion usd,,,,,,,,,,,,0
+12878,4355,toast,usa,,,,,,,,,17,,,,"squarespace, inc.",usa,6.160 billion usd,,,,,,,,,,,,0
+163770,20209,bok financial,usa,$6.56 b,,,,,,,,$97.58,,,,alight,usa,$4.83 b,,,,,,,,$8.60,,,,0
+88061,22173,atea pharmaceuticals,usa,,,,,,,,,$4.93,,,,dhi group,usa,$0.24 b,,,,,,,,$5.13,,,,0
+162906,58921,weichai power,china,$14.32 b,,,,,,,,$1.52,,,,"shandong weifang rainbow chemical co., ltd",china,,not found,,basic materials agriculture related,,not found,not found,,,,,,0
+89039,5,reading international,usa,,,,,,,,,$3.36,,,,tesla,usa,737.020 billion usd,,,,,elon musk,,,,,,,0
+100431,84843,mge energy,usa,$2.58 b,,,,,,,,$71.57,,,,chemours,usa,,,,,,,,,$33.58,,,,0
+157265,23346,aytu bioscience,usa,$12.51 m,,,,,,,,$3.68,,,,sun country airlines,usa,$1.07 b,,,,,,,,$18.41,,,,0
+54662,10325,alliant energy corporation,usa,,1917,,utilities electric utilities gas utilities,,john o. larsen,3669 million usd,,,,,,tinybuild inc.,usa,,,,,,,,,,,,,0
+16247,15967,alabama power,usa,,,,,,,,,25,,,,collegium pharmaceutical,usa,,,,,,,,,29,,,,0
+153273,62884,haemonetics,usa,$4.41 b,,,,,,,,$87.32,,,,prevail therapeutics,usa,,2017,,healthcare biotechnology,,not found,not found,,,,,,0
+54961,21535,floor & decor holdings,usa,,2000,,consumer cyclical retail consumer services home furniture home improvement,,not found,3433 million usd,,,,,,heartbeam,usa,$41.7 m,,,,,,,,$5.21,,,,0
+152717,12142,pennymac,usa,$3.20 b,,,,,,,,$63.98,,,,cardinal health,usa,,,,,,,,,79,,,,0
+24036,20209,aerovironment,usa,$2.07 b,,,,,,,,$82.37,,,,alight,usa,$4.83 b,,,,,,,,$8.60,,,,0
+8573,8378,zhejiang jingxin pharmaceutical,china,1.008 billion usd,,,,,,,,,,,,"cwb automotive electronics co., ltd.",china,1.184 billion usd,,,,,,,,,,,,0
+113530,102647,22nd century group,usa,$0.26 b,,,,,,,,$1.21,,,,gamco investors,usa,$0.39 b,,,,,,,,$15.39,,,,0
+98970,85470,graphic packaging,usa,$6.85 b,,,,,,,,$22.31,,,,california resources corporation,usa,,,,,,,,,$45.64,,,,0
+63178,1233,"henan yuguang gold&lead co., ltd.",china,,not found,,basic materials mining,,not found,not found,,,,,,shanghai fosun pharmaceutical (group),china,22.658 billion usd,,,,,,,,,,,,0
+111694,12987,national storage,usa,$5.41 b,,,,,,,,$38.36,,,,ugi corporation,usa,,,,,,,,,39,,,,0
+119081,64923,cdw logistics llc,united states,,,,,,,,,,vernon hills,200 n milwaulkee ave,,zoetis,united states,,,,,,,$7.78 b,,,,,,0
+101372,23569,modivcare,usa,$1.29 b,,,,,,,,$91.76,,,,saul centers,usa,$1.34 b,,,,,,,,$41.18,,,,0
+155143,53897,cleveland-cliffs,usa,$11.01 b,,,,,,,,$21.38,,,,kroger,usa,,1883,,consumer defensive retail food and beverage food products consumer services super markets hypermarkets,,rodney mcmullen,137890 million usd,,,,,,0
+112581,82995,cryptyde,usa,$8.86 m,,,,,,,,$0.28,,,,ametek,usa,,,,,,,,,$146.13,,,,0
+102020,1958,bangkok airways,thailand,$0.75 b,,,,,,,,$0.36,,,,kasikornbank public company,thailand,8.924 billion usd,,,,,,,,,,,,0
+26985,10380,wr logistics,germany,,2017,7.0,transport,,,11662200,,,,,,elringklinger ag,germany,1.038 billion usd,,,,,,,,,,,,0
+151095,12975,marathon petroleum corporation,usa,43.66 billion usd,2009.0,17700.0,,,michael j. hennigan,,,,,,,webster financial,usa,,,,,,,,,48,,,,0
+164128,164073,eagle materials,usa,$5.17 b,,,,,,,,$140.43,,,,mp materials,usa,$5.36 b,,,,,,,,$30.21,,,,0
+153740,115585,coherent,usa,$6.05 b,,,,,,,,$43.64,,,,navient,usa,$2.37 b,,,,,,,,$17.51,,,,0
+15252,6403,first national financial,canada,,,,,,,,,28,,,,novagold resources,canada,2.387 billion usd,,,,,,,,,,,,0
+149501,133401,orchard,united states,,,,fintech,,,,,,new york,,,waters,united states,,1958,7800.0,health care equipment services,,udit batra,$2.8b,,,,,,0
+114124,54812,heidrick & struggles,usa,$0.58 b,,,,,,,,$29.41,,,,bunge,usa,,1818,,consumer defensive agriculture related fmcg food products consumer non durables farming seeds milling,,greg heckman,59152 million usd,,,,,,0
+112268,13517,acrivon therapeutics,usa,$0.29 b,,,,,,,,$14.13,,,,selective insurance,usa,,,,,,,,,92,,,,0
+111910,12874,shake shack,usa,$2.30 b,,,,,,,,$54.75,,,,advance auto parts,usa,,,,,,,,,154,,,,0
+89356,15277,vaccinex,usa,,,,,,,,,$0.64,,,,phreesia,usa,,,,,,,,,31,,,,0
+152471,11639,national vision holdings,usa,$3.09 b,,,,,,,,$39.28,,,,southern copper,usa,,,,,,,,,67,,,,0
+166509,103649,steel partners,usa,$0.94 b,,,,,,,,$43.55,,,,nrx pharmaceuticals,usa,$76.43 m,,,,,,,,$1.13,,,,0
+165520,13152,ziprecruiter,usa,$2.02 b,,,,,,,,$18.37,,,,planet fitness,usa,,,,,,,,,80,,,,0
+133528,4065,cosco shipping development,china,,1997,13338.0,transportation,,chong liu,$5.4b,,,,,,shenzhen sed industry,china,2.997 billion usd,,,,,,,,,,,,0
+112221,1980,preformed line products,usa,$0.42 b,,,,,,,,$85.65,,,,synaptics,usa,7.374 billion usd,,,,,,,,,,,,0
+150692,103581,lowe's companies,usa,169.17 billion usd,1921.0,220000.0,,,marvin ellison,,,,,,,pulse biosciences,usa,$94.18 m,,,,,,,,$2.53,,,,0
+86643,86375,zentalis pharmaceuticals,usa,,,,,,,,,$24.94,,,,warrior met coal,usa,,,,,,,,,$34.43,,,,0
+87368,7196,yext,usa,,,,,,,,,$6.65,,,,"highpeak energy, inc.",usa,0.883 billion usd,,,,,,,,,,,,0
+171167,996,monese,uk,,2013,243.0,,fintech,,18196451,,,,,,segro,uk,21.333 billion usd,,,,,,,,,,,,0
+114598,13305,connectone bancorp,usa,$0.96 b,,,,,,,,$24.59,,,,agilon health,usa,,,,,,,,,15,,,,0
+132764,10015,gd power development,china,,1992,32913.0,utilities,,yan bing jia,$23.2b,,,,,,weihai guangtai airport equipment,china,1.194 billion usd,,,,,,,,,,,,0
+53940,20791,valero energy corporation,usa,,1980,,energy oil and gas petrochemicals lubricants fuels natural gas generation power generation chemicals,,joseph w. gorder,113980 million usd,,,,,,qcr holdings,usa,$0.83 b,,,,,,,,$49.53,,,,0
+111881,14952,revolution medicines,usa,$2.44 b,,,,,,,,$27.52,,,,sitio royalties,usa,,,,,,,,,26,,,,0
+166357,86766,crinetics pharmaceuticals,usa,$1.06 b,,,,,,,,$19.80,,,,xometry,usa,,,,,,,,,$28.37,,,,0
+153711,55748,sonoco,usa,$5.88 b,,,,,,,,$60.38,,,,silicon laboratories,usa,,1996,,technology electronics semiconductors technology hardware and instruments,,not found,720 million usd,,,,,,0
+162406,103585,fastenal,usa,$28.06 b,,,,,,,,$49.00,,,,park city group,usa,$92.92 m,,,,,,,,$5.05,,,,0
+103992,103972,aptinyx,usa,$17.13 m,,,,,,,,$0.25,,,,acelrx pharmaceuticals,usa,$18.77 m,,,,,,,,$2.52,,,,0
+87837,16068,purple innovation,usa,,,,,,,,,$5.76,,,,allogene therapeutics,usa,,,,,,,,,6,,,,0
+166167,86375,ryerson,usa,$1.24 b,,,,,,,,$33.76,,,,warrior met coal,usa,,,,,,,,,$34.43,,,,0
+115119,4297,vista outdoor,usa,$1.55 b,,,,,,,,$27.56,,,,hms holdings,usa,3.255 billion usd,,,,,,,,,,,,0
+158517,1012,curo group,usa,$0.19 b,,,,,,,,$4.73,,,,fox corporation,usa,20.814 billion usd,,,,,lachlan murdoch,,,,,,,0
+164316,153476,cadence bancorp,usa,$4.55 b,,,,,,,,$24.97,,,,iaa-insurance auto auctions,usa,$5.38 b,,,,,,,,$40.25,,,,0
+87281,11944,first foundation,usa,,,,,,,,,$15.16,,,,globalfoundries,usa,,,,,,,,,53,,,,0
+102056,21022,hanger,usa,$0.73 b,,,,,,,,$18.72,,,,ammo,usa,$0.22 b,,,,,,,,$1.94,,,,0
+58899,4178,jiangsu lopal tech.co,china,,not found,,energy oil and gas,,not found,not found,,,,,,ucommune,china,3958,,,,,,,,,,,,0
+103382,16746,first northwest bancorp,usa,$0.14 b,,,,,,,,$14.40,,,,vertex energy,usa,,,,,,,,,6,,,,0
+84194,17288,pure storage,usa,,,,,,,,,$26.46,,,,central valley community bancorp,usa,,,,,,,,,21,,,,0
+155746,102981,zeta global,usa,$1.84 b,,,,,,,,$8.92,,,,pds biotechnology,usa,$0.26 b,,,,,,,,$9.20,,,,0
+84427,15778,mks instruments,usa,,,,,,,,,$100.72,,,,orion engineered carbons,usa,,,,,,,,,18,,,,0
+101756,14997,pliant therapeutics,usa,$0.93 b,,,,,,,,$19.18,,,,tri pointe group,usa,,,,,,,,,20,,,,0
+156899,85114,u.s. cellular,usa,$1.90 b,,,,,,,,$22.41,,,,icu medical,usa,,,,,,,,,$177.13,,,,0
+162475,22719,ulta beauty,usa,$24.99 b,,,,,,,,$491.25,,,,bandwidth,usa,$0.55 b,,,,,,,,$21.94,,,,0
+110469,57168,procter & gamble,usa,$356.90 b,,,,,,,,$150.61,,,,ormat technologies,usa,,1965,,utilities electric utilities renewable energy,,not found,663 million usd,,,,,,0
+155033,4459,fox corporation,usa,$16.85 b,,,,,,,,$29.95,,,,m.d.c. holdings,usa,3.690 billion usd,,,,,,,,,,,,0
+97863,8136,beigene,china,$21.91 b,,,,,,,,$209.24,,,,chemao,china,7693,,,,,,,,,,,,0
+112236,20475,sciplay,usa,$0.37 b,,,,,,,,$16.50,,,,wsfs financial,usa,$2.84 b,,,,,,,,$46.20,,,,0
+159061,115395,agilethought,usa,$0.20 b,,,,,,,,$4.20,,,,renasant corp,usa,$2.01 b,,,,,,,,$36.03,,,,0
+116748,110389,s&p global market intelligence inc.,united states,,,,,,,,,,new york,55 water st 40 fl,,"salesforce.com, inc.",united states,$193.80 b,february 3 1999,73541.0,softwareapplication,technology,mr. marc r. benioff,,crm,,,,,0
+159859,118528,e-pol / personalizzalo,italy,,2012,12.0,,ecommerce,,16089160,,,,,,connectuw europe srl,italy,,,,,,,,,,mazara del vallo presso ced inga soc.coop.,via santa maria delle giummare 45,,0
+154252,18490,unity software,usa,$13.46 b,,,,,,,,$33.40,,,,genocea biosciences,usa,,,,,,,,,0,,,,0
+153559,17979,quidelortho,usa,$5.71 b,,,,,,,,$86.50,,,,ati physical therapy,usa,,,,,,,,,0,,,,0
+167288,164491,reservoir media,usa,$0.44 b,,,,,,,,$6.94,,,,freshworks,usa,$4.03 b,,,,,,,,$15.00,,,,0
+88977,62469,aura energy,australia,,,,,,,,,$0.21,,,,codan,australia,,not found,,technology technology hardware and instruments,,not found,350 million usd,,,,,,0
+161873,97743,ibm,usa,$126.56 b,,,,,,,,$141.20,,,,international flavors & fragrances,usa,$26.93 b,,,,,,,,$105.63,,,,0
+72553,53881,samsung sds,south korea,$8.71 b,,,,,,,,,,,,kakao,south korea,,1995,,communication services software and it internet or mobile app based business technology software products,,kim beomsu,5032 million usd,,,,,,0
+86701,13331,paramount group,usa,,,,,,,,,$6.17,,,,nextera energy partners,usa,,,,,,,,,72,,,,0
+115514,18208,trinity industries,usa,$2.22 b,,,,,,,,$27.39,,,,revlon,usa,,,,,,,,,0,,,,0
+110968,7193,old dominion freight line,usa,$33.45 b,,,,,,,,$302.85,,,,"montrose environmental group, inc.",usa,1.310 billion usd,,,,,,,,,,,,0
+103295,102999,cormedix,usa,$0.16 b,,,,,,,,$4.10,,,,pulmonx,usa,$0.25 b,,,,,,,,$6.84,,,,0
+157878,150786,powerfleet,usa,$98.47 m,,,,,,,,$2.72,,,,the pnc financial services group,usa,94.56 billion usd,1845.0,59426.0,,,william s. demchak,,,,,,,0
+116372,97050,merck sharp & dohme (argentina) inc.,united states,,,,,,,,,,rahway,126 e lincoln ave,,waters corporation,united states,$19.11 b,,,diagnostics research,healthcare,,,wat,,,,,0
+101812,4498,laredo petroleum,usa,$0.89 b,,,,,,,,$53.21,,,,installed building products,usa,3.688 billion usd,,,,,,,,,,,,0
+165535,3368,gogo inflight internet,usa,$1.99 b,,,,,,,,$15.70,,,,balchem corporation,usa,4.545 billion usd,,,,,,,,,,,,0
+63130,26447,ricoh leasing company,japan,,not found,,financial services,,not found,2217 million usd,,,,,,kddi,japan,$63.40 b,,,,,,,,$29.17,,,,0
+153815,20485,macy's,usa,$6.37 b,,,,,,,,$23.52,,,,equity commonwealth,usa,$2.86 b,,,,,,,,$26.15,,,,0
+114638,97793,benchmark electronics,usa,$1.00 b,,,,,,,,$28.64,,,,entergy,usa,$24.98 b,,,,,,,,$118.44,,,,0
+151430,21440,southwest airlines,usa,26.84 billion usd,1967.0,55100.0,,,robert e jordan,,,,,,,oragenics,usa,$23.34 m,,,,,,,,$0.20,,,,0
+16771,14060,mitek systems,usa,,,,,,,,,10,,,,h.b. fuller,usa,,,,,,,,,72,,,,0
+165077,113802,encore wire,usa,$2.74 b,,,,,,,,$149.67,,,,rbb bancorp,usa,$0.39 b,,,,,,,,$20.65,,,,0
+164087,5603,viper energy partners,usa,$5.32 b,,,,,,,,$32.27,,,,golub capital bdc,usa,2.666 billion usd,,,,,,,,,,,,0
+112208,20930,smith & wesson,usa,$0.47 b,,,,,,,,$10.28,,,,poseida therapeutics,usa,$0.43 b,,,,,,,,$5.02,,,,0
+167355,16907,futurefuel,usa,$0.41 b,,,,,,,,$9.58,,,,1-800-petmeds,usa,,,,,,,,,19,,,,0
+101855,97763,avepoint,usa,$0.85 b,,,,,,,,$4.59,,,,cdw corporation,usa,$25.99 b,,,,,,,,$192.03,,,,0
+55481,53491,eldorado resorts,usa,,1996,,consumer cyclical hotels consumer services casinos resorts,,not found,9570 million usd,,,,,,crown castle international corporation,usa,,1994,,real estate infrastructure cell towers infrastructure consumer services property investments,,landis martin,6340 million usd,,,,,,0
+171264,67636,financial house,uk,,2016,20.0,,fintech,,18766625,,,,,,learning technologies group,uk,,2013,,,technology,,,,,,,,0
+151192,22621,electronic arts,usa,37.27 billion usd,1982.0,11000.0,,,andrew wilson,,,,,,,clear channel outdoor,usa,$0.48 b,,,,,,,,$1.02,,,,0
+12586,7814,hua xia bank,china,,,,,,,,,1,,,,"jiangsu asia-pacific light alloy technology co., ltd.",china,1.064 billion usd,,,,,,,,,,,,0
+153136,15939,virtu financial,usa,$3.70 b,,,,,,,,$20.32,,,,paymentus,usa,,,,,,,,,8,,,,0
+167519,25632,workhorse group,usa,$0.34 b,,,,,,,,$2.12,,,,vf corporation,usa,$11.25 b,,,,,,,,$28.97,,,,0
+100014,5184,envestnet,usa,$3.36 b,,,,,,,,$60.84,,,,hilltop holdings,usa,2.716 billion usd,,,,,,,,,,,,0
+15271,12979,syndax pharmaceuticals,usa,,,,,,,,,24,,,,legend biotech,usa,,,,,,,,,50,,,,0
+166916,164789,cass information systems,usa,$0.65 b,,,,,,,,$48.12,,,,cvr energy,usa,$3.28 b,,,,,,,,$32.72,,,,0
+164367,59320,msc industrial direct,usa,$4.42 b,,,,,,,,$79.03,,,,membership collective group inc.,usa,,1995,,hotels leisure,,not found,560 million usd,,,,,,0
+20984,12105,whitehorse finance,usa,$0.29 b,,,,,,,,$12.90,,,,crowdstrike,usa,,,,,,,,,95,,,,0
+85331,17055,foot locker,usa,,,,,,,,,$39.19,,,,traeger,usa,,,,,,,,,3,,,,0
+25224,16788,coty,usa,$6.64 b,,,,,,,,$7.82,,,,biglari,usa,,,,,,,,,143,,,,0
+98111,97212,3i group,uk,$15.98 b,,,,,,,,$16.43,,,,rio tinto,uk,$115.03 b,,,,,,,,$70.72,,,,0
+103175,101211,nautilus biotechnology,usa,$0.20 b,,,,,,,,$1.62,,,,kinetik,usa,$1.46 b,,,,,,,,$32.08,,,,0
+20673,9421,23andme,usa,$1.37 b,,,,,,,,$3.01,,,,coherus biosciences,usa,1.222 billion usd,,,,,,,,,,,,0
+162222,159375,nucor,usa,$39.37 b,,,,,,,,$153.47,,,,gorman-rupp,usa,$0.71 b,,,,,,,,$27.33,,,,0
+6726,135,shantou dongfeng printing,china,1.303 billion usd,,,,,,,,,,,,china life insurance company,china,105.170 billion usd,,,,,yang mingsheng,,,,,,,0
+166112,61514,sinclair broadcast,usa,$1.30 b,,,,,,,,$18.74,,,,red ventures,usa,,2000,,media,,not found,not found,,,,,,0
+113412,101519,greenwich lifesciences,usa,$0.22 b,,,,,,,,$17.46,,,,verano holdings,usa,$1.14 b,,,,,,,,$3.52,,,,0
+111292,102331,marathon oil,usa,$18.88 b,,,,,,,,$29.74,,,,rayonier advanced materials,usa,$0.56 b,,,,,,,,$8.82,,,,0
+18244,3764,soligenix,usa,,,,,,,,,0,,,,national general holdings,usa,3.879 billion usd,,,,,,,,,,,,0
+158658,111441,comtech telecommunications,usa,$0.36 b,,,,,,,,$13.32,,,,lkq corporation,usa,$14.43 b,,,,,,,,$54.01,,,,0
+86901,21132,opko health,usa,,,,,,,,,$1.57,,,,orion energy systems,usa,$70.36 m,,,,,,,,$2.20,,,,0
+164972,16791,harmony biosciences,usa,$2.93 b,,,,,,,,$49.50,,,,carriage services,usa,,,,,,,,,30,,,,0
+111468,54460,teleflex,usa,$11.65 b,,,,,,,,$248.47,,,,splunk,usa,,2003,,technology software and it software products internet of things artificial intelligence cloud services software and it infrastructure,,graham smith,2673 million usd,,,,,,0
+62274,20513,tivity health,usa,,not found,,healthcare hospitals healthcare products healthcare service,,not found,438 million usd,,,,,,treehouse foods,usa,$2.66 b,,,,,,,,$47.53,,,,0
+113176,6735,daktronics,usa,$0.14 b,,,,,,,,$3.20,,,,holly energy partners,usa,1.961 billion usd,,,,,,,,,,,,0
+148930,116744,invision,united states,,,,internet software services,,,,,,new york,,,s&p global inc.,united states,,,,,,,,,,new york,55 water st fl 37,,0
+86401,54728,target hospitality,usa,,,,,,,,,$18.00,,,,howmet aerospace,usa,,1888,,aerospace products aerospace and defense engines manufacturing technology metal fabrication products industry machinery,,john c. plant,4972 million usd,,,,,,0
+116264,98237,avnet,usa,$4.02 b,,,,,,,,$43.99,,,,aspentech,usa,$13.65 b,,,,,,,,$211.65,,,,0
+87218,86906,astec industries,usa,,,,,,,,,$38.82,,,,kforce,usa,,,,,,,,,$58.25,,,,0
+164987,115433,dycom industries,usa,$2.90 b,,,,,,,,$98.31,,,,semtech,usa,$2.07 b,,,,,,,,$32.53,,,,0
+162957,15742,gaming and leisure properties,usa,$13.44 b,,,,,,,,$52.20,,,,southside bancshares,usa,,,,,,,,,36,,,,0
+152853,6695,new jersey resources,usa,$4.85 b,,,,,,,,$50.36,,,,goldman sachs bdc,usa,1.939 billion usd,,,,,,,,,,,,0
+159378,154347,old second bancorp,usa,$0.71 b,,,,,,,,$15.98,,,,apache corporation,usa,$14.74 b,,,,,,,,$45.87,,,,0
+114661,113959,titan international,usa,$1.02 b,,,,,,,,$16.27,,,,onewater marine,usa,$0.48 b,,,,,,,,$30.56,,,,0
+112334,84047,sandhar,india,$0.17 b,,,,,,,,$2.92,,,,adani wilmar,india,,,,,,,,,$6.99,,,,0
+83360,16028,mid-america apartment communities,usa,,,,,,,,,$159.91,,,,hibbett sports,usa,,,,,,,,,72,,,,0
+83882,53802,cleveland-cliffs,usa,,,,,,,,,$20.92,,,,general mills,usa,,1928,,consumer defensive food products fmcg dairy products consumer non durables package foods,,jeff harmening,18992 million usd,,,,,,0
+116577,74562,tor currency exchange limited,united kingdom,,,,,,,,,,penzance,st. marys terrace,,next plc,united kingdom,,,,apparel retail,consumer discretionary,,,,,,,,0
+155779,21493,saul centers,usa,$1.36 b,,,,,,,,$41.72,,,,avrobio,usa,$34.21 m,,,,,,,,$0.78,,,,0
+60451,59976,fuji oil holdings,japan,,1950,,consumer defensive fmcg package foods food products,,not found,3166 million usd,,,,,,comforia residential,japan,,2010,,real estate property investments,,not found,148 million usd,,,,,,0
+154568,25413,roblox,usa,$22.35 b,,,,,,,,$37.21,,,,signify health,usa,$8.38 b,,,,,,,,$28.67,,,,0
+59476,15240,laureate education,usa,,1989,,consumer defensive education consumer services,,not found,1086 million usd,,,,,,international seaways,usa,,,,,,,,,35,,,,0
+60285,11880,focused photonics (hangzhou),china,,not found,,technology technology hardware and instruments,,not found,not found,,,,,,china pacific insurance,china,,,,,,,,,4,,,,0
+114486,3643,par technology,usa,$0.86 b,,,,,,,,$31.88,,,,herc holdings,usa,3.953 billion usd,,,,,,,,,,,,0
+157553,151340,quoin pharmaceuticals,usa,$8.29 m,,,,,,,,$1.71,,,,consolidated edison,usa,30.31 billion usd,1823.0,14071.0,,,john mcavoy,,,,,,,0
+112985,6015,clearside biomedical,usa,$90.28 m,,,,,,,,$1.50,,,,dutch bros inc.,usa,,,,,,,,,,,,,0
+100765,4484,atricure,usa,$2.04 b,,,,,,,,$43.92,,,,"academy sports & outdoors, inc.",usa,4.077 billion usd,,,,,,,,,,,,0
+167292,9293,axogen,usa,$0.44 b,,,,,,,,$10.50,,,,faro technologies,usa,1.253 billion usd,,,,,,,,,,,,0
+153158,21160,yeti holdings,usa,$3.78 b,,,,,,,,$43.94,,,,capstone green energy,usa,$30.24 m,,,,,,,,$1.65,,,,0
+166876,55621,old second bancorp,usa,$0.68 b,,,,,,,,$15.27,,,,agnc investment,usa,,2008,,real estate consumer services investments property investments,,not found,912 million usd,,,,,,0
+159397,97906,riley permian,usa,$0.70 b,,,,,,,,$35.04,,,,waters corporation,usa,$20.43 b,,,,,,,,$343.97,,,,0
+154138,23049,cubesmart,usa,$9.68 b,,,,,,,,$42.86,,,,rackspace technology,usa,$0.80 b,,,,,,,,$3.80,,,,0
+162335,86328,digital realty,usa,$31.36 b,,,,,,,,$106.74,,,,century communities,usa,,,,,,,,,$58.06,,,,0
+85196,57193,franklin electric,usa,,,,,,,,,$86.46,,,,xerox holdings corporation,usa,,1906,,technology electronics computers hardware printers software and it,,not found,7038 million usd,,,,,,0
+144106,64538,aleo,united states,,2019,,cybersecurity,,,,,,san francisco,,,stryker,united states,,,,,,,$17.11 b,,,,,,0
+152901,21177,associated banc-corp,usa,$3.39 b,,,,,,,,$22.60,,,,cbdmd,usa,$16.96 m,,,,,,,,$0.28,,,,0
+101661,24486,fulgent genetics,usa,$1.01 b,,,,,,,,$33.71,,,,epr properties,usa,$3.06 b,,,,,,,,$40.79,,,,0
+156629,153544,virtus investment partners,usa,$1.54 b,,,,,,,,$213.02,,,,hashicorp,usa,$5.67 b,,,,,,,,$30.19,,,,0
+151336,2886,titan company,india,30.62 billion usd,1984.0,7235.0,,,c k venkataraman,,,,,,,glaxosmithkline consumer healthcare,india,2750,,,,,,,,,,,,0
+166148,97516,xponential fitness,usa,$1.26 b,,,,,,,,$25.64,,,,cheniere energy,usa,$40.58 b,,,,,,,,$163.20,,,,0
+100795,83003,empire state realty trust,usa,$1.99 b,,,,,,,,$7.12,,,,cognizant technology solutions,usa,,,,,,,,,$64.06,,,,0
+59691,55232,lenskart,india,,2010,,internet or mobile app based business ecommerce eyewear retail,,not found,not found,,,,,,samvardhana motherson international,india,,1986,,consumer cyclical automobile automobile parts,,not found,7865 million usd,,,,,,0
+83586,20743,rivian,usa,,,,,,,,,$16.45,,,,bally's corporation,usa,$1.08 b,,,,,,,,$23.04,,,,0
+170726,132584,firstenergy corp.,united states,$25.26 b,,,utilitiesdiversified,utilities,,,fe,,,,,equitable holdings,united states,,1859,7800.0,diversified financials,,mark pearson,$11b,,,,,,0
+151415,71549,kubota corporation,japan,27.15 billion usd,1890.0,43293.0,,,masatoshi kimata,,,,,,,sbi holdings,japan,$5.49 b,,,,,,,,,,,,0
+21670,20213,carrols restaurant group,usa,$78.84 m,,,,,,,,$1.48,,,,sps commerce,usa,$4.86 b,,,,,,,,$134.96,,,,0
+21763,1574,lee enterprises,usa,$0.10 b,,,,,,,,$17.41,,,,graco,usa,13.377 billion usd,,,,,,,,,,,,0
+89133,86821,root insurance,usa,,,,,,,,,$5.29,,,,telephone and data systems,usa,,,,,,,,,$11.43,,,,0
+154608,63067,genuine parts company,usa,$23.96 b,,,,,,,,$169.79,,,,"apria, inc.",usa,,not found,,medical equipment,,not found,not found,,,,,,0
+119199,75030,o2 (uk) limited,united kingdom,,,,,,,,,,worthing,highdown house yeoman way,,pacific assets trust,united kingdom,,,,asset management,financials,,,,,,,,0
+20707,7544,kaiser aluminum,usa,$1.28 b,,,,,,,,$80.56,,,,heska corporation,usa,2.824 billion usd,,,,,,,,,,,,0
+23858,20508,nuvalent,usa,$1.74 b,,,,,,,,$30.97,,,,frontier airlines,usa,$2.66 b,,,,,,,,$12.24,,,,0
+111182,716,firstenergy,usa,$23.73 b,,,,,,,,$41.52,,,,eversource energy,usa,31.179 billion usd,,,,,joseph r. nolan jr.,,,,,,,0
+53680,23643,enterprise products partners,usa,,1968,,energy oil and gas oil refining petrochemicals gas utilities natural gas generation utilities chemicals,,william c. montgomery,40806 million usd,,,,,,global net lease,usa,$1.43 b,,,,,,,,$13.53,,,,0
+148444,96701,brex,united states,,,,fintech,,,,,,san francisco,,,"west pharmaceutical services, inc.",united states,$30.23 b,,,medical instruments supplies,healthcare,,,wst,,,,,0
+103034,21722,livevox,usa,$0.24 b,,,,,,,,$2.45,,,,spectrum pharmaceuticals,usa,$90.02 m,,,,,,,,$0.44,,,,0
+167129,158938,hyster-yale materials handling,usa,$0.52 b,,,,,,,,$31.22,,,,everquote,usa,$0.55 b,,,,,,,,$17.30,,,,0
+158320,88687,vor biopharma,usa,$0.39 b,,,,,,,,$6.00,,,,kempharm,usa,,,,,,,,,$5.52,,,,0
+87752,23528,playstudios,usa,,,,,,,,,$4.24,,,,allogene therapeutics,usa,$1.30 b,,,,,,,,$9.03,,,,0
+26587,4020,eli lilly,usa,$353.43 b,,,,,,,,$371.97,,,,lexington realty trust,usa,3.780 billion usd,,,,,,,,,,,,0
+167515,15097,postal realty trust,usa,$0.34 b,,,,,,,,$14.97,,,,green plains,usa,,,,,,,,,32,,,,0
+115493,84740,credo technology,usa,$2.20 b,,,,,,,,$15.00,,,,the ensign group,usa,,,,,,,,,$98.53,,,,0
+83782,72991,nexi,italy,,,,,,,,,$9.04,,,,christmas the original,italy,,2016,,,retail,,1994200,,,,,,0
+88194,58356,southern first bancshares,usa,,,,,,,,,$43.99,,,,j & j snack foods,usa,,1971,,consumer defensive food and beverage food products consumer non durables fmcg package foods,,not found,1144 million usd,,,,,,0
+164212,112168,stericycle,usa,$4.86 b,,,,,,,,$52.82,,,,everquote,usa,$0.56 b,,,,,,,,$17.71,,,,0
+154361,85834,sei investments,usa,$8.35 b,,,,,,,,$62.00,,,,cal-maine foods,usa,,,,,,,,,$54.10,,,,0
+115579,97124,jamf,usa,$2.36 b,,,,,,,,$19.48,,,,merck,usa,$282.82 b,,,,,,,,$111.55,,,,0
+24716,15441,altair engineering,usa,$3.84 b,,,,,,,,$47.96,,,,clearfield,usa,,,,,,,,,96,,,,0
+157369,9617,quanergy systems,usa,$1.19 m,,,,,,,,$0.07400,,,,german american bancorp,usa,0.992 billion usd,,,,,,,,,,,,0
+12019,6389,seagen,usa,,,,,,,,,136,,,,plains group holdings,usa,1.895 billion usd,,,,,,,,,,,,0
+162541,8220,sirius xm,usa,$22.71 b,,,,,,,,$5.84,,,,moneylion,usa,7693,,,,,,,,,,,,0
+25768,24599,formula one group,usa,$13.61 b,,,,,,,,$58.99,,,,chegg,usa,$3.46 b,,,,,,,,$27.59,,,,0
+89617,83818,hillstream biopharma,usa,,,,,,,,,$0.42,,,,zoominfo,usa,,,,,,,,,$26.01,,,,0
+113106,3403,rvl pharmaceuticals,usa,$0.11 b,,,,,,,,$1.21,,,,kinsale capital group,usa,4.147 billion usd,,,,,,,,,,,,0
+88982,87326,rigetti computing,usa,,,,,,,,,$0.92,,,,quinstreet,usa,,,,,,,,,$15.67,,,,0
+18387,15266,onfolio holdings,usa,,,,,,,,,2,,,,trico bancshares,usa,,,,,,,,,50,,,,0
+111849,86266,hanesbrands,usa,$2.79 b,,,,,,,,$8.00,,,,earthstone energy,usa,,,,,,,,,$13.83,,,,0
+164318,112925,allegheny technologies,usa,$4.55 b,,,,,,,,$35.20,,,,tonix pharmaceuticals,usa,$70.76 m,,,,,,,,$1.23,,,,0
+164091,97899,united bankshares,usa,$5.31 b,,,,,,,,$39.44,,,,hewlett packard enterprise,usa,$20.76 b,,,,,,,,$16.20,,,,0
+156644,14818,stellar bancorp,usa,$1.54 b,,,,,,,,$29.62,,,,cedar fair,usa,,,,,,,,,43,,,,0
+153436,153417,hexcel,usa,$5.26 b,,,,,,,,$62.60,,,,bwx technologies,usa,$5.22 b,,,,,,,,$57.25,,,,0
+102520,3959,five star bancorp,usa,$0.46 b,,,,,,,,$27.01,,,,physicians realty trust,usa,4.050 billion usd,,,,,,,,,,,,0
+144270,131818,thatgamecompany,united states,,2006,,internet software services,,,,,,los angeles,,,deere & company,united states,,1837,75600.0,capital goods,,john c. may,$44.5b,,,,,,0
+22916,22092,office properties income trust,usa,$0.69 b,,,,,,,,$14.23,,,,ocular therapeutix,usa,$0.21 b,,,,,,,,$2.80,,,,0
+82678,62729,dbs group,singapore,,,,,,,,,$26.37,,,,gl limited,singapore,,not found,,consumer cyclical hotels resorts leisure tourism,,not found,not found,,,,,,0
+111723,83503,applied industrial technologies,usa,$4.71 b,,,,,,,,$122.29,,,,factset,usa,,,,,,,,,$421.36,,,,0
+155395,1557,pinterest,usa,$18.12 b,,,,,,,,$26.73,,,,cboe global markets,usa,13.450 billion usd,,,,,edward t. tilly,,,,,,,0
+83856,82576,c. h. robinson,usa,,,,,,,,,$93.63,,,,starbucks,usa,,,,,,,,,$107.23,,,,0
+86209,11528,payoneer,usa,,,,,,,,,$5.78,,,,vertex pharmaceuticals,usa,,,,,,,,,290,,,,0
+158141,16639,sasken technologies,india,$0.16 b,,,,,,,,$11.26,,,,infibeam avenues,india,,,,,,,,,0,,,,0
+144392,54473,biren technology,china,,2019,,hardware,,,,,,shanghai,,,air china,china,,1988,,industries aviation airlines,,not found,10846 million usd,,,,,,0
+165010,110493,vicor,usa,$2.87 b,,,,,,,,$65.19,,,,lowe's companies,usa,$129.91 b,,,,,,,,$214.84,,,,0
+103452,82984,finwise bancorp,usa,$0.12 b,,,,,,,,$9.57,,,,mplx,usa,,,,,,,,,$34.10,,,,0
+88976,88518,quick heal,india,,,,,,,,,$2.16,,,,hindustan sanitaryware & industries,india,,,,,,,,,$3.77,,,,0
+155618,20950,albemarle,usa,$29.27 b,,,,,,,,$249.88,,,,nacco industries,usa,$0.33 b,,,,,,,,$45.19,,,,0
+101475,53894,ecovyst,usa,$1.18 b,,,,,,,,$9.07,,,,ameriprise financial,usa,,1894,,financial services insurance investments asset management,,james cracchiolo,13443 million usd,,,,,,0
+166084,13369,sovos brands,usa,$1.33 b,,,,,,,,$13.19,,,,magnolia oil & gas,usa,,,,,,,,,22,,,,0
+21561,12050,tessco technologies,usa,$45.1 m,,,,,,,,$4.90,,,,vulcan materials,usa,,,,,,,,,181,,,,0
+56221,8016,shandong sinocera functional material,china,,2005,,basic materials chemicals,,not found,496 million usd,,,,,,yibin tianyuan group,china,1.516 billion usd,,,,,,,,,,,,0
+21075,791,lazydays holdings,usa,$0.14 b,,,,,,,,$13.45,,,,laboratory corporation of america holdings,usa,29.328 billion usd,,,,,adam h. schechter,,,,,,,0
+165538,97114,formfactor,usa,$1.98 b,,,,,,,,$25.82,,,,mastercard,usa,$343.73 b,,,,,,,,$357.51,,,,0
+53781,24469,l3harris technologies,usa,,2019,,industries electronics technology hardware and instruments communications equipment networking products solutions automation robotics marine systems space products technology machinery manufacturing capital goods manufacturing aerospace and defense,,chris kubasik,17814 million usd,,,,,,kohl's,usa,$3.03 b,,,,,,,,$27.47,,,,0
+164179,99246,ormat technologies,usa,$4.99 b,,,,,,,,$89.01,,,,oshkosh corporation,usa,$5.70 b,,,,,,,,$87.20,,,,0
+89322,24378,houston american energy,usa,,,,,,,,,$3.77,,,,spirit aerosystems,usa,$2.77 b,,,,,,,,$26.33,,,,0
+63135,60910,hecla mining company,usa,,not found,,basic materials mining metals silver mining gold mining,,not found,807 million usd,,,,,,zeta global holdings corp.,usa,,not found,,shell company software and it,,not found,458 million usd,,,,,,0
+156280,88007,kratos defense & security solutions,usa,$1.37 b,,,,,,,,$10.94,,,,ngm biopharmaceuticals,usa,,,,,,,,,$5.30,,,,0
+100597,59190,sprinklr,usa,$2.32 b,,,,,,,,$8.89,,,,century communities,usa,,2002,,consumer cyclical construction materials capital goods construction,,not found,4216 million usd,,,,,,0
+25847,23726,synchrony,usa,$15.60 b,,,,,,,,$34.63,,,,tidewater,usa,$1.55 b,,,,,,,,$30.79,,,,0
+112827,2102,intellicheck,usa,$47.56 m,,,,,,,,$2.51,,,,five9,usa,10.712 billion usd,,,,,,,,,,,,0
+23752,17534,veritex holdings,usa,$1.59 b,,,,,,,,$29.56,,,,alaunos therapeutics,usa,,,,,,,,,1,,,,0
+75107,74986,brickability group plc,united kingdom,,,,industrial distribution,industrials,,,,,,,,sig plc,united kingdom,,,,industrial distribution,industrials,,,,,,,,0
+86710,3747,city holding company,usa,,,,,,,,,$93.87,,,,brighthouse financial,usa,4.069 billion usd,,,,,,,,,,,,0
+61892,7197,banc of california,usa,,not found,,financial services banking services,,not found,272 million usd,,,,,,faraday future intelligent electric inc.,usa,3.081 billion usd,,,,,,,,,,,,0
+54368,2771,trimble,usa,,1978,,technology software and it capital goods software products technology hardware and instruments,,steven w. berglund,3659 million usd,,,,,,royal gold,usa,7.304 billion usd,,,,,,,,,,,,0
+159033,102498,park aerospace,usa,$0.28 b,,,,,,,,$13.75,,,,bluegreen vacations,usa,$0.47 b,,,,,,,,$24.86,,,,0
+152645,97518,forward air,usa,$2.70 b,,,,,,,,$101.85,,,,devon energy,usa,$40.47 b,,,,,,,,$61.92,,,,0
+87628,85975,york water,usa,,,,,,,,,$45.43,,,,kimbell royalty partners,usa,,,,,,,,,$16.85,,,,0
+18366,6058,reborn coffee,usa,,,,,,,,,1,,,,"stem, inc.",usa,3.274 billion usd,,,,,,,,,,,,0
+59274,2839,taiji computer corporation,china,,not found,,technology software and it,,not found,not found,,,,,,zhejiang yongtai technology,china,6.076 billion usd,,,,,,,,,,,,0
+87892,16466,eagle point credit company,usa,,,,,,,,,$10.60,,,,camden national bank,usa,,,,,,,,,42,,,,0
+18234,14082,fgi industries,usa,,,,,,,,,2,,,,mgic investment,usa,,,,,,,,,13,,,,0
+87050,23460,wolverine world wide,usa,,,,,,,,,$13.62,,,,avanos medical,usa,$1.20 b,,,,,,,,$25.97,,,,0
+163957,15692,spirit realty capital,usa,$5.76 b,,,,,,,,$41.30,,,,tennant company,usa,,,,,,,,,65,,,,0
+100144,98179,weatherford international,usa,$3.07 b,,,,,,,,$43.58,,,,mongodb,usa,$14.59 b,,,,,,,,$210.65,,,,0
+111980,3107,sally beauty holdings,usa,$1.57 b,,,,,,,,$14.69,,,,novanta,usa,5.422 billion usd,,,,,,,,,,,,0
+116088,23625,sanmina,usa,$3.47 b,,,,,,,,$60.59,,,,cargurus,usa,$1.41 b,,,,,,,,$11.93,,,,0
+155285,84026,energy transfer partners,usa,$39.78 b,,,,,,,,$12.85,,,,bj's wholesale club,usa,,,,,,,,,$69.05,,,,0
+159909,70,leogra trading,germany,,2014,11.0,,retail,,5078464,,,,,,sap se,germany,178.440 billion usd,,,,,hasso plattner,,,,,,,0
+111205,85293,hewlett packard enterprise,usa,$21.47 b,,,,,,,,$16.69,,,,hecla mining,usa,,,,,,,,,$6.23,,,,0
+156957,115563,wd-40 company,usa,$2.36 b,,,,,,,,$173.93,,,,nuvasive,usa,$2.33 b,,,,,,,,$44.79,,,,0
+9368,4889,"amylyx pharmaceuticals, inc.",usa,,,,,,,,,,,,,"life time group holdings, inc.",usa,,,,,,,,,,,,,0
+112147,103571,amalgamated financial,usa,$0.70 b,,,,,,,,$22.93,,,,relmada therapeutics,usa,$95.41 m,,,,,,,,$3.17,,,,0
+17011,15019,braemar hotels & resorts,usa,,,,,,,,,4,,,,shutterstock,usa,,,,,,,,,56,,,,0
+113016,110489,beyondspring,usa,$97.32 m,,,,,,,,$2.50,,,,elevance health,usa,$125.66 b,,,,,,,,$523.60,,,,0
+72777,54402,treedom,italy,,2010,,,support services,,6709720,,,,,,snam,italy,,1941,,utilities gas utilities infrastructure energy,,nicola bedin,3284 million usd,,,,,,0
+155831,103882,united fire group,usa,$0.76 b,,,,,,,,$30.21,,,,lightpath technologies,usa,$29.79 m,,,,,,,,$1.10,,,,0
+103273,86599,fiesta restaurant group,usa,$0.17 b,,,,,,,,$6.76,,,,sixth street specialty lending,usa,,,,,,,,,$18.74,,,,0
+165390,163151,claros mortgage trust,usa,$2.22 b,,,,,,,,$16.10,,,,news corp,usa,$11.16 b,,,,,,,,$19.64,,,,0
+159765,118409,lmg building,italy,,1982,12.0,,construction,,6255970,,,,,,esso italiana srl,italy,,,,,,,,,,milano,viale cassala 57,,0
+166643,84819,unitil corporation,usa,$0.83 b,,,,,,,,$52.26,,,,ipg photonics,usa,,,,,,,,,$106.41,,,,0
+110878,53982,apollo global management,usa,$40.95 b,,,,,,,,$68.25,,,,dollar tree,usa,,1986,,consumer defensive retail consumer services convenience stores,,macon f. brock jr.,26321 million usd,,,,,,0
+104008,59327,air industries group,usa,$15.59 m,,,,,,,,$4.80,,,,lemonade,usa,,2015,,insurance financial services,,not found,128 million usd,,,,,,0
+18308,248,stronghold digital mining,usa,,,,,,,,,0,,,,norfolk southern corporation,usa,62.617 billion usd,,,,,charles moorman,,,,,,,0
+111728,97994,atkore,usa,$4.73 b,,,,,,,,$118.88,,,,northern trust,usa,$18.39 b,,,,,,,,$88.24,,,,0
