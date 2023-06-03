@@ -1,0 +1,325 @@
+,table_1,table_2,column_table_1,column_table_2,match_value
+0,mediated_schema,Silvestri-value.today.json,country,country,0.8481752
+1,mediated_schema,Silvestri-value.today.json,sector,sector,0.84541786
+2,mediated_schema,Silvestri-value.today.json,name,name,0.8387214
+3,mediated_schema,Silvestri-value.today.json,ceo,ceo,0.83460057
+4,mediated_schema,Silvestri-value.today.json,employees,employees_2022,0.6384169
+5,mediated_schema,Silvestri-value.today.json,revenue,revenue_2022,0.6045354
+6,mediated_schema,Silvestri-value.today.json,market cap,market_value_jan_2020,0.42156458
+7,mediated_schema,Silvestri-value.today.json,market cap,market_value_jan_2021,0.42156458
+8,mediated_schema,Silvestri-value.today.json,market cap,market_value_jan_2022,0.42156458
+9,mediated_schema,Gren-disfold.com.json,industry,industry,0.8562453
+10,mediated_schema,Gren-disfold.com.json,country,country,0.85379434
+11,mediated_schema,Gren-disfold.com.json,sector,sector,0.85103697
+12,mediated_schema,Gren-disfold.com.json,stock,stock,0.84791195
+13,mediated_schema,Gren-disfold.com.json,name,name,0.8443405
+14,mediated_schema,Gren-disfold.com.json,market cap,market_capitalization_USD,0.43649006
+15,mediated_schema,Wissel-ariregister.rik.ee.json,address,Address,0.77984214
+16,mediated_schema,Wissel-ariregister.rik.ee.json,name,Name,0.77038836
+17,mediated_schema,Wissel-ariregister.rik.ee.json,stock,Status,0.32972017
+18,mediated_schema,Wissel-ariregister.rik.ee.json,share price,Source,0.32492507
+19,mediated_schema,Wissel-ariregister.rik.ee.json,country,Code,0.32019636
+20,mediated_schema,Wissel-ariregister.rik.ee.json,revenue,Role,0.32019636
+21,mediated_schema,Wissel-ariregister.rik.ee.json,city,Area of Activity,0.31145978
+22,mediated_schema,Wissel-ariregister.rik.ee.json,website,Start Date,0.27730602
+23,mediated_schema,Wissel-ariregister.rik.ee.json,industry,ID,0.25088286
+24,mediated_schema,MalPatSaj-disfold.com.json,industry,Industry,0.8668362
+25,mediated_schema,MalPatSaj-disfold.com.json,country,Country,0.86438525
+26,mediated_schema,MalPatSaj-disfold.com.json,sector,Sector,0.8616278
+27,mediated_schema,MalPatSaj-disfold.com.json,stock,Stock,0.85850286
+28,mediated_schema,MalPatSaj-disfold.com.json,name,Name,0.85493135
+29,mediated_schema,MalPatSaj-disfold.com.json,market cap,MarketCap,0.7292944
+30,mediated_schema,DDD-ft.com.json,country,country,0.8233604
+31,mediated_schema,DDD-ft.com.json,sector,sector,0.820603
+32,mediated_schema,DDD-ft.com.json,name,name,0.81390655
+33,mediated_schema,DDD-ft.com.json,founded year,founding_year,0.5833784
+34,mediated_schema,DDD-ft.com.json,revenue,revenue_2020_euro,0.5070129
+35,mediated_schema,DDD-ft.com.json,revenue,revenue_2017_euro,0.5070129
+36,mediated_schema,DDD-ft.com.json,employees,number_of_employees_2020,0.42930868
+37,mediated_schema,DDD-ft.com.json,employees,number_of_employees_2017,0.42930868
+38,mediated_schema,DeBiGa-globaldata.json,industry,industry,0.8582887
+39,mediated_schema,DeBiGa-globaldata.json,revenue,revenue,0.85583776
+40,mediated_schema,DeBiGa-globaldata.json,address,address,0.85583776
+41,mediated_schema,DeBiGa-globaldata.json,website,website,0.85583776
+42,mediated_schema,DeBiGa-globaldata.json,name,name,0.8463839
+43,mediated_schema,DeBiGa-globaldata.json,market cap,market_cap,0.6999554
+44,mediated_schema,DeBiGa-globaldata.json,employees,number_of_employees,0.5874554
+45,mediated_schema,IGMM-disfold.json,employees,employees,0.87680936
+46,mediated_schema,IGMM-disfold.json,industry,industry,0.8746163
+47,mediated_schema,IGMM-disfold.json,country,country,0.8721654
+48,mediated_schema,IGMM-disfold.json,revenue,revenue,0.8721654
+49,mediated_schema,IGMM-disfold.json,sector,sector,0.869408
+50,mediated_schema,IGMM-disfold.json,name,name,0.86271155
+51,mediated_schema,IGMM-disfold.json,ceo,ceo,0.8585907
+52,mediated_schema,IGMM-disfold.json,market cap,marketcap,0.73707455
+53,mediated_schema,IGMM-disfold.json,founded year,founded,0.624477
+54,mediated_schema,IGMM-disfold.json,stock,rank,0.36389574
+55,mediated_schema,IGMM-disfold.json,stock,link,0.36389574
+56,mediated_schema,Gren-value.today.json,name,name,0.78547525
+57,mediated_schema,Gren-value.today.json,ceo,CEO,0.7813544
+58,mediated_schema,Gren-value.today.json,employees,employees_number,0.5549471
+59,mediated_schema,Gren-value.today.json,country,headquarters_country,0.45315102
+60,mediated_schema,Gren-value.today.json,revenue,annual_revenue_USD,0.3836827
+61,mediated_schema,Gren-value.today.json,market cap,market_capitalization_2022,0.37118953
+62,mediated_schema,Silvestri-disfold.com.json,country,country,0.8389944
+63,mediated_schema,Silvestri-disfold.com.json,sector,sector,0.836237
+64,mediated_schema,Silvestri-disfold.com.json,stock,stock,0.833112
+65,mediated_schema,Silvestri-disfold.com.json,name,name,0.82954055
+66,mediated_schema,Silvestri-disfold.com.json,market cap,market_value_apr_2022,0.41238374
+67,mediated_schema,Gren-ft.com.json,country,country,0.8383811
+68,mediated_schema,Gren-ft.com.json,sector,sector,0.83562374
+69,mediated_schema,Gren-ft.com.json,name,name,0.8289273
+70,mediated_schema,Gren-ft.com.json,founded year,founding_year,0.5983991
+71,mediated_schema,Gren-ft.com.json,revenue,revenue_2020_EU,0.548071
+72,mediated_schema,Gren-ft.com.json,revenue,revenue_2017_EU,0.548071
+73,mediated_schema,Gren-ft.com.json,employees,employees_number_2020,0.5372046
+74,mediated_schema,Gren-ft.com.json,employees,employees_number_2017,0.5372046
+75,mediated_schema,MarScoToc-disfold.com.json,industry,Industry,0.84136695
+76,mediated_schema,MarScoToc-disfold.com.json,country,Country,0.838916
+77,mediated_schema,MarScoToc-disfold.com.json,sector,Sector,0.83615863
+78,mediated_schema,MarScoToc-disfold.com.json,name,Name,0.8294622
+79,mediated_schema,MarScoToc-disfold.com.json,market cap,MasterCap,0.47863007
+80,mediated_schema,MarScoToc-wikipedia.org.json,industry,Industry,0.7953196
+81,mediated_schema,MarScoToc-wikipedia.org.json,name,Name,0.78341484
+82,mediated_schema,MarScoToc-wikipedia.org.json,founded year,Founded,0.5451803
+83,mediated_schema,MarScoToc-wikipedia.org.json,address,headQuarters,0.22020817
+84,mediated_schema,Slytherin-disfold.com.json,employees,employees,0.82135385
+85,mediated_schema,Slytherin-disfold.com.json,name,name,0.80725604
+86,mediated_schema,Slytherin-disfold.com.json,ceo,ceo,0.8031352
+87,mediated_schema,Slytherin-disfold.com.json,market cap,market_cap,0.6608275
+88,mediated_schema,Slytherin-disfold.com.json,stock,link,0.30844027
+89,mediated_schema,FR-forbes.json,industry,Industry,0.816979
+90,mediated_schema,FR-forbes.json,revenue,Revenue,0.81452805
+91,mediated_schema,FR-forbes.json,name,Name,0.8050742
+92,mediated_schema,FR-forbes.json,founded year,Founded,0.5668397
+93,mediated_schema,MarScoToc-ambitionbox.com.json,industry,Industry,0.7971244
+94,mediated_schema,MarScoToc-ambitionbox.com.json,name,Name,0.7852196
+95,mediated_schema,MarScoToc-ambitionbox.com.json,founded year,Foundation Year,0.5709462
+96,mediated_schema,MarScoToc-ambitionbox.com.json,ceo,Ownership,0.24504107
+97,mediated_schema,MarScoToc-ambitionbox.com.json,sector,Headquarter,0.23100471
+98,mediated_schema,DeBiGa-govuk_bigsize.json,name,name,0.75286007
+99,mediated_schema,DeBiGa-govuk_bigsize.json,address,registered_office_address,0.37587598
+100,mediated_schema,DeBiGa-govuk_bigsize.json,country,company_type,0.23313166
+101,mediated_schema,Wissel-info-clipper.com.json,country,Country,0.8146821
+102,mediated_schema,Wissel-info-clipper.com.json,name,Name,0.8052283
+103,mediated_schema,Wissel-info-clipper.com.json,city,City,0.8052283
+104,mediated_schema,Wissel-info-clipper.com.json,address,Address Name,0.5669937
+105,mediated_schema,Wissel-info-clipper.com.json,industry,INDEX,0.40648246
+106,mediated_schema,Wissel-info-clipper.com.json,stock,State,0.36832356
+107,mediated_schema,GioPonSpiz-disfold.json,industry,industry,0.8668362
+108,mediated_schema,GioPonSpiz-disfold.json,country,country,0.86438525
+109,mediated_schema,GioPonSpiz-disfold.json,sector,sector,0.8616278
+110,mediated_schema,GioPonSpiz-disfold.json,stock,stock,0.85850286
+111,mediated_schema,GioPonSpiz-disfold.json,name,name,0.85493135
+112,mediated_schema,GioPonSpiz-disfold.json,market cap,marketCap,0.7292944
+113,mediated_schema,Silvestri-ft.com.json,country,country,0.8454546
+114,mediated_schema,Silvestri-ft.com.json,sector,sector,0.84269726
+115,mediated_schema,Silvestri-ft.com.json,name,name,0.8360008
+116,mediated_schema,Silvestri-ft.com.json,employees,employees_2017,0.6356963
+117,mediated_schema,Silvestri-ft.com.json,employees,employees_2020,0.6356963
+118,mediated_schema,Silvestri-ft.com.json,founded year,founding_year,0.60547256
+119,mediated_schema,Silvestri-ft.com.json,revenue,revenue_2017,0.60181475
+120,mediated_schema,Silvestri-ft.com.json,revenue,revenue_2020,0.60181475
+121,mediated_schema,Slytherin-value.today.json,industry,industry,0.8498168
+122,mediated_schema,Slytherin-value.today.json,country,country,0.84736586
+123,mediated_schema,Slytherin-value.today.json,revenue,revenue,0.84736586
+124,mediated_schema,Slytherin-value.today.json,name,name,0.837912
+125,mediated_schema,Slytherin-value.today.json,ceo,ceo,0.8337912
+126,mediated_schema,Slytherin-value.today.json,founded year,founded,0.59967744
+127,mediated_schema,Slytherin-value.today.json,stock,link,0.3390962
+128,mediated_schema,Slytherin-value.today.json,stock,rank,0.3390962
+129,mediated_schema,IGMM-companiesmarketcap.json,country,country,0.81172544
+130,mediated_schema,IGMM-companiesmarketcap.json,name,name,0.8022716
+131,mediated_schema,IGMM-companiesmarketcap.json,share price,sharePrice,0.6887699
+132,mediated_schema,IGMM-companiesmarketcap.json,market cap,marketcap,0.6766346
+133,mediated_schema,IGMM-companiesmarketcap.json,stock,rank,0.30345583
+134,mediated_schema,IGMM-companiesmarketcap.json,employees,categories,0.29536372
+135,mediated_schema,IGMM-companiesmarketcap.json,founded year,change(1year),0.2636975
+136,mediated_schema,IGMM-value.today.json,name,name,0.79342306
+137,mediated_schema,IGMM-value.today.json,ceo,ceo,0.78930223
+138,mediated_schema,IGMM-value.today.json,employees,number of employees,0.5449112
+139,mediated_schema,IGMM-value.today.json,website,company website,0.532892
+140,mediated_schema,IGMM-value.today.json,country,headquarters country,0.47173715
+141,mediated_schema,IGMM-value.today.json,market cap,market value (Jan-07-2022),0.3791374
+142,mediated_schema,IGMM-value.today.json,revenue,annual revenue in USD,0.37824452
+143,mediated_schema,IGMM-value.today.json,address,company business,0.3127568
+144,mediated_schema,Slytherin-forbes.com.json,employees,employees,0.8731331
+145,mediated_schema,Slytherin-forbes.com.json,industry,industry,0.8709401
+146,mediated_schema,Slytherin-forbes.com.json,country,country,0.86848915
+147,mediated_schema,Slytherin-forbes.com.json,revenue,revenue,0.86848915
+148,mediated_schema,Slytherin-forbes.com.json,name,name,0.8590353
+149,mediated_schema,Slytherin-forbes.com.json,ceo,ceo,0.8549145
+150,mediated_schema,Slytherin-forbes.com.json,founded year,founded,0.62080073
+151,mediated_schema,Slytherin-forbes.com.json,stock,link,0.3602195
+152,mediated_schema,DDD-cbinsight.com.json,industry,industry,0.8264054
+153,mediated_schema,DDD-cbinsight.com.json,country,country,0.82395446
+154,mediated_schema,DDD-cbinsight.com.json,name,name,0.81450063
+155,mediated_schema,DDD-cbinsight.com.json,city,city,0.81450063
+156,mediated_schema,DDD-cbinsight.com.json,founded year,founded,0.5762661
+157,mediated_schema,DDD-cbinsight.com.json,stock,stage,0.3775959
+158,mediated_schema,FR-valuetoday.json,founded year,Founded Year,0.8572021
+159,mediated_schema,FR-valuetoday.json,country,Country,0.84717536
+160,mediated_schema,FR-valuetoday.json,name,Name,0.8377215
+161,mediated_schema,FR-valuetoday.json,ceo,CEO,0.8336007
+162,mediated_schema,FR-valuetoday.json,employees,Number of Employees,0.5892097
+163,mediated_schema,FR-valuetoday.json,market cap,Market Value,0.5533809
+164,mediated_schema,Avengers-valueToday.json,name,name,0.7804602
+165,mediated_schema,Avengers-valueToday.json,ceo,ceo,0.77633935
+166,mediated_schema,Avengers-valueToday.json,employees,number_of_employees,0.52153164
+167,mediated_schema,Avengers-valueToday.json,website,company_website,0.50802433
+168,mediated_schema,Avengers-valueToday.json,founded year,founders,0.4715316
+169,mediated_schema,Avengers-valueToday.json,country,headquarters_country,0.44813594
+170,mediated_schema,Avengers-valueToday.json,revenue,annual_revenue_in_usd,0.35486495
+171,mediated_schema,Avengers-valueToday.json,city,headquarters_region_city,0.31319827
+172,mediated_schema,Avengers-valueToday.json,address,company_business,0.2997939
+173,mediated_schema,Avengers-valueToday.json,stock,world_rank,0.23666319
+174,mediated_schema,Slytherin-ft.com.json,employees,employees,0.85876745
+175,mediated_schema,Slytherin-ft.com.json,industry,industry,0.8565744
+176,mediated_schema,Slytherin-ft.com.json,country,country,0.8541235
+177,mediated_schema,Slytherin-ft.com.json,revenue,revenue,0.8541235
+178,mediated_schema,Slytherin-ft.com.json,name,name,0.84466964
+179,mediated_schema,Slytherin-ft.com.json,founded year,founded,0.6064351
+180,mediated_schema,Slytherin-ft.com.json,stock,link,0.34585387
+181,mediated_schema,GioPonSpiz-valueToday2.json,country,country,0.8242457
+182,mediated_schema,GioPonSpiz-valueToday2.json,name,name,0.81479186
+183,mediated_schema,GioPonSpiz-valueToday2.json,ceo,CEO,0.81067103
+184,mediated_schema,GioPonSpiz-valueToday2.json,market cap,marketCap,0.68915486
+185,mediated_schema,GioPonSpiz-valueToday2.json,stock,world_rank,0.2709949
+186,mediated_schema,Wissel-gov.uk.json,name,Name,0.756018
+187,mediated_schema,Wissel-gov.uk.json,address,Office Address,0.51032114
+188,mediated_schema,Wissel-gov.uk.json,revenue,Registration Date,0.25764143
+189,mediated_schema,Wissel-gov.uk.json,country,Company ID,0.24942215
+190,mediated_schema,Wissel-gov.uk.json,industry,ID,0.23651254
+191,mediated_schema,Avengers-disfold.json,employees,employees,0.82618636
+192,mediated_schema,Avengers-disfold.json,name,name,0.81208855
+193,mediated_schema,Avengers-disfold.json,ceo,ceo,0.8079677
+194,mediated_schema,Avengers-disfold.json,market cap,market_cap,0.66566
+195,mediated_schema,Avengers-disfold.json,founded year,founded,0.57385397
+196,mediated_schema,Avengers-disfold.json,country,headquarters_country,0.47976434
+197,mediated_schema,GioPonSpiz-wiki.json,industry,Industry,0.82009614
+198,mediated_schema,GioPonSpiz-wiki.json,sector,Sector,0.8148879
+199,mediated_schema,GioPonSpiz-wiki.json,name,Name,0.8081914
+200,mediated_schema,GioPonSpiz-wiki.json,founded year,Founded,0.56995684
+201,mediated_schema,FR-followers.json,name,Name,0.7454567
+202,mediated_schema,FR-followers.json,industry,Instagram,0.23886088
+203,mediated_schema,FR-followers.json,sector,Twitter,0.21391231
+204,mediated_schema,FR-followers.json,stock,Facebook,0.21391231
+205,mediated_schema,FR-followers.json,address,Pinterest,0.1990282
+206,mediated_schema,DDD-companiesmarketcap.com.json,country,country,0.8135256
+207,mediated_schema,DDD-companiesmarketcap.com.json,name,name,0.8040718
+208,mediated_schema,DDD-companiesmarketcap.com.json,market cap,marketcap,0.6784348
+209,mediated_schema,DDD-companiesmarketcap.com.json,share price,share_price,0.6708301
+210,mediated_schema,DDD-companiesmarketcap.com.json,stock,rank,0.30525598
+211,mediated_schema,DDD-companiesmarketcap.com.json,employees,categories,0.29716387
+212,mediated_schema,FR-sole24ore.json,employees,Employees,0.8575472
+213,mediated_schema,FR-sole24ore.json,industry,Industry,0.8553542
+214,mediated_schema,FR-sole24ore.json,address,Address,0.85290325
+215,mediated_schema,FR-sole24ore.json,name,Name,0.8434494
+216,mediated_schema,FR-sole24ore.json,city,City,0.8434494
+217,mediated_schema,MalPatSaj-wikipedia.org.json,industry,Industry,0.81880397
+218,mediated_schema,MalPatSaj-wikipedia.org.json,sector,Sector,0.81359565
+219,mediated_schema,MalPatSaj-wikipedia.org.json,name,Name,0.8068992
+220,mediated_schema,MalPatSaj-wikipedia.org.json,founded year,Founded,0.5686646
+221,mediated_schema,MalPatSaj-wikipedia.org.json,employees,Notes,0.3392288
+222,mediated_schema,Gren-companiesmarketcap.com.json,country,country,0.80224824
+223,mediated_schema,Gren-companiesmarketcap.com.json,name,name,0.7927944
+224,mediated_schema,Gren-companiesmarketcap.com.json,share price,price,0.51303256
+225,mediated_schema,Gren-companiesmarketcap.com.json,market cap,market_capitalization_USD,0.38494396
+226,mediated_schema,IGMM-cbinsights.json,industry,industry,0.8249593
+227,mediated_schema,IGMM-cbinsights.json,country,country,0.82250834
+228,mediated_schema,IGMM-cbinsights.json,name,name,0.8130545
+229,mediated_schema,IGMM-cbinsights.json,city,city,0.8130545
+230,mediated_schema,IGMM-cbinsights.json,sector,selectinvestors,0.3930487
+231,mediated_schema,DeBiGa-disfold.json,employees,employees,0.89425164
+232,mediated_schema,DeBiGa-disfold.json,industry,industry,0.8920586
+233,mediated_schema,DeBiGa-disfold.json,country,country,0.88960767
+234,mediated_schema,DeBiGa-disfold.json,sector,sector,0.8868503
+235,mediated_schema,DeBiGa-disfold.json,stock,stock,0.8837253
+236,mediated_schema,DeBiGa-disfold.json,name,name,0.88015383
+237,mediated_schema,DeBiGa-disfold.json,ceo,ceo,0.876033
+238,mediated_schema,DeBiGa-disfold.json,market cap,market_cap,0.7337253
+239,mediated_schema,DeBiGa-disfold.json,founded year,founded,0.6419193
+240,mediated_schema,MalPatSaj-forbes.com.json,country,Country,0.8013772
+241,mediated_schema,MalPatSaj-forbes.com.json,name,Name,0.79192334
+242,mediated_schema,MalPatSaj-forbes.com.json,market cap,Market Value,0.5075827
+243,mediated_schema,MalPatSaj-forbes.com.json,employees,Sales,0.3307889
+244,mediated_schema,MalPatSaj-forbes.com.json,address,Assets,0.31920245
+245,mediated_schema,Silvestri-forbes.com.json,country,country,0.8053619
+246,mediated_schema,Silvestri-forbes.com.json,name,name,0.7959081
+247,mediated_schema,Silvestri-forbes.com.json,revenue,revenue_2022,0.5617221
+248,mediated_schema,Silvestri-forbes.com.json,market cap,market_value_apr_2022,0.37875128
+249,mediated_schema,DeBiGa-wiki.json,industry,industry,0.8281041
+250,mediated_schema,DeBiGa-wiki.json,revenue,revenue,0.82565314
+251,mediated_schema,DeBiGa-wiki.json,website,website,0.82565314
+252,mediated_schema,DeBiGa-wiki.json,name,name,0.8161993
+253,mediated_schema,DeBiGa-wiki.json,founded year,founded,0.5779647
+254,mediated_schema,DeBiGa-wiki.json,employees,number_of_employees,0.55727077
+255,mediated_schema,DeBiGa-wiki.json,sector,services,0.340359
+256,mediated_schema,Avengers-companiesMarketCap.json,country,country,0.81272614
+257,mediated_schema,Avengers-companiesMarketCap.json,name,name,0.8032723
+258,mediated_schema,Avengers-companiesMarketCap.json,share price,share_price,0.6700306
+259,mediated_schema,Avengers-companiesMarketCap.json,market cap,market_cap,0.6568438
+260,mediated_schema,Avengers-companiesMarketCap.json,founded year,change_1_year,0.36699703
+261,mediated_schema,Avengers-companiesMarketCap.json,stock,rank,0.3044565
+262,mediated_schema,Avengers-companiesMarketCap.json,employees,categories,0.2963644
+263,mediated_schema,Avengers-hitHorizons.json,industry,industry,0.79941416
+264,mediated_schema,Avengers-hitHorizons.json,address,address,0.7969632
+265,mediated_schema,Avengers-hitHorizons.json,name,name,0.7875094
+266,mediated_schema,Avengers-hitHorizons.json,share price,sic_code,0.26778096
+267,mediated_schema,Avengers-hitHorizons.json,employees,sic_code,0.26740003
+268,mediated_schema,FR-disfold.json,employees,Employees,0.82482255
+269,mediated_schema,FR-disfold.json,name,Name,0.81072474
+270,mediated_schema,FR-disfold.json,ceo,CEO,0.8066039
+271,mediated_schema,FR-disfold.json,founded year,Founded,0.57249016
+272,mediated_schema,FR-disfold.json,sector,Top Competitor,0.35179618
+273,mediated_schema,MarScoToc-companiesmarketcap.com.json,share price,Share Price,0.8300766
+274,mediated_schema,MarScoToc-companiesmarketcap.com.json,country,Country,0.8216732
+275,mediated_schema,MarScoToc-companiesmarketcap.com.json,name,Name,0.8122194
+276,mediated_schema,MarScoToc-companiesmarketcap.com.json,market cap,Master Cap,0.50329083
+277,mediated_schema,MarScoToc-companiesmarketcap.com.json,stock,Rank,0.3134036
+278,mediated_schema,DDD-teamblind.com.json,industry,industry,0.8210055
+279,mediated_schema,DDD-teamblind.com.json,website,website,0.8185546
+280,mediated_schema,DDD-teamblind.com.json,name,name,0.80910075
+281,mediated_schema,DDD-teamblind.com.json,founded year,founded,0.5708662
+282,mediated_schema,DDD-teamblind.com.json,employees,size,0.32122836
+283,mediated_schema,Wissel-companiesmarketcap.com.json,share price,Share price,0.8359776
+284,mediated_schema,Wissel-companiesmarketcap.com.json,employees,Employees,0.8322182
+285,mediated_schema,Wissel-companiesmarketcap.com.json,revenue,Revenue,0.82757425
+286,mediated_schema,Wissel-companiesmarketcap.com.json,name,Name,0.8181204
+287,mediated_schema,Wissel-companiesmarketcap.com.json,market cap,Marketcap,0.6924834
+288,mediated_schema,Wissel-companiesmarketcap.com.json,country,Category,0.39387232
+289,mediated_schema,FR-ft.json,country,Country,0.8154974
+290,mediated_schema,FR-ft.json,sector,Sector,0.8127401
+291,mediated_schema,FR-ft.json,name,Name,0.8060436
+292,mediated_schema,FR-ft.json,founded year,Founding Year,0.62110937
+293,mediated_schema,FR-ft.json,revenue,Revenue 2020 (â¬),0.4843277
+294,mediated_schema,FR-ft.json,revenue,Revenue 2017 (â¬),0.4843277
+295,mediated_schema,FR-ft.json,employees,Number of employees 2020,0.43087974
+296,mediated_schema,FR-ft.json,employees,Number of employees 2017,0.43087974
+297,mediated_schema,FR-ft.json,stock,Rank,0.3072278
+298,mediated_schema,FR-famcap_germany.json,employees,Employees,0.81543636
+299,mediated_schema,FR-famcap_germany.json,website,Website,0.8107924
+300,mediated_schema,FR-famcap_germany.json,sector,Sector,0.808035
+301,mediated_schema,FR-famcap_germany.json,name,Name,0.80133855
+302,mediated_schema,FR-famcap_germany.json,founded year,Founded,0.563104
+303,mediated_schema,FR-famcap_germany.json,revenue,Revenues 2018 $m,0.50370413
+304,mediated_schema,FR-famcap_germany.json,stock,Rank,0.30252275
+305,mediated_schema,FR-famcap_germany.json,market cap,Family ownership,0.21433029
+306,mediated_schema,MalPatSaj-companiesmarketcap.com.json,country,Country,0.8150261
+307,mediated_schema,MalPatSaj-companiesmarketcap.com.json,name,Name,0.8055723
+308,mediated_schema,MalPatSaj-companiesmarketcap.com.json,market cap,MarketCap,0.6799353
+309,mediated_schema,MalPatSaj-companiesmarketcap.com.json,share price,Price,0.5258104
+310,mediated_schema,MalPatSaj-companiesmarketcap.com.json,stock,Symbol,0.27258462
+311,mediated_schema,FR-company_social_urls.json,name,Name,0.7454567
+312,mediated_schema,FR-company_social_urls.json,industry,Instagram,0.23886088
+313,mediated_schema,FR-company_social_urls.json,sector,Twitter,0.21391231
+314,mediated_schema,FR-company_social_urls.json,stock,Facebook,0.21391231
+315,mediated_schema,FR-company_social_urls.json,address,Pinterest,0.1990282
+316,mediated_schema,GioPonSpiz-marketCap2.json,country,country,0.80115265
+317,mediated_schema,GioPonSpiz-marketCap2.json,name,name,0.7916988
+318,mediated_schema,GioPonSpiz-marketCap2.json,share price,price,0.51193696
+319,mediated_schema,GioPonSpiz-marketCap2.json,market cap,pricecap,0.3565485
+320,mediated_schema,FR-campaignindia.json,name,NAME,0.7665095
+321,mediated_schema,FR-campaignindia.json,market cap,MAIN MARKET,0.45110655
+322,mediated_schema,FR-campaignindia.json,country,CATEGORY,0.34226137
+323,mediated_schema,FR-campaignindia.json,stock,RANK,0.26769364

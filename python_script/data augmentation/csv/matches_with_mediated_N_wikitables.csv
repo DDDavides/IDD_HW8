@@ -1,0 +1,64 @@
+,table_1,table_2,column_table_1,column_table_2,match_value
+0,mediated_schema,5a70a301c868a712fd7511ce,sector,ICB Sector,0.52741545
+1,mediated_schema,5a70a301c868a712fd7511ce,market cap,Market Capitalization EUR as 31 March 2016,0.34296376
+2,mediated_schema,5a70a301c868a712fd7511ce,country,Company,0.3311736
+3,mediated_schema,5a70a301c868a712fd7511ce,website,ISIN (and link to quote webpage),0.1379123
+4,mediated_schema,5a708ca3c868a712fd72c735,country,Make Country,0.5306536
+5,mediated_schema,5a708ca3c868a712fd72c735,market cap,Make,0.26087084
+6,mediated_schema,5a70aa27c868a712fd75b3a4,country,Country,0.7636224
+7,mediated_schema,5a70aa27c868a712fd75b3a4,ceo,ICAO,0.27827877
+8,mediated_schema,5a70aa27c868a712fd75b3a4,name,Airline,0.23730992
+9,mediated_schema,5a709ca3c868a712fd746a77,country,Company,0.3149532
+10,mediated_schema,5a709ca3c868a712fd746a77,stock,GICS,0.21101084
+11,mediated_schema,5a709ca3c868a712fd746a77,address,GICS,0.21020937
+12,mediated_schema,5a708e81c868a712fd72ec57,industry,Industry,0.8081553
+13,mediated_schema,5a708e81c868a712fd72ec57,name,Name,0.7962506
+14,mediated_schema,5a708e81c868a712fd72ec57,city,City,0.7962506
+15,mediated_schema,5a708e81c868a712fd72ec57,founded year,Fortune 1000 rank (2014),0.21232201
+16,mediated_schema,5a709ec0c868a712fd749c60,stock,SUV,0.21658348
+17,mediated_schema,5a709ec0c868a712fd749c60,founded year,Years Produced,0.19060004
+18,mediated_schema,5a709ec0c868a712fd749c60,market cap,Manufacturer,0.1863637
+19,mediated_schema,5a708b7ac868a712fd72b7c6,country,Company,0.3126046
+20,mediated_schema,5a708b7ac868a712fd72b7c6,address,Headquarters,0.1615127
+21,mediated_schema,5a7098e5c868a712fd740889,name,Name,0.74995667
+22,mediated_schema,5a7098e5c868a712fd740889,revenue,Registered office,0.25158012
+23,mediated_schema,5a7098e5c868a712fd740889,country,Corporate form,0.21889399
+24,mediated_schema,5a708f2fc868a712fd72f81c,country,Country/Region,0.4592223
+25,mediated_schema,5a708f2fc868a712fd72f81c,name,Airline,0.21245071
+26,mediated_schema,5a7098d3c868a712fd7406d5,sector,Sector,0.76274186
+27,mediated_schema,5a7098d3c868a712fd7406d5,country,Company,0.3439306
+28,mediated_schema,5a7098d3c868a712fd7406d5,stock,GICS,0.23998821
+29,mediated_schema,5a7098d3c868a712fd7406d5,address,GICS,0.23918673
+30,mediated_schema,5a7098f0c868a712fd740a7b,sector,GICS Sector,0.5170696
+31,mediated_schema,5a7098f0c868a712fd740a7b,address,Address of Headquarters,0.42097375
+32,mediated_schema,5a7098f0c868a712fd740a7b,city,Security,0.38380465
+33,mediated_schema,5a708d9fc868a712fd72d9e4,name,Name,0.74549925
+34,mediated_schema,5a708d9fc868a712fd72d9e4,employees,Notes,0.2778289
+35,mediated_schema,5a708e29c868a712fd72e48d,country,Country,0.7661646
+36,mediated_schema,5a708e29c868a712fd72e48d,employees,Notes,0.28904042
+37,mediated_schema,5a70ab31c868a712fd75cc0e,industry,Industry,0.7732797
+38,mediated_schema,5a70ab31c868a712fd75cc0e,revenue,Revenue (billion $),0.4287145
+39,mediated_schema,5a70ab31c868a712fd75cc0e,market cap,Market value (billion $),0.36026803
+40,mediated_schema,5a70ab31c868a712fd75cc0e,country,Company,0.34926012
+41,mediated_schema,5a70ab31c868a712fd75cc0e,address,Headquarters,0.19816825
+42,mediated_schema,5a70a2bac868a712fd75071a,sector,GICS Sector,0.5061672
+43,mediated_schema,5a70a2bac868a712fd75071a,country,Countries listed,0.39490637
+44,mediated_schema,5a70928ec868a712fd7343db,industry,Industry,0.81057465
+45,mediated_schema,5a70928ec868a712fd7343db,name,Name,0.7986698
+46,mediated_schema,5a70928ec868a712fd7343db,ceo,CEO,0.794549
+47,mediated_schema,5a70928ec868a712fd7343db,address,Headquarters,0.23546316
+48,mediated_schema,5a70a031c868a712fd74c51c,sector,Sector,0.7767768
+49,mediated_schema,5a70a031c868a712fd74c51c,name,Name,0.7700803
+50,mediated_schema,5a70a031c868a712fd74c51c,employees,Notes,0.30240998
+51,mediated_schema,5a708b9fc868a712fd72ba3b,name,TSE,0.2447589
+52,mediated_schema,5a708b9fc868a712fd72ba3b,share price,English,0.19407664
+53,mediated_schema,5a709467c868a712fd737622,industry,Industry,0.761254
+54,mediated_schema,5a709467c868a712fd737622,country,Company,0.33723444
+55,mediated_schema,5a709467c868a712fd737622,address,Headquarters,0.18614253
+56,mediated_schema,5a708b9fc868a712fd72ba3c,name,Japanese,0.19135761
+57,mediated_schema,5a708b9fc868a712fd72ba3c,share price,English,0.18933907
+58,mediated_schema,5a708b9fc868a712fd72ba3c,sector,Rōmaji,0.17573261
+59,mediated_schema,5a708b9fc868a712fd72ba36,name,TSE,0.2447589
+60,mediated_schema,5a708b9fc868a712fd72ba36,share price,English,0.19407664
+61,mediated_schema,5a708f2dc868a712fd72f7f0,name,Name,0.7451462
+62,mediated_schema,5a708f2dc868a712fd72f7f0,employees,Notes,0.27747586

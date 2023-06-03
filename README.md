@@ -1,5 +1,7 @@
 # IDD_HW8
 
 ## Pacchetti installati
-* openpyxl
-* xlrd
+* pandas
+* valentine (pip)
+* openpyxl (pip)
+* xlrd (pip)
